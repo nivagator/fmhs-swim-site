@@ -1,0 +1,59 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'FMHS Water Jags'
+theme = 'mainroad'
+
+[Params]
+    description = "FMHS Swim & Dive Booster Club"
+    copyright = "FMHS Water Jags Booster Club"
+    dateformat = "2006-01-02"
+    customCSS = ["css/custom.css"]
+    spiritLink = "https://kristees.biz/collections/swim-and-dive"
+    spiritLinkText = "Kristees FMHS Swim & Dive"
+
+[Params.style.vars]
+    highlightColor = "#073772"
+
+[Params.logo]
+    image = "img/fmhslogo.png"
+    title = "FMHS Water Jags"
+    subtitle = "FMHS Swim & Diver Booster"
+
+[Params.sidebar]
+home = "right"
+list = false
+single = false
+widgets = ["search", "recent", "categories", "taglist", "social"]
+
+[Params.widgets]
+  recent_num = 5 # Set the number of articles in the "Recent articles" widget
+  categories_counter = false # Enable counter for each category in "Categories" widget
+  tags_counter = false # Enable counter for each tag in "Tags" widget
+
+[Params.widgets.social]
+  cached = false # activate cache if true
+  # Enable parts of social widget
+  # facebook = "username"
+  twitter = "fmhswaterjags"
+  # instagram = "username"
+  # linkedin = "username"
+  # telegram = "username"
+  # github = "username"
+  #gitlab = "username"
+  #bitbucket = "username"
+  email = "fmhswaterjags@gmail.com"
+
+[[Params.widgets.social.custom]]
+  title = "Spirit Wear"
+  url = "https://kristees.biz/collections/swim-and-dive"
+
+[[Params.widgets.social.custom]]
+  title = "Member Dues"
+  url = "https://fmhs-swim-dive-booster-club.square.site/"
+
+[Params.widgets.search]
+  cached = false # activate cache if true
+  url = "https://duckduckgo.com/"
+  [Params.widgets.search.input]
+    name = "sitesearch"
+    pre = ""
