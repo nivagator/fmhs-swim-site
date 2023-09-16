@@ -1,0 +1,18 @@
+div.logo {
+    background-image: url(../img/underwater2.jpg);
+    background-position: center; /* Center the image */
+}
+
+img[src$='#floatleft']
+{
+	float:left;
+}
+
+img[src$='#floatright']
+{
+	float:right;
+}
+
+.fc-title {
+    color: white;
+}
