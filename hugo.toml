@@ -57,3 +57,47 @@ widgets = ["search", "recent", "categories", "taglist", "social"]
   [Params.widgets.search.input]
     name = "sitesearch"
     pre = ""
+
+[Menu]
+[[menu.main]]
+    name = 'Home'
+    pageRef = '/'
+    weight = 1
+[[menu.main]]
+    name = 'Roster'
+    pageRef = '/roster'
+    weight = 10
+[[menu.main]]
+    name = 'Coaches'
+    pageRef = '/coaches'
+    weight = 20
+[[menu.main]]
+    name = 'Calendar'
+    pageRef = '/calendar'
+    weight = 30
+[[menu.main]]
+    name = 'Meets'
+    pageRef = '/meets'
+    weight = 31
+[[menu.main]]
+    name = 'Volunteer'
+    pageRef = '/volunteer'
+    weight = 40
+[[menu.main]]
+    name = 'Booster Info'
+    pageRef = '/booster-info'
+    weight = 50
+[[menu.main]]
+    name = 'Photos'
+    pageRef = '/photos'
+    weight = 60
+[[menu.main]]
+    name = 'Spirit Wear'
+    url = 'https://kristees.biz/collections/swim-and-dive'
+    weight = 70
+    [menu.main.params]
+        rel = 'external'
+[[menu.main]]
+    name = 'Forms'
+    pageRef = '/'
+    weight = 80

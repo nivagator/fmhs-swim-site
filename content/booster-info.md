@@ -1,8 +1,6 @@
 +++
 title = 'Booster Info'
 date = 2023-09-15T13:11:50-05:00
-weight = 88
-menu = ["main","footer","side"]
 +++
 
 ## Booster Club Board 2023-2024
