@@ -25,7 +25,7 @@ theme = 'mainroad'
 home = "right"
 list = false
 single = false
-widgets = ["search", "recent", "social"]
+widgets = ["search", "recent","wac","social"]
 
 [Params.widgets]
   recent_num = 5 # Set the number of articles in the "Recent articles" widget
@@ -35,9 +35,10 @@ widgets = ["search", "recent", "social"]
 [Params.widgets.social]
   cached = false # activate cache if true
   # Enable parts of social widget
-  # facebook = "username"
-  twitter = "fmhswaterjags"
-  # instagram = "username"
+  facebook = "fmhswaterjags"
+  twitter = "FMHSWaterJags"
+  twitter2 = "waterpolofmhs"
+  instagram = "fmhswaterjags"
   # linkedin = "username"
   # telegram = "username"
   # github = "username"
@@ -48,10 +49,6 @@ widgets = ["search", "recent", "social"]
 [[Params.widgets.social.custom]]
   title = "Spirit Wear"
   url = "https://kristees.biz/collections/swim-and-dive"
-
-[[Params.widgets.social.custom]]
-  title = "Member Dues"
-  url = "https://fmhs-swim-dive-booster-club.square.site/"
 
 [Params.widgets.search]
   cached = false # activate cache if true
