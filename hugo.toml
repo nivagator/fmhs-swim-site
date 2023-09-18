@@ -10,6 +10,8 @@ theme = 'mainroad'
     customCSS = ["css/custom.css"]
     spiritLink = "https://kristees.biz/collections/swim-and-dive"
     spiritLinkText = "Kristees FMHS Swim & Dive"
+    uil = "UIL Conference 6A, Region 2, District 5"
+    mainSections = ["posts"]
 
 [Params.style.vars]
     highlightColor = "#073772"
@@ -102,7 +104,7 @@ widgets = ["search", "recent", "social"]
         rel = 'external'
 [[menu.main]]
     name = 'Forms'
-    pageRef = '/'
+    pageRef = '/forms'
     weight = 80
 ## 
 # menu footer
@@ -131,5 +133,5 @@ widgets = ["search", "recent", "social"]
         rel = 'external'
 [[menu.footer]]
     name = 'Forms'
-    pageRef = '/'
+    pageRef = '/forms'
     weight = 80
