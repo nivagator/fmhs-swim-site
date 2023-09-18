@@ -2,6 +2,7 @@
 title = 'vs. Frisco Reedy & LHS | Nov 30'
 date = 2023-11-30T16:41:06-05:00
 tags = ["meets"]
+tags_weight = 7
 +++
 Date/Time:Thu, Nov 30, 2023    
 Location: Westside Aquatic Center (WAC)  
