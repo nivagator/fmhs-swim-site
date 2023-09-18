@@ -4,7 +4,7 @@ title = 'FMHS Water Jags'
 theme = 'mainroad'
 
 [Params]
-    description = "FMHS Swim & Dive Booster Club"
+    description = "FMHS Swim & Dive"
     copyright = "FMHS Water Jags Booster Club"
     dateformat = "2006-01-02"
     customCSS = ["css/custom.css"]
@@ -17,13 +17,13 @@ theme = 'mainroad'
 [Params.logo]
     image = "img/fmhslogo.png"
     title = "FMHS Water Jags"
-    subtitle = "FMHS Swim & Diver Booster"
+    subtitle = "FMHS Swim & Dive"
 
 [Params.sidebar]
 home = "right"
 list = false
 single = false
-widgets = ["search", "recent", "categories", "taglist", "social"]
+widgets = ["search", "recent", "social"]
 
 [Params.widgets]
   recent_num = 5 # Set the number of articles in the "Recent articles" widget
@@ -58,6 +58,9 @@ widgets = ["search", "recent", "categories", "taglist", "social"]
     name = "sitesearch"
     pre = ""
 
+##
+# menu
+##
 [Menu]
 [[menu.main]]
     name = 'Home'
@@ -98,6 +101,35 @@ widgets = ["search", "recent", "categories", "taglist", "social"]
     [menu.main.params]
         rel = 'external'
 [[menu.main]]
+    name = 'Forms'
+    pageRef = '/'
+    weight = 80
+## 
+# menu footer
+##
+[[menu.footer]]
+    name = 'Home'
+    pageRef = '/'
+    weight = 1
+[[menu.footer]]
+    name = 'Roster'
+    pageRef = '/roster'
+    weight = 10
+[[menu.footer]]
+    name = 'Volunteer'
+    pageRef = '/volunteer'
+    weight = 40
+[[menu.footer]]
+    name = 'Booster Info'
+    pageRef = '/booster-info'
+    weight = 50
+[[menu.footer]]
+    name = 'Spirit Wear'
+    url = 'https://kristees.biz/collections/swim-and-dive'
+    weight = 70
+    [menu.main.params]
+        rel = 'external'
+[[menu.footer]]
     name = 'Forms'
     pageRef = '/'
     weight = 80
