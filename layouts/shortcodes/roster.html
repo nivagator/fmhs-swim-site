@@ -6,3 +6,10 @@
     <li>{{.lname}}, {{.fname}}</li>
 {{ end }}
 </ul>
+
+<!-- <ul>
+    {{$data := .Site.Data.roster.roster}}
+    {{ range $key, $value := (sort (where $data ".lname" "Greer") ".lname" "asc" )}}
+        <li>{{.lname}}, {{.fname}}</li>
+    {{ end }}
+</ul> -->
