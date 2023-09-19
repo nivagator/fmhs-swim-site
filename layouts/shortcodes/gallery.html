@@ -1,0 +1,33 @@
+<h2>gallery</h2>
+
+<!-- <div class="gallery">
+    <img src="https://picsum.photos/id/1015/600/400.jpg" title="TITLE 1">
+    <img src="https://picsum.photos/id/1039/600/400.jpg" title="TITLE 2">
+    <img src="https://picsum.photos/id/1057/600/400.jpg" title="TITLE 3">
+    <img src="https://picsum.photos/id/106/600/400.jpg" title="TITLE 4">
+    <img src="https://picsum.photos/id/1016/600/400.jpg" title="TITLE 5">
+    <img src="https://picsum.photos/id/1020/600/400.jpg" title="TITLE 6">
+</div> -->
+
+{{ $album := .Get 0 }}
+<div class="gallery">
+{{$data := .Site.Data.albums.albums}}
+{{ range $key, $value := $data }}
+  {{ if in $value.name $album }}
+    {{ range .images}} 
+        <img src="/img/albums/{{$value.path}}/{{.name}}">
+    {{ end }}
+  {{ end }}
+{{ end }}
+</div>
+<!-- https://github.com/gohugoio/hugo/issues/756 -->
+
+<script>
+window.onload = () => {
+    for (let i of document.querySelectorAll(".gallery img")) {
+      i.onclick = () => i.classList.toggle("full");
+    }
+  };
+</script>
+
+<!-- https://code-boxx.com/responsive-image-gallery-html-css/ -->
