@@ -1,0 +1,3 @@
+{{ range .Site.Data.meets }}
+<a href="{{.url}}">{{ .start | time.Format ":date_medium" }} {{.title}}</a> @ {{.location}}<br>
+{{ end }}
