@@ -25,11 +25,11 @@
         
         {{ range first 3 .images}} 
         <div class="column">
-            <img src="/img/albums/{{$value.path}}/{{.name}}" alt="">
+            <a href="/albums/{{$value.path}}"><img src="/img/albums/{{$value.path}}/{{.name}}" alt=""></a>
         </div>
         {{ end }}
         <div class="column">
-            more..
+            <a href="/albums/{{$value.path}}"><img src="/img/more.jpg" alt="more..."></a>
         </div>
     </div>
 {{ end }} 
