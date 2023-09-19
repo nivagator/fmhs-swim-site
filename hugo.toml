@@ -25,7 +25,7 @@ theme = 'mainroad'
 home = "right"
 list = false
 single = false
-widgets = ["search", "recent","wac","social"]
+widgets = ["search", "recent","meets","wac","social"]
 
 [Params.widgets]
   recent_num = 5 # Set the number of articles in the "Recent articles" widget
@@ -79,7 +79,7 @@ widgets = ["search", "recent","wac","social"]
     weight = 30
 [[menu.main]]
     name = 'Meets'
-    pageRef = '/meets'
+    pageRef = '/meet-schedule'
     weight = 31
 [[menu.main]]
     name = 'Volunteer'
@@ -98,11 +98,15 @@ widgets = ["search", "recent","wac","social"]
     url = 'https://kristees.biz/collections/swim-and-dive'
     weight = 70
     [menu.main.params]
-        rel = 'external'
+        external = true
 [[menu.main]]
     name = 'Forms'
     pageRef = '/forms'
     weight = 80
+# [[menu.main]]
+#     name = "sub-menu"
+#     url = '/forms'
+#     parent = "Forms"
 ## 
 # menu footer
 ##
