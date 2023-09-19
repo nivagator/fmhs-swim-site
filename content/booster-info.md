@@ -8,17 +8,17 @@ date = 2023-09-15T13:11:50-05:00
 ||
 :---|:---|:---
 Erin Ross | President | [Email](mailto:mailto:ciarrai@gmail.com)
-Katie Jones | Vice President
-Bob Kruzel | Treasurer
-Edyta Wozniak | Secretary
-Katie Lowe | Member At Large
-Dive Representative | |
+Katie Jones | Vice President | [Email](mailto:swimmom91114@gmail.com)
+Bob Kruzel | Treasurer | [Email](mailto:bobkruzel@yahoo.com)
+Edyta Wozniak | Secretary | [Email](mailto:edyta.wozniak@vp.pl)
+Katie Lowe | Member At Large | [Email](mailto:katielowe02@hotmail.com)
+<!-- Dive Representative | | -->
 
 ## Booster Club Chairs 2023-2024
 
 ||
 ---|---|---
-Liz Ballew | Volunteer Chair
+Liz Ballew | Volunteer Chair | [Email](mailto:ecballew@googlemail.com)
 Angelica Ortiz |  Spirit Wear | [Email](mailto:ruiz.angely@gmail.com)
 Sean Gorman | Meet Meals
 Sara Harshbarger | Banquet Chair
@@ -50,3 +50,7 @@ Trained:
 ## Spirit Wear
 
 Spirit wear can be purchased here: {{< spiritwear P>}}
+
+[Team Snap](https://go.teamsnap.com/565575/home)
+
+[Member Dues](https://fmhs-swim-dive-booster-club.square.site/)
