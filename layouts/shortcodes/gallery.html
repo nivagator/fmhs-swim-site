@@ -1,4 +1,4 @@
-<h2>gallery</h2>
+<h2>Gallery</h2>
 
 <!-- <div class="gallery">
     <img src="https://picsum.photos/id/1015/600/400.jpg" title="TITLE 1">
@@ -9,7 +9,7 @@
     <img src="https://picsum.photos/id/1020/600/400.jpg" title="TITLE 6">
 </div> -->
 
-{{ $album := .Get 0 }}
+<!-- {{ $album := .Get 0 }}
 <div class="gallery">
 {{$data := .Site.Data.albums.albums}}
 {{ range $key, $value := $data }}
@@ -19,8 +19,23 @@
     {{ end }}
   {{ end }}
 {{ end }}
-</div>
+</div> -->
 <!-- https://github.com/gohugoio/hugo/issues/756 -->
+
+{{ $album := .Get 0 }}
+<div class="gallery">
+{{$data := .Site.Data.albums.albums}}
+{{ range $key, $value := where $data ".name" $album }}
+    {{ range .images}} 
+        <img src="/img/albums/{{$value.path}}/{{.name}}">
+    {{ end }}
+{{ end }}
+</div>
+
+
+
+
+
 
 <script>
 window.onload = () => {
