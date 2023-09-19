@@ -1,9 +1,9 @@
 <!-- <h2>Team (Alpha)</h2> -->
-
+<em>Basic, alphabetical roster listing. This can be altered to group by class. This is a placeholder pending further input.</em>
 <ul>
 {{$data := .Site.Data.roster.roster}}
 {{ range $key, $value := (sort $data ".lname" "asc" )}}
-    <li>{{.lname}}, {{.fname}}</li>
+    <li>{{.fname}} {{.lname}}</li>
 {{ end }}
 </ul>
 
