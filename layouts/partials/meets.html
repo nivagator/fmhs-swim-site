@@ -1,5 +1,32 @@
+<h3>option 1 table</h3>
+<table class="meets">
+    <tr>
+        <th>Date</th>
+        <th>Event</th>
+        <th>Opponent</th>
+        <th>Location</th>
+        <!-- <th>Time (CT)</th> -->
+        <!-- <th>Result</th> -->
+        <th>Meet Page</th>
+    </tr>
+    {{ range .Site.Data.meets }}
+    <tr>
+        <!-- <a href="{{.url}}">{{ .start | time.Format ":date_medium" }} {{.title}}</a> @ {{.location}}<br> -->
+        <td>{{ .start | time.Format ":date_long" }}</td>
+        <td>{{.event}}</td>
+        <td><a href="{{.url}}">{{.title}}</a></td>
+        <td>@{{.location}}</td>
+        <!-- <td></td> -->
+        <!-- <td></td> -->
+        <td><a href="{{.url}}">LINK</a></td>
+    </tr>
+    {{ end }}
+</table>
+
+<!-- https://gohugo.io/functions/dateformat/ -->
+
+
+<h3>option 2 list</h3>
 {{ range .Site.Data.meets }}
 <a href="{{.url}}">{{ .start | time.Format ":date_medium" }} {{.title}}</a> @ {{.location}}<br>
 {{ end }}
-
-<!-- https://gohugo.io/functions/dateformat/ -->

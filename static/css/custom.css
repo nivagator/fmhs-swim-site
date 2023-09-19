@@ -126,3 +126,35 @@ transform: none;
       width: 100%;
     }
 }
+
+table.meets {
+    width:100%;
+    margin: auto;
+}
+table.meets th {
+    text-align: left;
+    color: #ffffff;
+    /* background: {{ $highlightColor }}; */
+    background: #073772;
+    border-right: 0px;
+    padding: 8px;
+}
+
+table.meets td {
+    border-right: 0px;
+    padding: 2px 8px ; 
+}
+
+table.meets tr:nth-child(odd) {
+    color:#ffffff;
+    background: #979595;
+}
+
+table.meets tr:nth-child(odd) a {
+    color:#ffffff;
+}
+
+table.meets tr {
+    border-bottom: 1px solid #ddd;
+}
+
