@@ -1,6 +1,6 @@
 +++
 title = 'Season Open Party October 1st'
-date = 2023-10-01T13:45:48-05:00
+date = 2023-09-01T13:45:48-05:00
 +++
 
 ![bowling](/img/bowling.png#floatright)
