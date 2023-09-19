@@ -2,6 +2,7 @@
     {
         "title": "vs. Plano West",
         "type": "meet",
+        "event": "",
         "url": "../meets/20230923-plano-west", 
         "location": "WAC",
         "start": "2023-09-28"
@@ -9,6 +10,7 @@
     {
         "title": "vs. Keller Timbercreek",
         "type": "meet",
+        "event": "",
         "url": "../meets/20231012-keller-timbercreek",
         "location": "WAC",
         "start": "2023-10-12"
@@ -16,6 +18,7 @@
     {
         "title": "vs. Jesuit/Ursaline",
         "type": "meet",
+        "event": "",
         "url": "../meets/20231024-jesuit-ursaline",
         "location": "WAC",
         "start": "2023-10-24"
@@ -23,6 +26,7 @@
     {
         "title": "vs. Ranger Relays",
         "type": "meet",
+        "event": "",
         "url": "../meets/20231104-ranger-relays",
         "location": "SMU",
         "start": "2023-11-04"
@@ -30,6 +34,7 @@
     {
         "title": "vs. Coppell",
         "type": "meet",
+        "event": "",
         "url": "../meets/20231109-coppell",
         "location": "WAC",
         "start": "2023-11-09"
@@ -37,6 +42,7 @@
     {
         "title": "TISCA",
         "type": "meet",
+        "event": "",
         "url": "../meets/20231117-tisca",
         "location": "WAC",
         "start": "2023-11-17",
@@ -45,13 +51,15 @@
     {
         "title": "vs. Frisco Reedy & LHS",
         "type": "meet",
+        "event": "",
         "url": "../meets/20231130-frisco-reedy-lhs",
         "location": "WAC",
         "start": "2023-11-30"
     },
     {
-        "title": "vs. Marcus - Senior Night",
+        "title": "vs. Marcus",
         "type": "meet",
+        "event": "Senior Night",
         "url": "../meets/20231213-marcus",
         "location": "WAC",
         "start": "2023-12-13"
@@ -59,6 +67,7 @@
     {
         "title": "Kyle Tilley Invitational",
         "type": "meet",
+        "event": "",
         "url": "../meets/20240113-kyle-tilley",
         "location": "WAC",
         "start": "2024-01-13"
@@ -66,6 +75,7 @@
     {
         "title": "Districts",
         "type": "meet",
+        "event": "",
         "url": "../meets/20240127-district",
         "location": "WAC",
         "start": "2024-01-27"
@@ -73,6 +83,7 @@
     {
         "title": "Regionals",
         "type": "meet",
+        "event": "",
         "url": "../meets/20240209-regionals",
         "location": "WAC",
         "start": "2024-02-09",
@@ -81,6 +92,7 @@
     {
         "title": "State",
         "type": "meet",
+        "event": "",
         "url": "../meets/20240223-state",
         "location": "TBD",
         "start": "2024-02-23",
