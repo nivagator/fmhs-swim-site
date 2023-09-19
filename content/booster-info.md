@@ -36,3 +36,5 @@ Senior Night Assistants | June & Eva |
 
 ### Booster Club Meeting Minutes
 *insert meeting minutes as available*
+
+- August 29th, 2023 - {{< target-blank "Parent Meeting Slides" "https://docs.google.com/presentation/d/18tc5ilG2TtV_BhcdIW0HM7P9Cz1LaPNJ-3I4ADjCLEU/edit#slide=id.p1">}}
