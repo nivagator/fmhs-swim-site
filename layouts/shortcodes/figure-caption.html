@@ -1,0 +1,11 @@
+{{ if .Title }}
+  <figure>
+    <img src="{{ .Destination | safeURL }}" alt="{{ .Text }}">
+    <figcaption style="text-align: center">{{ .Title }}</figcaption>
+  </figure>
+{{ else }}
+  <img src="{{ .Destination | safeURL }}" alt="{{ .Text }}">
+{{ end }}
+
+<!-- move to /layouts/_default/_markup/render-image.html to override the default markdown renderer -->
+<!-- https://sebastiandedeyne.com/captioned-images-with-markdown-render-hooks-in-hugo/ -->
