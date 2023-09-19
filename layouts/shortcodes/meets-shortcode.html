@@ -1,0 +1,7 @@
+<!-- {{ range .Site.Data.meets }}
+<a href="{{.url}}">{{.start}} {{.title}}</a> @ {{.location}}<br>
+{{ end }} -->
+
+{{ partial "meets.html" .Page }}
+
+<!-- https://discourse.gohugo.io/t/use-a-partial-inside-a-markdown-file/34831/6 -->
