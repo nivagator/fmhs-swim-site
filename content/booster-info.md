@@ -3,54 +3,36 @@ title = 'Booster Info'
 date = 2023-09-15T13:11:50-05:00
 +++
 
-## Booster Club Board 2023-2024
-[Board Email](mailto:fmhswaterjags@gmail.com)
-||
-:---|:---|:---
-Erin Ross | President | [Email](mailto:mailto:ciarrai@gmail.com)
-Katie Jones | Vice President | [Email](mailto:swimmom91114@gmail.com)
-Bob Kruzel | Treasurer | [Email](mailto:bobkruzel@yahoo.com)
-Edyta Wozniak | Secretary | [Email](mailto:edyta.wozniak@vp.pl)
-Katie Lowe | Member At Large | [Email](mailto:katielowe02@hotmail.com)
-<!-- Dive Representative | | -->
-
-## Booster Club Chairs 2023-2024
-
-||
----|---|---
-Liz Ballew | Volunteer Chair | [Email](mailto:ecballew@googlemail.com)
-Angelica Ortiz |  Spirit Wear | [Email](mailto:ruiz.angely@gmail.com)
-Sean Gorman | Meet Meals
-Sara Harshbarger | Banquet Chair
-Jessica Arrington | Senior Night Chair
-June & Eva | Senior Night Assistants
- 
-## Volunteer Expectations
-Swim and Dive families must volunteer at a minimum of 3 meets unless they are on the Board or a Chair. Water Polo families are required to volunteer at 2 meets  
-
-Signups will be emailed out a week or so before each meet.
-
-Families who do not meet this obligation will be assessed an additional $100.
-
-## Volunteer Opportunities - Meet Roles
-
-Untrained:
-- Timers
-- Runners
-- Safety Marshals
-- Hospitality
-- Meal Delivery
-- Volunteer Check In
-
-Trained:
-- Announcer
-- Hytek
-- Colorado
-
-## Spirit Wear
-
-Spirit wear can be purchased here: {{< spiritwear P>}}
-
 [Team Snap](https://go.teamsnap.com/565575/home)
 
-[Member Dues](https://fmhs-swim-dive-booster-club.square.site/)
+[Pay Member Dues Here](https://fmhs-swim-dive-booster-club.square.site/)
+
+
+### Booster Club Board 2023-2024
+[Email the Board](mailto:fmhswaterjags@gmail.com)  
+*I think this can be better, more formatting to come*
+Positon | Member | Contact
+:---|:---|:---
+President | Erin Ross | [Email](mailto:mailto:ciarrai@gmail.com)
+Vice President | Katie Jones | [Email](mailto:swimmom91114@gmail.com)
+Treasurer | Bob Kruzel | [Email](mailto:bobkruzel@yahoo.com)
+Secretary | Edyta Wozniak | [Email](mailto:edyta.wozniak@vp.pl)
+Member At Large | Katie Lowe | [Email](mailto:katielowe02@hotmail.com)
+<!-- Dive Representative | | -->
+
+### Booster Club Chairs 2023-2024
+
+Positon | Member | Contact
+:---|:---|:---
+Volunteer Chair | Liz Ballew | [Email](mailto:ecballew@googlemail.com)
+Spirit Wear | Angelica Ortiz | [Email](mailto:ruiz.angely@gmail.com)
+Meet Meals | Sean Gorman |
+Banquet Chair | Sara Harshbarger | 
+Senior Night Chair | Jessica Arrington | 
+Senior Night Assistants | June & Eva | 
+ 
+### Booster Club Bylaws
+*insert bylaws*
+
+### Booster Club Meeting Minutes
+*insert meeting minutes as available*
