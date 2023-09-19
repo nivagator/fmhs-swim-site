@@ -1,0 +1,8 @@
+<!-- <h2>Team (Alpha)</h2> -->
+
+<ul>
+{{$data := .Site.Data.roster.roster}}
+{{ range $key, $value := (sort $data ".lname" "asc" )}}
+    <li>{{.lname}}, {{.fname}}</li>
+{{ end }}
+</ul>
