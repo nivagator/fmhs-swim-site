@@ -1,0 +1,35 @@
+<!-- List all items in an album -->
+<!-- 
+{{$data := .Site.Data.albums.albums}}
+{{ range $key, $value := $data }}
+    {{ if eq $value.name "Meet 1"}}
+        {{.name}} - ../img/albums/{{.path}}<br>
+        <ul>
+        {{ range .images}} 
+            <li>../img/albums/{{$value.path}}{{.name}}</li>
+        {{ end }}
+        </ul>
+    {{ end }}
+{{ end }} 
+-->
+
+{{$data := .Site.Data.albums.albums}}
+{{ range $key, $value := $data }}
+    <h3><a href="/albums/{{$value.path}}">{{.name}} - ({{.images | len }})</a></h3>
+    <!-- <ul>
+    {{ range first 4 .images}} 
+        <li>../img/albums/{{$value.path}}{{.name}}</li>
+    {{ end }}
+    </ul> -->
+    <div class="row">
+        
+        {{ range first 3 .images}} 
+        <div class="column">
+            <img src="/img/albums/{{$value.path}}/{{.name}}" alt="">
+        </div>
+        {{ end }}
+        <div class="column">
+            more..
+        </div>
+    </div>
+{{ end }} 
