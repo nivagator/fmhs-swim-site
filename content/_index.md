@@ -3,11 +3,12 @@ title = 'Home'
 date = 2023-09-15T12:53:28-05:00
 +++
 
-# Flower Mound High School Swim & Dive 
+{{<rawhtml>}}
+<h1 style="text-align:center">Flower Mound High School Swim & Dive</h1>
+<h1 style="text-align:center">HOME OF THE JAGUARS</h1>
+{{</rawhtml>}}
 
-# HOME OF THE JAGUARS
-
-## 2023 REGIONAL CHAMPS  
+## 2023 REGIONAL CHAMPS! 
 ![2023 Regional Champs](../img/2023-regionals.jpg "2023 REGIONAL CHAMPS")  
 
 ---

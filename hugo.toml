@@ -4,7 +4,7 @@ title = 'FMHS Water Jags'
 theme = 'mainroad'
 
 [Params]
-    description = "FMHS Swim & Dive"
+    description = "Flower Mound High School Swim & Dive"
     copyright = "FMHS Water Jags Booster Club"
     dateformat = "2006-01-02"
     customCSS = ["css/custom.css"]
@@ -19,7 +19,7 @@ theme = 'mainroad'
 [Params.logo]
     image = "img/fmhslogo.png"
     title = "FMHS Water Jags"
-    subtitle = "FMHS Swim & Dive"
+    subtitle = "Flower Mound High School"
 
 [Params.sidebar]
 home = "right"
