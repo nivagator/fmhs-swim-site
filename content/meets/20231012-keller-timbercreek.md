@@ -5,7 +5,9 @@ tags = ["meets"]
 tags_weight = 2
 +++
 
-Date/Time:Thu, Oct 12, 2023  
-Location: Westside Aquatic Center (WAC)  
-Opponent: Keller Timbercreek 
-Address: 1750 Duncan Ln Lewisville, TX 75067  
+**Date:** Thu, Oct 12, 2023     
+ 
+**Opponent:** Keller Timbercreek    
+
+**Location:**  
+{{< wac-meet-address >}}  
