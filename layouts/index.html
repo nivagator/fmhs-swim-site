@@ -1,12 +1,11 @@
 {{ define "main" }}
 <main class="main list" role="main">
-	{{- with .Content }}
-	<div class="content main__content clearfix">
-		{{ . }}
-	</div>
-	{{- end }}
+
+	<h1 style="text-align:center">Flower Mound High School Swim & Dive</h1>
+	<h1 style="text-align:center">HOME OF THE JAGUARS</h1>
+	<h2>Recent Posts</h2>
 	{{ $paginator := .Paginate (where .Site.RegularPages "Type" "in" .Site.Params.mainSections) }}
-	{{- range $paginator.Pages }}
+	{{- range first 3 $paginator.Pages }}
 		{{- .Render "summary" }}
 	{{- end }}
 	{{- if and (eq $paginator.TotalNumberOfElements 0) (not $.Content) }}
@@ -19,6 +18,11 @@
 			</div>
 		</div>
 	{{ end }}
+	{{- with .Content }}
+	<div class="content main__content clearfix">
+		{{ . }}
+	</div>
+	{{- end }}
 </main>
 {{ partial "pagination.html" . }}
 {{ end }}
