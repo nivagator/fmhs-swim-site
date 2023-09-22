@@ -2,14 +2,14 @@
 title = 'Home'
 date = 2023-09-15T12:53:28-05:00
 +++
-
+<!-- 
 {{<rawhtml>}}
 <h1 style="text-align:center">Flower Mound High School Swim & Dive</h1>
 <h1 style="text-align:center">HOME OF THE JAGUARS</h1>
-{{</rawhtml>}}
+{{</rawhtml>}} -->
 
-## 2023 REGIONAL CHAMPS! 
-![2023 Regional Champs](../img/2023-regionals.jpg "2023 REGIONAL CHAMPS")  
+## Boys & Girls 2023 6A Region 2 Champions! 
+![2023 Regional Champs](../img/2023-region-champs.jpg "2023 REGIONAL CHAMPS")  
 
 ---
 
@@ -17,7 +17,7 @@ date = 2023-09-15T12:53:28-05:00
 ![2023 State Team](../img/2023-state-team.jpeg "2023 STATE TEAM")  
 
 ---
-
+<!-- 
 ## 2022-23 THSCA Regional Coach of the Year   
 **Congratulations Coach Tony!**   
 ![tony arbogast coty](../img/arbogast-coty.jpg)   
@@ -31,5 +31,5 @@ date = 2023-09-15T12:53:28-05:00
 ## 2022-23 THSCA Regional Assistant Coach of the Year   
 ### Congratulations Coach Nick!   
 
----
+--- -->
 
