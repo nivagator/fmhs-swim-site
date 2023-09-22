@@ -1,0 +1,19 @@
+{{$data := .Site.Data.booster.chairs}}
+<table>
+    <tr>
+        <th style="text-align:left">Position</th>
+        <th style="text-align:left">Member</th>
+        <th style="text-align:left">Contact</th>
+    </tr>
+    {{ range $key, $value := $data }}
+    <tr>
+        <td>{{.position}}</td>
+        <td>{{.fname}} {{.lname}}</td>
+        <td> 
+            {{ if .email }}
+            <a href="mailto:{{.email}}">Email</a>
+            {{end}}
+        </td>
+    </tr>
+    {{ end }}
+</table>

@@ -1,0 +1,62 @@
+{
+    "board": [
+        {
+            "fname": "Erin",
+            "lname": "Ross",
+            "email": "rosse@lisd.net",
+            "position": "President"
+        },{
+            "fname": "Katie",
+            "lname": "Jones",
+            "email": "swimmom91114@gmail.com",
+            "position": "Vice President"
+        },{
+            "fname": "Bob",
+            "lname": "Kruzel",
+            "email": "bobkruzel@yahoo.com",
+            "position": "Treasurer"
+        },{
+            "fname": "Edyta",
+            "lname": "Wozniak",
+            "email": "edziawo@gmail.com",
+            "position": "Secretary"
+        },{
+            "fname": "Katie",
+            "lname": "Lowe",
+            "email": "katielowe02@hotmail.com",
+            "position": "Member At Large"
+        }
+    ],
+    "chairs": [
+        {
+            "fname": "Liz",
+            "lname": "Ballew",
+            "email": "ecballew@gmail.com",
+            "position": "Volunteer Chair"
+        },{
+            "fname": "Angelica",
+            "lname": "Ortiz",
+            "email": "ruiz.angely@gmail.com",
+            "position": "Spirit Wear"
+        },{
+            "fname": "Sean",
+            "lname": "Gorman",
+            "email": "seangorman1@gmail.com",
+            "position": "Meet Meals"
+        },{
+            "fname": "Sara",
+            "lname": "Harshbarger",
+            "email": "edziawo@gmail.com",
+            "position": "Banquet Chair"
+        },{
+            "fname": "Jessica",
+            "lname": "Arrington",
+            "email": "teal_the_turtle@yahoo.com",
+            "position": "Senior Night Chair"
+        },{
+            "fname": "June & Eva",
+            "lname": "",
+            "position": "Senior Night Assistants"
+        }
+    ]
+}
