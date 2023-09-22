@@ -50,35 +50,6 @@
       {"type":"file","name":"pexels-vanessa-pozos-18214769 (copy 2).jpg"},
       {"type":"file","name":"pexels-vanessa-pozos-18214769.jpg"}
     ]
-  },
-  {
-    "name": "Polo 1",
-    "path": "polo1",
-    "images": [
-      {"type":"file","name":"pexels-grégory-costa-5733481 (copy 1).jpg"},
-      {"type":"file","name":"pexels-grégory-costa-5733481 (copy 2).jpg"},
-      {"type":"file","name":"pexels-grégory-costa-5733481 (copy 3).jpg"},
-      {"type":"file","name":"pexels-grégory-costa-5733481.jpg"},
-      {"type":"file","name":"pexels-grégory-costa-5733482 (copy 1).jpg"},
-      {"type":"file","name":"pexels-grégory-costa-5733482 (copy 2).jpg"},
-      {"type":"file","name":"pexels-grégory-costa-5733482 (copy 3).jpg"},
-      {"type":"file","name":"pexels-grégory-costa-5733482.jpg"}
-    ]
-  },
-  {
-    "name": "Polo 2",
-    "path": "polo2",
-    "images": [
-      {"type":"file","name":"16468857-e1500927650972-1852493711 (copy 1).jpg"},
-      {"type":"file","name":"16468857-e1500927650972-1852493711 (copy 2).jpg"},
-      {"type":"file","name":"16468857-e1500927650972-1852493711.jpg"},
-      {"type":"file","name":"482252320 (copy 1).jpg"},
-      {"type":"file","name":"482252320 (copy 2).jpg"},
-      {"type":"file","name":"482252320.jpg"},
-      {"type":"file","name":"53147758-3221272953 (copy 1).jpg"},
-      {"type":"file","name":"53147758-3221272953 (copy 2).jpg"},
-      {"type":"file","name":"53147758-3221272953.jpg"}
-    ]
   }]
 }
 
