@@ -1,0 +1,200 @@
+{
+    "events": [
+        {
+            "eventname": "200 Medley Relay",
+            "eventabbr": "200 MR",
+            "stroke": "medley",
+            "eventtype": "relay",
+            "girls": {
+                "name": "M. Pindi, N.Shah, H. Panczyszyn, J. Wozniak",
+                "time": "1:44.57",
+                "year": "2022"
+            },
+            "boys": {
+                "name": "L. Garrett, N. Park, S. Marrujo, P. Jaya",
+                "time": "1:33.20",
+                "year": "2023"
+            }
+        },{
+            "eventname": "200 Freestyle",
+            "eventabbr": "200 FR",
+            "stroke": "free",
+            "eventtype": "individual",
+            "girls": {
+                "name": "S. Porter",
+                "time": "1:49.96",
+                "year": "2017"
+            },
+            "boys": {
+                "name": "L. Garrett",
+                "time": "1:39.31",
+                "year": "2023"
+            }
+        },{
+            "eventname": "200 Individual Medley",
+            "eventabbr": "200 IM",
+            "stroke": "im",
+            "eventtype": "individual",
+            "girls": {
+                "name": "J. Wozniak",
+                "time": "1:58.62",
+                "year": "2022"
+            },
+            "boys": {
+                "name": "S. Chang",
+                "time": "1:53.30",
+                "year": "2016"
+            }
+        },{
+            "eventname": "50 Freestyle",
+            "eventabbr": "50 FR",
+            "stroke": "free",
+            "eventtype": "individual",
+            "girls": {
+                "name": "J. Wozniak",
+                "time": "22.90",
+                "year": "2022"
+            },
+            "boys": {
+                "name": "J. Dwyer",
+                "time": "20.87",
+                "year": "2008"
+            }
+        },{
+            "eventname": "6 Dives",
+            "eventabbr": "6 Dives",
+            "stroke": "dives",
+            "eventtype": "dive",
+            "girls": {
+                "name": "S. Lumbra",
+                "points": "289.90",
+                "year": "2009"
+            },
+            "boys": {
+                "name": "A. Shurtleff",
+                "points": "299.60",
+                "year": "2015"
+            }
+        },{
+            "eventname": "11 Dives",
+            "eventabbr": "11 Dives",
+            "stroke": "dives",
+            "eventtype": "dive",
+            "girls": {
+                "name": "K. Wilson",
+                "points": "464.30",
+                "year": "2018"
+            },
+            "boys": {
+                "name": "A. Shurtleff",
+                "points": "532.25",
+                "year": "2015"
+            }
+        },{
+            "eventname": "100 Butterfly",
+            "eventabbr": "100 Fly",
+            "stroke": "fly",
+            "eventtype": "individual",
+            "girls": {
+                "name": "J. Wozniak",
+                "time": "55.45",
+                "year": "2022"
+            },
+            "boys": {
+                "name": "M. Murphy",
+                "time": "49.89",
+                "year": "2008"
+            }
+        },{
+            "eventname": "100 Freestyle",
+            "eventabbr": "100 FR",
+            "stroke": "free",
+            "eventtype": "individual",
+            "girls": {
+                "name": "M. Gholston",
+                "time": "50.67",
+                "year": "2019"
+            },
+            "boys": {
+                "name": "L. Garrett",
+                "time": "45.39",
+                "year": "2023"
+            }
+        },{
+            "eventname": "500 Freestyle",
+            "eventabbr": "500 FR",
+            "stroke": "free",
+            "eventtype": "individual",
+            "girls": {
+                "name": "M. Gholston",
+                "time": "4:52.75",
+                "year": "2020"
+            },
+            "boys": {
+                "name": "M. Jaya",
+                "time": "4:34.24",
+                "year": "2023"
+            }
+        },{
+            "eventname": "200 Free Relay",
+            "eventabbr": "200 FR Relay",
+            "stroke": "free",
+            "eventtype": "relay",
+            "girls": {
+                "name": "M. Gholston, B. Dalbey, J. Watson, J. Wozniak",
+                "time": "1:35.25",
+                "year": "202"
+            },
+            "boys": {
+                "name": "J. Dwyer, J. Brown, T. Gregory, M. Murphy",
+                "time": "1:24.54",
+                "year": "2008"
+            }
+        },{
+            "eventname": "100 Backstroke",
+            "eventabbr": "100 BK",
+            "stroke": "back",
+            "eventtype": "individual",
+            "girls": {
+                "name": "H. Panczyszyn",
+                "time": "54.63",
+                "year": "2022"
+            },
+            "boys": {
+                "name": "M. Murphy",
+                "time": "49.01",
+                "year": "2009"
+            }
+        },{
+            "eventname": "100 Breaststroke",
+            "eventabbr": "100 BR",
+            "stroke": "breast",
+            "eventtype": "individual",
+            "girls": {
+                "name": "J. Wozniak",
+                "time": "1:01.93",
+                "year": "2022"
+            },
+            "boys": {
+                "name": "J. Wong",
+                "time": "55.92",
+                "year": "2015"
+            }
+        },{
+            "eventname": "400 Free Relay",
+            "eventabbr": "400 FR Relay",
+            "stroke": "free",
+            "eventtype": "individual",
+            "girls": {
+                "name": "M. Gholston, J. Watson, K. Harwell, B. Dalbey",
+                "time": "3:29.99",
+                "year": "2020"
+            },
+            "boys": {
+                "name": "P. Jaya, M. Jaya, S. Marrujo, L. Garrett",
+                "time": "3:06.22",
+                "year": "2023"
+            }
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{{$data := .Site.Data.records.events}}
+<div style="overflow-x: auto;">
+<table class="meets">
+    <tr>
+        <th></th>
+        <th style="text-align: center;"><h3 style="color: white;">Girls</h3></th>
+        <th></th>
+        <th style="text-align: center;"><h3 style="color: white;">Event</h3></th>
+        <th></th>
+        <th style="text-align: center;"><h3 style="color: white;">Boys</h3></th>
+        <th></th>
+    </tr>
+    {{ range $key, $value := $data }}
+    <tr>
+        <td>{{ .girls.year }}</td>
+        <td style="text-align: center;">{{ .girls.name}}</td>
+        <td style="text-align: right;">
+            {{ if .girls.points }}
+                {{.girls.points}}
+            {{ else }}
+                {{.girls.time}}
+            {{ end }}
+        </td>
+        <td style="text-align: center;"><strong>{{ .eventname }}</strong></td>
+        <td>{{.boys.year}}</td>
+        <td style="text-align: center;">{{.boys.name}}</td>
+        <td style="text-align: right;">
+            {{ if .boys.points }}
+                {{.boys.points}}
+            {{ else }}
+                {{.boys.time}}
+            {{ end }}
+        </td>
+    </tr>
+    {{ end }}
+</table>
+</div>
