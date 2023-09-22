@@ -1,11 +1,11 @@
 <!-- <h2>Team (Alpha)</h2> -->
-<em>Basic, alphabetical roster listing. This can be altered to group by class. This is a placeholder pending further input.</em>
-<ul>
+<!-- <em>Basic, alphabetical roster listing. This can be altered to group by class. This is a placeholder pending further input.</em> -->
+<!-- <ul>
 {{$data := .Site.Data.roster.roster}}
 {{ range $key, $value := (sort $data ".lname" "asc" )}}
     <li>{{.fname}} {{.lname}}</li>
 {{ end }}
-</ul>
+</ul> -->
 
 <!-- <ul>
     {{$data := .Site.Data.roster.roster}}
@@ -13,3 +13,38 @@
         <li>{{.lname}}, {{.fname}}</li>
     {{ end }}
 </ul> -->
+
+<div class="row">
+    <div class="col-3 roster"><h2>Seniors</h2>
+        <ul>
+            {{$data := .Site.Data.roster.roster}}
+            {{ range $key, $value := (sort (where $data ".class" "senior") ".lname" "asc" )}}
+                <li>{{.fname}} {{.lname}}</li>
+            {{ end }}
+        </ul>    
+    </div>
+    <div class="col-3 roster"><h2>Juniors</h2>
+        <ul>
+            {{$data := .Site.Data.roster.roster}}
+            {{ range $key, $value := (sort (where $data ".class" "junior") ".lname" "asc" )}}
+                <li>{{.fname}} {{.lname}}</li>
+            {{ end }}
+        </ul>
+    </div>
+    <div class="col-3 roster"><h2>Sophomores</h2>
+        <ul>
+            {{$data := .Site.Data.roster.roster}}
+            {{ range $key, $value := (sort (where $data ".class" "sophomore") ".lname" "asc" )}}
+                <li>{{.fname}} {{.lname}}</li>
+            {{ end }}
+        </ul>
+    </div>
+    <div class="col-3 roster"><h2>Freshmen</h2>
+        <ul>
+            {{$data := .Site.Data.roster.roster}}
+            {{ range $key, $value := (sort (where $data ".class" "freshman") ".lname" "asc" )}}
+                <li>{{.fname}} {{.lname}}</li>
+            {{ end }}
+        </ul>
+    </div>
+</div> 
