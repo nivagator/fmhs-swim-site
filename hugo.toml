@@ -17,7 +17,7 @@ theme = 'mainroad'
     highlightColor = "#073772"
 
 [Params.logo]
-    image = "img/fmhslogo.png"
+    image = "img/fm-swim-dive-logo.png"
     title = "FMHS Water Jags"
     subtitle = "Flower Mound High School"
 
@@ -37,7 +37,7 @@ widgets = ["search", "recent","meets","wac","social"]
   # Enable parts of social widget
   facebook = "fmhswaterjags"
   twitter = "FMHSWaterJags"
-  twitter2 = "waterpolofmhs"
+  # twitter2 = "waterpolofmhs"
   instagram = "fmhswaterjags"
   # linkedin = "username"
   # telegram = "username"
@@ -45,10 +45,6 @@ widgets = ["search", "recent","meets","wac","social"]
   #gitlab = "username"
   #bitbucket = "username"
   email = "fmhswaterjags@gmail.com"
-
-[[Params.widgets.social.custom]]
-  title = "Spirit Wear"
-  url = "https://kristees.biz/collections/swim-and-dive"
 
 [Params.widgets.search]
   cached = false # activate cache if true
