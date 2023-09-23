@@ -1,55 +1,6 @@
 {
-  "albums": [
-    {
-    "name": "Meet 1",
-    "path": "meet1",
-    "images": [
-      {"type":"file","name":"1.jpg"},
-      {"type":"file","name":"1pexels-emily-rose-2062708.jpg"},
-      {"type":"file","name":"1pexels-guduru-ajay-bhargav-863988.jpg"},
-      {"type":"file","name":"1pexels-heart-rules-711187.jpg"},
-      {"type":"file","name":"1pexels-jim-de-ramos-1263348 (copy 2).jpg"},
-      {"type":"file","name":"1pexels-jim-de-ramos-1277211 (copy 1).jpg"},
-      {"type":"file","name":"2pexels-emily-rose-2062708 (copy 1).jpg"},
-      {"type":"file","name":"2pexels-guduru-ajay-bhargav-863988 (copy 1).jpg"},
-      {"type":"file","name":"2pexels-heart-rules-711187 (copy 1).jpg"},
-      {"type":"file","name":"2pexels-jim-de-ramos-1263349.jpg"},
-      {"type":"file","name":"2pexels-jim-de-ramos-1263425 (copy 1).jpg"},
-      {"type":"file","name":"2pexels-jim-de-ramos-1277211 (copy 2).jpg"},
-      {"type":"file","name":"3pexels-emily-rose-2062708 (copy 2).jpg"},
-      {"type":"file","name":"3pexels-heart-rules-711187 (copy 2).jpg"},
-      {"type":"file","name":"3pexels-jim-de-ramos-1263349 (copy 1).jpg"},
-      {"type":"file","name":"3pexels-jim-de-ramos-1263425 (copy 2).jpg"},
-      {"type":"file","name":"4pexels-guduru-ajay-bhargav-863988 (copy 2).jpg"},
-      {"type":"file","name":"4pexels-jim-de-ramos-1263348.jpg"},
-      {"type":"file","name":"4pexels-jim-de-ramos-1263349 (copy 2).jpg"},
-      {"type":"file","name":"4pexels-jim-de-ramos-1277211.jpg"},
-      {"type":"file","name":"5pexels-jim-de-ramos-1263348 (copy 1).jpg"}
-    ]
-  },
-  {
-    "name": "Meet 2",
-    "path": "meet2",
-    "images": [
-      {"type":"file","name":"pexels-mali-maeder-1415809 (copy 1).jpg"},
-      {"type":"file","name":"pexels-mali-maeder-1415809 (copy 2).jpg"},
-      {"type":"file","name":"pexels-mali-maeder-1415809.jpg"},
-      {"type":"file","name":"pexels-nork-photography-2250432 (copy 1).jpg"},
-      {"type":"file","name":"pexels-nork-photography-2250432 (copy 2).jpg"},
-      {"type":"file","name":"pexels-nork-photography-2250432.jpg"},
-      {"type":"file","name":"pexels-pixabay-261060 (copy 1).jpg"},
-      {"type":"file","name":"pexels-pixabay-261060 (copy 2).jpg"},
-      {"type":"file","name":"pexels-pixabay-261060.jpg"},
-      {"type":"file","name":"pexels-pixabay-261185 (copy 1).jpg"},
-      {"type":"file","name":"pexels-pixabay-261185 (copy 2).jpg"},
-      {"type":"file","name":"pexels-pixabay-261185.jpg"},
-      {"type":"file","name":"pexels-pixabay-73760 (copy 1).jpg"},
-      {"type":"file","name":"pexels-pixabay-73760 (copy 2).jpg"},
-      {"type":"file","name":"pexels-pixabay-73760.jpg"},
-      {"type":"file","name":"pexels-vanessa-pozos-18214769 (copy 1).jpg"},
-      {"type":"file","name":"pexels-vanessa-pozos-18214769 (copy 2).jpg"},
-      {"type":"file","name":"pexels-vanessa-pozos-18214769.jpg"}
-    ]
-  }]
+   "albums": [
+  
+  ]
 }
 
