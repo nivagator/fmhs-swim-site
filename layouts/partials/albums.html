@@ -14,6 +14,9 @@
 -->
 
 {{$data := .Site.Data.albums.albums}}
+<!-- uncomment header when we have an album -->
+<!-- <h2>albums</h2>  -->
+
 {{ range $key, $value := $data }}
     <h3><a href="/albums/{{$value.path}}">{{.name}} - ({{.images | len }})</a></h3>
     <!-- <ul>
