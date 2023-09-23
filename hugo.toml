@@ -35,10 +35,10 @@ widgets = ["search", "recent","meets","wac","social"]
 [Params.widgets.social]
   cached = false # activate cache if true
   # Enable parts of social widget
-  facebook = "fmhswaterjags"
-  twitter = "FMHSWaterJags"
+  facebook = "FMHSWaterJag"
+  # twitter = "FMHSWaterJags"
   # twitter2 = "waterpolofmhs"
-  instagram = "fmhswaterjags"
+  instagram = "fmswimdive"
   # linkedin = "username"
   # telegram = "username"
   # github = "username"
