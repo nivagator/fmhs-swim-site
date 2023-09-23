@@ -78,6 +78,10 @@ widgets = ["search", "recent","meets","wac","social"]
     pageRef = '/meet-schedule'
     weight = 31
 [[menu.main]]
+    name = 'Team Records'
+    pageRef = '/records'
+    weight = 32
+[[menu.main]]
     name = 'Volunteer'
     pageRef = '/volunteer'
     weight = 40
