@@ -3,8 +3,6 @@ title = 'Volunteer'
 date = 2023-09-17T22:10:37-05:00
 +++
 
-*Add link and content for volunteer sign up*
-
 ### Family Expectations
 Swim and Dive families must volunteer at a minimum of 3 meets unless they are on the Board or a Chair. Water Polo families are required to volunteer at 2 meets. Families who do not meet this obligation will be assessed an additional $100.
 
