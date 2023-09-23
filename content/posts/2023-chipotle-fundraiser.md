@@ -1,7 +1,6 @@
 +++
 title = 'Chipotle Spirit Night Fundraiser October 17th'
 date = 2023-09-21T18:37:30-05:00
-publishDate = 2023-10-02T01:00:00-00:00
 +++
 Join us and support the Swim and Dive teams on Tuesday, October 17th at Chipotle on the South East corner of Flower Mound Road and Long Prairie Road! Order for pickup or delivery and use code **7KLEWJD** at checkout. See you there!
 
