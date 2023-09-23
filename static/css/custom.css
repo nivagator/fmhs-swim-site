@@ -175,3 +175,9 @@ table.meets tr {
     border-bottom: 1px solid #ddd;
 }
 
+table.board {
+    width: 100%;
+}
+th.board-col {
+    width: 33.33%;
+}

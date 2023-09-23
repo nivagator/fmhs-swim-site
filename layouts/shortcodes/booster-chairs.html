@@ -1,9 +1,9 @@
 {{$data := .Site.Data.booster.chairs}}
-<table>
+<table class="board">
     <tr>
-        <th style="text-align:left">Position</th>
-        <th style="text-align:left">Member</th>
-        <th style="text-align:left">Contact</th>
+        <th class="board-col" style="text-align:left">Position</th>
+        <th class="board-col" style="text-align:left">Member</th>
+        <th class="board-col" style="text-align:left">Contact</th>
     </tr>
     {{ range $key, $value := $data }}
     <tr>
