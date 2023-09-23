@@ -1,4 +1,24 @@
 {{$data := .Site.Data.booster.board}}
+<table>
+    <tr>
+        <th style="text-align:left">Position</th>
+        <th style="text-align:left">Member</th>
+        <th style="text-align:left">Contact</th>
+    </tr>
+    {{ range $key, $value := $data }}
+    <tr>
+        <td>{{.position}}</td>
+        <td>{{.fname}} {{.lname}}</td>
+        <td> 
+            {{ if .email }}
+            <a href="mailto:{{.email}}">{{.email}}</a>
+            {{end}}
+        </td>
+    </tr>
+    {{ end }}
+</table>
+
+<!-- {{$data := .Site.Data.booster.board}}
 <div class="row">
 
     <div class="col-6" style="text-align: center;">
@@ -24,4 +44,4 @@
         <h2 style="margin-bottom: 0px";>Katie Lowe<br><em>Member At Large</em></h2>
         <br style="display:block; height: 4px; content: ' ';"><em><a href="mailto:katielowe02@hotmail.com">Email</a></em>
     </div>
-</div>
+</div> -->
