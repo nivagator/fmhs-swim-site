@@ -6,7 +6,7 @@ Join us and support the Swim and Dive teams on Tuesday, October 17th at Chipotle
 
 <!--more-->
 
-![2023 Chipotle Fundraiser](/img/202310-chipotle-fundraiser.jpg#floatright)
+![2023 Chipotle Fundraiser](/img/202310-chipotle-fundraiser.webp#floatright)
 **Date:** Tuesday, October 17th, 2023  
 **Time:** 5:00PM - 9:00PM  
   

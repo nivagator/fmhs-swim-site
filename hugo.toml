@@ -17,7 +17,7 @@ theme = 'mainroad'
     highlightColor = "#073772"
 
 [Params.logo]
-    image = "img/fm-swim-dive-logo.png"
+    image = "img/logos/fm-swim-dive-logo-200.png"
     title = "FMHS Water Jags"
     subtitle = "Flower Mound High School"
 
