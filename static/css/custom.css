@@ -181,3 +181,12 @@ table.board {
 th.board-col {
     width: 33.33%;
 }
+/* roster list style */
+ul.roster {
+    margin: 0 0 20px 10px;
+    list-style-type: none;
+}
+/* calendar link override */
+span.fc-time {
+	color: #ffffff;
+}

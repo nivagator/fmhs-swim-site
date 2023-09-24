@@ -16,7 +16,7 @@
 
 <div class="row">
     <div class="col-3 roster"><h2>Seniors</h2>
-        <ul>
+        <ul class="roster">
             {{$data := .Site.Data.roster.roster}}
             {{ range $key, $value := (sort (where $data ".class" "senior") ".lname" "asc" )}}
                 <li>{{.fname}} {{.lname}}</li>
@@ -24,7 +24,7 @@
         </ul>    
     </div>
     <div class="col-3 roster"><h2>Juniors</h2>
-        <ul>
+        <ul class="roster">
             {{$data := .Site.Data.roster.roster}}
             {{ range $key, $value := (sort (where $data ".class" "junior") ".lname" "asc" )}}
                 <li>{{.fname}} {{.lname}}</li>
@@ -32,7 +32,7 @@
         </ul>
     </div>
     <div class="col-3 roster"><h2>Sophomores</h2>
-        <ul>
+        <ul class="roster">
             {{$data := .Site.Data.roster.roster}}
             {{ range $key, $value := (sort (where $data ".class" "sophomore") ".lname" "asc" )}}
                 <li>{{.fname}} {{.lname}}</li>
@@ -40,7 +40,7 @@
         </ul>
     </div>
     <div class="col-3 roster"><h2>Freshmen</h2>
-        <ul>
+        <ul class="roster">
             {{$data := .Site.Data.roster.roster}}
             {{ range $key, $value := (sort (where $data ".class" "freshman") ".lname" "asc" )}}
                 <li>{{.fname}} {{.lname}}</li>
