@@ -3,7 +3,7 @@ title = 'Season Open Party October 1st'
 date = 2023-09-01T13:45:48-05:00
 +++
 
-The FMHS Swim & Dive Booster Club is hosting a fun night of food, bowling, laser tag and games. Food and Bowling from 6-7 (buffet stops being refilled at 6:30). Then unlimited laser tag and video game from 7-9. All athletes welcome!
+The FMHS Swim & Dive Booster Club is hosting a fun night of food, bowling, laser tag and games at Main Event in Grapevine. Food and bowling from 6-7 (buffet will stop being refilled at 6:30). Then unlimited laser tag and video game from 7-9. All athletes welcome!
 <!--more-->
 ![bowling](/img/bowling.png#floatright)
 
