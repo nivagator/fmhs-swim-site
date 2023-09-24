@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://fmhswaterjags.com/'
 languageCode = 'en-us'
 title = 'FMHS Water Jags'
 theme = 'mainroad'
@@ -12,6 +12,7 @@ theme = 'mainroad'
     spiritLinkText = "Kristees FMHS Swim & Dive"
     uil = "UIL Conference 6A, Region 2, District 5"
     mainSections = ["posts"]
+    googleFontsLink = "https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700&display=swap"
 
 [Params.style.vars]
     highlightColor = "#073772"
@@ -25,7 +26,7 @@ theme = 'mainroad'
 home = "right"
 list = false
 single = false
-widgets = ["search", "recent","meets","wac","social"]
+widgets = ["recent","meets","wac","social"]
 
 [Params.widgets]
   recent_num = 5 # Set the number of articles in the "Recent articles" widget
@@ -48,7 +49,7 @@ widgets = ["search", "recent","meets","wac","social"]
 
 [Params.widgets.search]
   cached = false # activate cache if true
-  url = "https://duckduckgo.com/"
+  url = "https://google.com/search"
   [Params.widgets.search.input]
     name = "sitesearch"
     pre = ""
