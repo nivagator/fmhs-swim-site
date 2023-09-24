@@ -1,6 +1,6 @@
 +++
 title = 'Regionals | Feb 09-10'
-date = 2024-02-09T16:42:03-05:00
+date = 2023-09-15T16:42:03-05:00
 tags = ["meets"]
 tags_weight = 11
 +++

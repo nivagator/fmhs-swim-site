@@ -1,6 +1,6 @@
 +++
 title = 'vs. Frisco Reedy & Lewisville | Nov 30'
-date = 2023-11-30T16:41:06-05:00
+date = 2023-09-15T16:41:06-05:00
 tags = ["meets"]
 tags_weight = 7
 +++
