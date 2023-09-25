@@ -5,7 +5,10 @@ tags = ["meets"]
 tags_weight = 1
 +++
  
-**Date:** Thu, Sep 28, 2023    
+**Date:** Thu, Sep 28, 2023  
+&nbsp;&nbsp;&nbsp;&nbsp;**Arrive:** 4:30PM  
+&nbsp;&nbsp;&nbsp;&nbsp;**Warm-up:**  4:45PM  
+&nbsp;&nbsp;&nbsp;&nbsp;**Meet Start:**  6:00PM  
  
 **Opponent:** Plano West   
 
