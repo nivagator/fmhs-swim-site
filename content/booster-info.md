@@ -21,5 +21,6 @@ date = 2023-09-15T13:11:50-05:00
 ### Booster Club Bylaws
 *insert bylaws* -->
 
-### Booster Club Meeting Minutes
-- August 29th, 2023 - {{< target-blank "Parent Meeting Slides" "https://docs.google.com/presentation/d/18tc5ilG2TtV_BhcdIW0HM7P9Cz1LaPNJ-3I4ADjCLEU/edit#slide=id.p1">}}
+### Booster Club Meeting Materials
+- August 31st, 2023 - {{< target-blank "Board Meeting Minutes" "/meetings/20230831-FMHS_Swim_Dive_Board_Meeting.pdf" >}}
+- August 29th, 2023 - {{< target-blank "Parent Meeting Slides" "/meetings/20230829-ParentMeeting.pdf">}}
