@@ -1,4 +1,4 @@
-<h2>Gallery</h2>
+<!-- <h2>Gallery</h2> -->
 
 <!-- <div class="gallery">
     <img src="https://picsum.photos/id/1015/600/400.jpg" title="TITLE 1">
@@ -25,7 +25,7 @@
 {{ $album := .Get 0 }}
 <div class="gallery">
 {{$data := .Site.Data.albums.albums}}
-{{ range $key, $value := where $data ".name" $album }}
+{{ range $key, $value := where $data ".path" $album }}
     {{ range .images}} 
         <img src="/img/albums/{{$value.path}}/{{.name}}">
     {{ end }}
