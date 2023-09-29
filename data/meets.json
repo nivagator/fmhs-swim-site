@@ -1,11 +1,17 @@
 [
     {
         "title": "vs. Plano West",
+        "opponent": "Plano West",
+        "path": "20230923-plano-west",
         "type": "meet",
         "event": "",
         "url": "../meets/20230923-plano-west", 
+        "photos": "../albums/20230923-plano-west",
         "location": "WAC",
-        "start": "2023-09-28"
+        "start": "2023-09-28",
+        "arriveTime": "4:30PM",
+        "warmupTime": "4:45PM",
+        "startTime": "6:00PM"
     },
     {
         "title": "vs. Jesuit/Ursaline",
@@ -41,7 +47,7 @@
         "end": "2023-11-18"
     },
     {
-        "title": "vs. Frisco Reedy & Lewisville High School",
+        "title": "vs. Frisco Reedy & Lewisville",
         "type": "meet",
         "event": "",
         "url": "../meets/20231130-frisco-reedy-lhs",

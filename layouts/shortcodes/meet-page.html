@@ -1,0 +1,28 @@
+{{ $meet := .Get 0 }}
+
+{{$data := .Site.Data.meets}}
+{{ range $key, $value := where $data ".path" $meet }}
+<p>
+    <strong>Date:</strong> 
+    {{ if .end }}
+        {{ .start | time.Format "January 2" }}-{{ .end | time.Format "2, 2006" }}
+    {{ else }}
+        {{ .start | time.Format ":date_long" }}
+    {{ end }}
+    <br>
+    &nbsp;&nbsp;&nbsp;&nbsp;<strong>Arrive:</strong> {{.arriveTime}}<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;<strong>Warm-up:</strong>  {{.warmupTime}}<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;<strong>Meet Start:</strong>  {{.startTime}}
+</p>
+<p>
+    <strong>Opponent:</strong> {{.opponent}}
+</p>
+<p>
+    <strong>Location:</strong><br>
+    {{ if eq .location "WAC"}}
+        {{ partial "wac-address-partial.html" . }}  
+    {{ else }}
+        {{.location}}
+    {{ end }}
+</p>
+{{ end }}
