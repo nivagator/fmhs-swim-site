@@ -1,3 +1,7 @@
 {{ range .Site.Data.meets }}
-<a href="{{.url}}">{{ .start | time.Format ":date_medium" }} {{.title}}</a> @ {{.location}}<br>
+<a href="{{.url}}">{{ .start | time.Format ":date_medium" }} {{.title}}</a> @ {{.location}}
+{{ if .photos }} 
+    - <a href="{{.photos}}">Pictures</a>
+{{ end }}
+<br>
 {{ end }}

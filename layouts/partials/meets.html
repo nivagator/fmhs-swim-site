@@ -7,6 +7,7 @@
         <!-- <th>Time (CT)</th> -->
         <!-- <th>Result</th> -->
         <!-- <th>Meet Page</th> -->
+        <!-- <th>Photos</th> -->
     </tr>
     {{ range .Site.Data.meets }}
     <tr>
@@ -19,11 +20,24 @@
             {{ end }}
         </td>
         <td>{{.event}}</td>
-        <td><a href="{{.url}}">{{.title}}</a></td>
+        <td>
+            {{ if .photos }}
+                {{.title}} | 
+                <!-- <a href="{{.url}}">Meet Page</a> |  -->
+                <a href="{{.photos}}">Pictures</a>
+            {{ else }}
+                <a href="{{.url}}">{{.title}}</a>
+            {{ end }}
+        </td>
         <td>{{.location}}</td>
         <!-- <td></td> -->
         <!-- <td></td> -->
         <!-- <td><a href="{{.url}}">LINK</a></td> -->
+        <!-- <td>
+            {{ if .photos }}
+                <a href="{{.photos}}">Photo Album</a>
+            {{ end }}
+        </td> -->
     </tr>
     {{ end }}
 </table>
