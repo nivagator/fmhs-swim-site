@@ -1,4 +1,5 @@
-{{ range .Site.Data.meets }}
+{{ $data := .Site.Data.meets}}
+{{ range (sort $data ".start" "asc" ) }}
 <a href="{{.url}}">{{ .start | time.Format ":date_medium" }} {{.title}}</a> @ {{.location}}
 {{ if .photos }} 
     - <a href="{{.photos}}">Pictures</a>
