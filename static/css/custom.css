@@ -175,6 +175,19 @@ table.meets tr {
     border-bottom: 1px solid #ddd;
 }
 
+th.meet-date {
+    width: 30%;
+}
+th.meet-opp {
+    width: 40%;
+}
+th.meet-loc {
+    width: 15%;
+}
+th.meet-results {
+    width: 15%;
+}
+
 table.board {
     width: 100%;
 }
@@ -189,4 +202,15 @@ ul.roster {
 /* calendar link override */
 span.fc-time {
 	color: #ffffff;
+}
+
+table th {
+    color: #ffffff;
+    background: #073772;
+    border-right: 0px;
+}
+
+.fmstrong {
+    font-weight: bold;
+    color: #073772;
 }
