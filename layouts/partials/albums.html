@@ -17,7 +17,7 @@
 <!-- uncomment header when we have an album -->
 <!-- <h2>albums</h2>  -->
 
-{{ range $key, $value := $data }}
+{{ range $key, $value := (sort $data ".path" "desc" ) }}
     <h3><a href="/albums/{{$value.path}}">{{.name}} - ({{.images | len }})</a></h3>
     <!-- <ul>
     {{ range first 4 .images}} 
