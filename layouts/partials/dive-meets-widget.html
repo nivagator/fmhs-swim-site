@@ -1,0 +1,12 @@
+{{ $data := .Site.Data.meetsdive}}
+{{ range (sort $data ".start" "asc" ) }}
+{{ if .results }} 
+    <a href="{{.results}}">{{ .start | time.Format ":date_medium" }} {{.title}}</a> @ {{.location}}
+{{ else }}
+<span style="color:#073772">{{ .start | time.Format ":date_medium" }} {{.title}}</span> @ {{.location}}
+{{ end }}
+{{ if .photos }} 
+    - <a href="{{.photos}}">Pictures</a>
+{{ end }}
+<br>
+{{ end }}
