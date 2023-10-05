@@ -70,6 +70,31 @@
         {"type":"file","name":"20230923-plano-west-0064.JPG"},
         {"type":"file","name":"20230923-plano-west-0065.JPG"}
       ]
+    },
+    {
+      "name": "Season Open Party - Oct 1st, 2023",
+      "path": "20231001-main-event",
+      "images": [
+        {"type":"file","name":"20231001-main-event-0001.jpg"},
+        {"type":"file","name":"20231001-main-event-0002.jpg"},
+        {"type":"file","name":"20231001-main-event-0003.jpg"},
+        {"type":"file","name":"20231001-main-event-0004.jpg"},
+        {"type":"file","name":"20231001-main-event-0005.jpg"},
+        {"type":"file","name":"20231001-main-event-0006.jpg"},
+        {"type":"file","name":"20231001-main-event-0007.jpg"},
+        {"type":"file","name":"20231001-main-event-0008.jpg"},
+        {"type":"file","name":"20231001-main-event-0009.jpg"},
+        {"type":"file","name":"20231001-main-event-0010.jpg"},
+        {"type":"file","name":"20231001-main-event-0011.jpg"},
+        {"type":"file","name":"20231001-main-event-0012.jpg"},
+        {"type":"file","name":"20231001-main-event-0013.jpg"},
+        {"type":"file","name":"20231001-main-event-0014.jpg"},
+        {"type":"file","name":"20231001-main-event-0015.jpg"},
+        {"type":"file","name":"20231001-main-event-0016.jpg"},
+        {"type":"file","name":"20231001-main-event-0017.jpg"},
+        {"type":"file","name":"20231001-main-event-0018.jpg"},
+        {"type":"file","name":"20231001-main-event-0019.jpg"}
+      ]
     }
   ]
 }
