@@ -1,0 +1,33 @@
+{{ $meetvar := .Get 0 }}
+{{ $meet_data := .Site.Data.meetresults.diveresults }}
+{{ with index $meet_data $meetvar}}
+{{ range .results }}
+<h2>{{.events}}</h2>
+<a href="{{.results.resultsdoc}}" target="_blank" rel="noopener noreferrer">Full Final Results</a>
+<br>
+<br>
+<table>
+    <tr>
+        <th style="text-align: center;">Rank</th>
+        <th>Name</th>
+        <th>Team</th>
+        <th>Total Score</th>
+    </tr>
+    {{ range .indivresults }}
+    {{ if eq .school "Flower Mound"}}
+    <tr class="fmstrong">
+    {{ else }}
+    <tr>
+    {{ end }}
+        <td style="text-align: center;">{{.rank}}</td>
+        <td>{{.lname}}, {{.fname}}</td>
+        <td>{{.school}}</td>
+        <td style="text-align: center;">{{.points}}</td>
+    </tr>
+    {{ end }}
+</table>
+{{ end }}
+{{ end }}
+
+<!-- https://discourse.gohugo.io/t/extracting-specific-value-from-a-nested-json-data-file/21973/2 -->
+<!-- https://harrycresswell.com/writing/passing-data-to-templates-hugo/ -->

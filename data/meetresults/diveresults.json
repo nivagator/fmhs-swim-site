@@ -1,0 +1,153 @@
+{
+    "dive20230930": {
+        "path": "20230930-dive",
+        "results": [
+            {
+                "events": "Womens 1m Finals",
+                "resultsdoc": "/results/20230930-dive.pdf",
+                "indivresults": [
+                    {
+                        "fname": "Keann",
+                        "lname": "Guthrie",
+                        "points": "205.55",
+                        "rank": "1",
+                        "school": "Lake Highlands"
+                    },
+                    {
+                        "fname": "Sawyer",
+                        "lname": "Lee",
+                        "points": "193.80",
+                        "rank": "2",
+                        "school": "Marcus"
+                    },
+                    {
+                        "fname": "Lia",
+                        "lname": "Ross",
+                        "points": "192.45",
+                        "rank": "3",
+                        "school": "Allen"
+                    },
+                    {
+                        "fname": "Ashley",
+                        "lname": "Delhomme",
+                        "points": "181.25",
+                        "rank": "4",
+                        "school": "Sachse"
+                    },
+                    {
+                        "fname": "Camille",
+                        "lname": "Wright",
+                        "points": "164.80",
+                        "rank": "5",
+                        "school": "Plano East"
+                    },
+                    {
+                        "fname": "Hannah",
+                        "lname": "Egan",
+                        "points": "164.60",
+                        "rank": "6",
+                        "school": "Flower Mound"
+                    },
+                    {
+                        "fname": "Sloane",
+                        "lname": "Stilwell",
+                        "points": "156.30",
+                        "rank": "7",
+                        "school": "Lake Highlands"
+                    },
+                    {
+                        "fname": "Jordis",
+                        "lname": "Watkins",
+                        "points": "153.15",
+                        "rank": "8",
+                        "school": "Lake Highlands"
+                    },
+                    {
+                        "fname": "Emery",
+                        "lname": "Darrow",
+                        "points": "152.75",
+                        "rank": "9",
+                        "school": "Coppell"
+                    },
+                    {
+                        "fname": "Addison",
+                        "lname": "Wancio",
+                        "points": "131.75",
+                        "rank": "10",
+                        "school": "Allen"
+                    },
+                    {
+                        "fname": "Natalie",
+                        "lname": "Fecht",
+                        "points": "129.50",
+                        "rank": "11",
+                        "school": "Allen"
+                    },
+                    {
+                        "fname": "Kristen",
+                        "lname": "Leigh",
+                        "points": "125.00",
+                        "rank": "12",
+                        "school": "Allen"
+                    },
+                    {
+                        "fname": "Auttumn",
+                        "lname": "Ayakawa",
+                        "points": "112.40",
+                        "rank": "13",
+                        "school": "Coppell"
+                    },
+                    {
+                        "fname": "Emily",
+                        "lname": "Garretson",
+                        "points": "109.85",
+                        "rank": "14",
+                        "school": "Plano East"
+                    },
+                    {
+                        "fname": "Olivia",
+                        "lname": "Rainwater",
+                        "points": " 85.50",
+                        "rank": "15",
+                        "school": "Hebron"
+                    },
+                    {
+                        "fname": "Charlotte",
+                        "lname": "Cooksey",
+                        "points": " 82.15",
+                        "rank": "16",
+                        "school": "Allen"
+                    },
+                    {
+                        "fname": "Annelle",
+                        "lname": "Leff",
+                        "points": " 76.40",
+                        "rank": "17",
+                        "school": "Sachse"
+                    },
+                    {
+                        "fname": "Makenna",
+                        "lname": "Lower",
+                        "points": " 75.90",
+                        "rank": "18",
+                        "school": "Sachse"
+                    },
+                    {
+                        "fname": "Dani",
+                        "lname": "Debaun",
+                        "points": " 67.10",
+                        "rank": "19",
+                        "school": "Sachse"
+                    },
+                    {
+                        "fname": "Rewa",
+                        "lname": "Pednekar",
+                        "points": " 66.75",
+                        "rank": "20",
+                        "school": "Plano SR"
+                    }
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,63 @@
+<table class="meets">
+    <tr>
+        <th class="meet-date">Date</th>
+        <!-- <th>Event</th> -->
+        <th class="meet-opp">Opponent</th>
+        <th class="meet-loc">Location</th>
+        <!-- <th>Time (CT)</th> -->
+        <!-- <th>Result</th> -->
+        <!-- <th>Meet Page</th> -->
+        <!-- <th>Photos</th> -->
+        <th class="meet-results"></th>
+    </tr>
+    {{ $data := .Site.Data.meetsdive}}
+    {{ range (sort $data ".start" "asc" ) }}
+    <tr>
+        <!-- <a href="{{.url}}">{{ .start | time.Format ":date_medium" }} {{.title}}</a> @ {{.location}}<br> -->
+        <td>
+            {{ if .end }}
+                {{ .start | time.Format "January 2" }}-{{ .end | time.Format "2, 2006" }}
+            {{ else }}
+                {{ .start | time.Format ":date_long" }}
+            {{ end }}
+        </td>
+        <!-- <td>{{.event}}</td> -->
+        <td>
+            {{ if .photos }}
+                {{.title}} | 
+                <!-- <a href="{{.url}}">Meet Page</a> |  -->
+                <a href="{{.photos}}">Pictures</a>
+            {{ else if .url }}
+                <a href="{{.url}}">{{.title}}</a>
+            {{ else }}
+                {{.title}}
+            {{ end }} 
+            {{ if .event }}
+                - <strong>{{.event}}</strong>
+            {{ end }}
+        </td>
+        <td>{{.location}}</td>
+        <!-- <td></td> -->
+        <!-- <td></td> -->
+        <!-- <td><a href="{{.url}}">LINK</a></td> -->
+        <!-- <td>
+            {{ if .photos }}
+                <a href="{{.photos}}">Photo Album</a>
+            {{ end }}
+        </td> -->
+        <td>
+            {{ if .results }}
+                <a href="{{.results}}">Final Results</a>
+            {{ end }}
+        </td>
+    </tr>
+    {{ end }}
+</table>
+
+<!-- https://gohugo.io/functions/dateformat/ -->
+
+<!-- 
+<h3>option 2 list</h3>
+{{ range .Site.Data.meets }}
+<a href="{{.url}}">{{ .start | time.Format ":date_medium" }} {{.title}}</a> @ {{.location}}<br>
+{{ end }} -->
