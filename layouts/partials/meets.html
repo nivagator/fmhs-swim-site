@@ -1,15 +1,17 @@
 <table class="meets">
     <tr>
-        <th>Date</th>
-        <th>Event</th>
-        <th>Opponent</th>
-        <th>Location</th>
+        <th class="meet-date">Date</th>
+        <!-- <th>Event</th> -->
+        <th class="meet-opp">Opponent</th>
+        <th class="meet-loc">Location</th>
         <!-- <th>Time (CT)</th> -->
         <!-- <th>Result</th> -->
         <!-- <th>Meet Page</th> -->
         <!-- <th>Photos</th> -->
+        <th class="meet-results"></th>
     </tr>
-    {{ range .Site.Data.meets }}
+    {{ $data := .Site.Data.meets}}
+    {{ range (sort $data ".start" "asc" ) }}
     <tr>
         <!-- <a href="{{.url}}">{{ .start | time.Format ":date_medium" }} {{.title}}</a> @ {{.location}}<br> -->
         <td>
@@ -19,7 +21,7 @@
                 {{ .start | time.Format ":date_long" }}
             {{ end }}
         </td>
-        <td>{{.event}}</td>
+        <!-- <td>{{.event}}</td> -->
         <td>
             {{ if .photos }}
                 {{.title}} | 
@@ -27,6 +29,9 @@
                 <a href="{{.photos}}">Pictures</a>
             {{ else }}
                 <a href="{{.url}}">{{.title}}</a>
+            {{ end }}
+            {{ if .event }}
+                - <strong>{{.event}}</strong>
             {{ end }}
         </td>
         <td>{{.location}}</td>
@@ -38,6 +43,11 @@
                 <a href="{{.photos}}">Photo Album</a>
             {{ end }}
         </td> -->
+        <td>
+            {{ if .results }}
+                <a href="{{.url}}">Final Results</a>
+            {{ end }}
+        </td>
     </tr>
     {{ end }}
 </table>
