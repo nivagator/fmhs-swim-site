@@ -6,15 +6,48 @@
         "type": "meet",
         "event": "",
         "url": "../meets/20230923-plano-west", 
-        "photos": "../albums/20230923-plano-west",
+        "photos": "https://photos.fmhswaterjags.com/gallery#vG8ikpJaDuJ8Q7-ie0DkPLNx",
         "location": "WAC",
         "start": "2023-09-28",
         "arriveTime": "4:30PM",
         "warmupTime": "4:45PM",
-        "startTime": "6:00PM"
+        "startTime": "6:00PM",
+        "results": {
+            "resultspath": "20230923-plano-west.pdf",
+            "totalscores": [
+                {
+                "girls": [
+                    {
+                        "school": "FMHS",
+                        "points": "262",
+                        "place": "1"
+                    },
+                    {
+                        "school": "PLWE",
+                        "points": "195",
+                        "place": "2"
+                    }
+                ],
+                "boys": [
+                    {
+                        "school": "FMHS",
+                        "points": "251",
+                        "place": "1"
+                    },
+                    {
+                        "school": "PLWE",
+                        "points": "160",
+                        "place": "2"
+                    }
+                ]
+                }
+            ]
+        }
     },
     {
         "title": "vs. Jesuit/Ursaline",
+        "opponent": "Jesuit/Ursaline",
+        "path": "20231024-jesuit-ursaline",
         "type": "meet",
         "event": "",
         "url": "../meets/20231024-jesuit-ursaline",
@@ -23,6 +56,7 @@
     },
     {
         "title": "vs. Ranger Relays",
+        "path": "20231104-ranger-relays",
         "type": "meet",
         "event": "",
         "url": "../meets/20231104-ranger-relays",
@@ -31,6 +65,8 @@
     },
     {
         "title": "vs. Coppell",
+        "opponent": "Coppell",
+        "path": "20231109-coppell",
         "type": "meet",
         "event": "",
         "url": "../meets/20231109-coppell",
@@ -39,6 +75,7 @@
     },
     {
         "title": "TISCA",
+        "path": "20231117-tisca",
         "type": "meet",
         "event": "",
         "url": "../meets/20231117-tisca",
@@ -48,6 +85,8 @@
     },
     {
         "title": "vs. Frisco Reedy & Lewisville",
+        "opponent": "Frisco Reedy & Lewisville High School",
+        "path": "20231130-frisco-reedy-lhs",
         "type": "meet",
         "event": "",
         "url": "../meets/20231130-frisco-reedy-lhs",
@@ -56,6 +95,8 @@
     },
     {
         "title": "vs. Marcus",
+        "opponent": "Marcus",
+        "path": "20231213-marcus",
         "type": "meet",
         "event": "Senior Night",
         "url": "../meets/20231213-marcus",
@@ -64,6 +105,7 @@
     },
     {
         "title": "Kyle Tilley Invitational",
+        "path": "20240113-kyle-tilley",
         "type": "meet",
         "event": "",
         "url": "../meets/20240113-kyle-tilley",
@@ -72,6 +114,7 @@
     },
     {
         "title": "Districts",
+        "path": "20240127-district",
         "type": "meet",
         "event": "",
         "url": "../meets/20240127-district",
@@ -80,6 +123,7 @@
     },
     {
         "title": "Regionals",
+        "path": "20240209-regionals",
         "type": "meet",
         "event": "",
         "url": "../meets/20240209-regionals",
@@ -89,6 +133,7 @@
     },
     {
         "title": "State",
+        "path": "20240223-state",
         "type": "meet",
         "event": "",
         "url": "../meets/20240223-state",

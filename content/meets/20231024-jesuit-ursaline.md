@@ -4,9 +4,4 @@ date = 2023-09-15T16:40:10-05:00
 tags = ["meets"]
 tags_weight = 3
 +++ 
-**Date:** Tue, Oct 24, 2023     
- 
-**Opponent:** Jesuit/Ursaline   
-
-**Location:**  
-{{< wac-meet-address >}}  
+{{< meet-page "20231024-jesuit-ursaline" >}}

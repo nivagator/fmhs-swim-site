@@ -2,27 +2,85 @@
 
 {{$data := .Site.Data.meets}}
 {{ range $key, $value := where $data ".path" $meet }}
-<p>
-    <strong>Date:</strong> 
-    {{ if .end }}
-        {{ .start | time.Format "January 2" }}-{{ .end | time.Format "2, 2006" }}
+
+    {{ if .results }}
+    {{ if .results.totalscores}}
+        {{ range .results.totalscores }}
+            <div class="col-6">
+                <table>
+                    <tr>
+                        <th></th>
+                        <th>Girls - Team Scores</th>                    
+                        <th></th>
+                    </tr>
+                {{range .girls}}
+                    <tr>
+                        <td>{{.place}}</td>
+                        <td>{{.school}}</td>
+                        <td>{{.points}}</td>
+                    </tr>
+                {{end}}
+                </table>
+            </div>
+            <div class="col-6">
+                <table>
+                    <tr>
+                        <th></th>
+                        <th>Boys - Team Scores</th>
+                        <th></th>
+                    </tr>
+                {{range .boys}}
+                    <tr>
+                        <td>{{.place}}</td>
+                        <td>{{.school}}</td>
+                        <td>{{.points}}</td>
+                    </tr>
+                {{end}}
+                </table>
+                </div>
+        {{end}}
+    {{end}}
+    {{if .results.resultspath }}
+        <object data="/results/{{ .results.resultspath }}" type="application/pdf" width="100%" height="800">
+            <p>Alternative text - include a link <a href="/results/{{ .results.resultspath }}">to the PDF!</a></p>
+        </object>
+    {{end}}
     {{ else }}
-        {{ .start | time.Format ":date_long" }}
+        <p>
+            <strong>Date:</strong> 
+            {{ if .end }}
+                {{ .start | time.Format "January 2" }}-{{ .end | time.Format "2, 2006" }}
+            {{ else }}
+                {{ .start | time.Format ":date_long" }}
+            {{ end }}
+            <br>
+            {{if .arriveTime }}
+            &nbsp;&nbsp;&nbsp;&nbsp;<strong>Arrive:</strong> {{.arriveTime}}<br>
+            {{end}}
+            {{if .warmupTime}}
+            &nbsp;&nbsp;&nbsp;&nbsp;<strong>Warm-up:</strong>  {{.warmupTime}}<br>
+            {{end}}
+            {{if .startTime}}
+            &nbsp;&nbsp;&nbsp;&nbsp;<strong>Meet Start:</strong>  {{.startTime}}
+            {{end}}
+        </p>
+        {{if .opponent}}
+        <p>
+            <strong>Opponent:</strong> {{.opponent}}
+        </p>
+        {{end}}
+        <p>
+            <strong>Location:</strong><br>
+            {{ if eq .location "WAC"}}
+                {{ partial "wac-address-partial.html" . }}  
+            {{ else if eq .location "SMU"}}
+                {{ partial "smu-address-partial.html" . }}
+            {{ else }}
+                {{.location}}
+            {{ end }}
+        </p>
     {{ end }}
-    <br>
-    &nbsp;&nbsp;&nbsp;&nbsp;<strong>Arrive:</strong> {{.arriveTime}}<br>
-    &nbsp;&nbsp;&nbsp;&nbsp;<strong>Warm-up:</strong>  {{.warmupTime}}<br>
-    &nbsp;&nbsp;&nbsp;&nbsp;<strong>Meet Start:</strong>  {{.startTime}}
-</p>
-<p>
-    <strong>Opponent:</strong> {{.opponent}}
-</p>
-<p>
-    <strong>Location:</strong><br>
-    {{ if eq .location "WAC"}}
-        {{ partial "wac-address-partial.html" . }}  
-    {{ else }}
-        {{.location}}
-    {{ end }}
-</p>
+
 {{ end }}
+
+<!-- https://stackoverflow.com/questions/14081128/how-to-embed-a-pdf-viewer-in-a-page -->
