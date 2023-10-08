@@ -6,7 +6,7 @@
 <span style="color:#073772">{{ .start | time.Format ":date_medium" }} {{.title}}</span> @ {{.location}}
 {{ end }}
 {{ if .photos }} 
-    - <a href="{{.photos}}">Pictures</a>
+    - <a href="{{.photos}}" target="_blank">Pictures</a>
 {{ end }}
 <br>
 {{ end }}

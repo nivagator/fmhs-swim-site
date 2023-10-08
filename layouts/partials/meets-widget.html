@@ -2,7 +2,7 @@
 {{ range (sort $data ".start" "asc" ) }}
 <a href="{{.url}}">{{ .start | time.Format ":date_medium" }} {{.title}}</a> @ {{.location}}
 {{ if .photos }} 
-    - <a href="{{.photos}}">Pictures</a>
+    - <a href="{{.photos}}" target="_blank">Pictures</a>
 {{ end }}
 <br>
 {{ end }}

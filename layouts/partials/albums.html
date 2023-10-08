@@ -18,7 +18,9 @@
 <!-- <h2>albums</h2>  -->
 
 {{ range $key, $value := (sort $data ".path" "desc" ) }}
-    <h3><a href="/albums/{{$value.path}}">{{.name}} - ({{.images | len }})</a></h3>
+    {{$lycheeurl := .url}}
+    <!-- <h3><a href="/albums/{{$value.path}}">{{.name}} - ({{.images | len }})</a></h3> -->
+    <h3><a href="{{$lycheeurl}}" target="_blank">{{.name}} - ({{.images | len }})</a></h3>
     <!-- <ul>
     {{ range first 4 .images}} 
         <li>../img/albums/{{$value.path}}{{.name}}</li>
@@ -28,11 +30,13 @@
         
         {{ range first 3 .images}} 
         <div class="column">
-            <a href="/albums/{{$value.path}}"><img src="/img/albums/{{$value.path}}/{{.name}}" alt=""></a>
+            <!-- <a href="/albums/{{$value.path}}"><img src="/img/albums/{{$value.path}}/{{.name}}" alt=""></a> -->
+            <a href="{{$lycheeurl}}" target="_blank"><img src="/img/albums/{{$value.path}}/{{.name}}" alt=""></a>
         </div>
         {{ end }}
         <div class="column">
-            <a href="/albums/{{$value.path}}"><img src="/img/more.webp" alt="more..."></a>
+            <!-- <a href="/albums/{{$value.path}}"><img src="/img/more.webp" alt="more..."></a> -->
+            <a href="{{$lycheeurl}}" target="_blank"><img src="/img/more.webp" alt="more..."></a>
         </div>
     </div>
 {{ end }} 
