@@ -1,6 +1,7 @@
 +++
 title = '2023 Fan Shirts Now Available'
 date = 2023-09-24T21:13:43-05:00
+draft = true
 +++
 The 2023-2024 fan shirts are now available for sale.  The seniors came up with an awesome design and these are a great way to support your athlete.
 
