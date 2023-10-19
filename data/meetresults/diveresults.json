@@ -149,5 +149,156 @@
                 ]
             }
         ]
+    },
+    "dive20231014": {
+        "path": "20231014-dive-frisco",
+        "results": [
+            {
+                "events": "Girls 1M Diving",
+                "resultsdoc": "/results/20231014-dive-frisco.pdf",
+                "indivresults": [
+                    {
+                        "rank": " 1",
+                        "points": "323.25",
+                        "fname": "Keira",
+                        "lname": "Hodson",
+                        "school": "Frisco Reedy"
+                    },
+                    {
+                        "rank": " 2",
+                        "points": "297.65",
+                        "fname": "Sawyer",
+                        "lname": "Lee",
+                        "school": "Marcus"
+                    },
+                    {
+                        "rank": " 3",
+                        "points": "297.45",
+                        "fname": "Lia",
+                        "lname": "Ross",
+                        "school": "Allen"
+                    },
+                    {
+                        "rank": " 4",
+                        "points": "269.70",
+                        "fname": "Alexandria",
+                        "lname": "Leppert",
+                        "school": "Lubbock Coronado"
+                    },
+                    {
+                        "rank": " 5",
+                        "points": "267.55",
+                        "fname": "Hannah",
+                        "lname": "Egan",
+                        "school": "Flower Mound"
+                    },
+                    {
+                        "rank": " 6",
+                        "points": "264.35",
+                        "fname": "Sadie",
+                        "lname": "Porter",
+                        "school": "Frisco Independence"
+                    },
+                    {
+                        "rank": " 7",
+                        "points": "250.50",
+                        "fname": "Aubrey",
+                        "lname": "Henderson",
+                        "school": "Frisco Liberty"
+                    },
+                    {
+                        "rank": " 8",
+                        "points": "244.80",
+                        "fname": "Audrey",
+                        "lname": "Szeto",
+                        "school": "Frisco"
+                    },
+                    {
+                        "rank": " 9",
+                        "points": "242.90",
+                        "fname": "Kasey",
+                        "lname": "Dubester",
+                        "school": "Frisco Lebanon Trail"
+                    },
+                    {
+                        "rank": "10",
+                        "points": "237.40",
+                        "fname": "Quinn",
+                        "lname": "Huddleston",
+                        "school": "Lubbock Coronado"
+                    },
+                    {
+                        "rank": "11",
+                        "points": "232.45",
+                        "fname": "Claire",
+                        "lname": "Burk",
+                        "school": "Lubbock"
+                    },
+                    {
+                        "rank": "12",
+                        "points": "230.70",
+                        "fname": "Talia",
+                        "lname": "Reizer",
+                        "school": "Frisco Reedy"
+                    },
+                    {
+                        "rank": "13",
+                        "points": "229.35",
+                        "fname": "Ella",
+                        "lname": "Puccio",
+                        "school": "Frisco Memorial"
+                    },
+                    {
+                        "rank": "14",
+                        "points": "217.65",
+                        "fname": "Isabella",
+                        "lname": "Berry",
+                        "school": "Allen"
+                    },
+                    {
+                        "rank": "15",
+                        "points": "210.65",
+                        "fname": "Seanna",
+                        "lname": "Lillis",
+                        "school": "Frisco Independence"
+                    },
+                    {
+                        "rank": "16",
+                        "points": "201.20",
+                        "fname": "Addison",
+                        "lname": "Wancio",
+                        "school": "Allen"
+                    },
+                    {
+                        "rank": "17",
+                        "points": "193.70",
+                        "fname": "Arielle",
+                        "lname": "Ngero",
+                        "school": "Frisco Panther Creek"
+                    },
+                    {
+                        "rank": "18",
+                        "points": "190.55",
+                        "fname": "Zara",
+                        "lname": "Ahmed",
+                        "school": "Frisco Liberty"
+                    },
+                    {
+                        "rank": "19",
+                        "points": "189.35",
+                        "fname": "Kristen",
+                        "lname": "Leigh",
+                        "school": "Allen"
+                    },
+                    {
+                        "rank": "20",
+                        "points": "173.10",
+                        "fname": "Ana",
+                        "lname": "Noguiera",
+                        "school": "Frisco"
+                    }
+                ]
+            }
+        ]
     }
 }

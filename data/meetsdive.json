@@ -35,6 +35,7 @@
         "path": "20231014-frisco-dive-invite",
         "type": "dive-meet",
         "event": "",
+        "results": "../meets/results/20231014-dive-frisco", 
         "location": "Frisco Natatorium",
         "start": "2023-10-14"
     },
