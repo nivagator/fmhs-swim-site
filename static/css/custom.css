@@ -176,7 +176,7 @@ table.meets tr {
 }
 
 th.meet-date {
-    width: 30%;
+    width: 25%;
 }
 th.meet-opp {
     width: 40%;
@@ -185,7 +185,10 @@ th.meet-loc {
     width: 15%;
 }
 th.meet-results {
-    width: 15%;
+    width: 12%;
+}
+th.meet-pictures {
+    width: 8%;
 }
 
 table.board {
