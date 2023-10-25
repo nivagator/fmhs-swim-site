@@ -20,7 +20,7 @@
 {{ range $key, $value := (sort $data ".path" "desc" ) }}
     {{$lycheeurl := .url}}
     <!-- <h3><a href="/albums/{{$value.path}}">{{.name}} - ({{.images | len }})</a></h3> -->
-    <h3><a href="{{$lycheeurl}}" target="_blank">{{.name}} - ({{.images | len }})</a></h3>
+    <h3><a href="{{$lycheeurl}}" target="_blank">{{.name}}</a></h3>
     <!-- <ul>
     {{ range first 4 .images}} 
         <li>../img/albums/{{$value.path}}{{.name}}</li>
