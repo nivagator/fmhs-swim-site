@@ -4,6 +4,7 @@
 {{ range $key, $value := where $data ".path" $meet }}
 
     {{ if .results }}
+    <h2>Final Results</h2>
     {{ if .results.totalscores}}
         {{ range .results.totalscores }}
             <div class="col-6">
@@ -42,7 +43,7 @@
     {{end}}
     {{if .results.resultspath }}
         <object data="/results/{{ .results.resultspath }}" type="application/pdf" width="100%" height="800">
-            <p><a href="/results/{{ .results.resultspath }}">Final results PDF!</a></p>
+            <p><a href="/results/{{ .results.resultspath }}">Download final results PDF</a></p>
         </object>
     {{end}}
     {{ else }}
