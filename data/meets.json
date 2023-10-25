@@ -45,18 +45,21 @@
         }
     },
     {
-        "title": "vs. Jesuit/Ursaline",
-        "opponent": "Jesuit/Ursaline",
-        "path": "20231024-jesuit-ursaline",
+        "title": "vs. Jesuit/Ursuline",
+        "opponent": "Jesuit/Ursuline",
+        "path": "20231024-jesuit-ursuline",
         "type": "meet",
         "event": "",
-        "url": "../meets/20231024-jesuit-ursaline",
+        "url": "../meets/20231024-jesuit-ursuline",
         "location": "WAC",
         "start": "2023-10-24",
         "arriveTime": "4:30PM",
         "warmupTime": "4:45PM",
         "startTime": "6:00PM",
-        "heatsheet": "20231024-fmhs_vs_jesuit_ursuline_heat_sheet.pdf"
+        "heatsheet": "20231024-fmhs_vs_jesuit_ursuline_heat_sheet.pdf",
+        "results": {
+            "resultspath": "20231024-jesuit-ursuline.pdf"
+        }
     },
     {
         "title": "vs. Ranger Relays",

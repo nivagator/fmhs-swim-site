@@ -23,6 +23,7 @@
         "type": "meet",
         "event": "",
         "url": "../meets/20230923-plano-west", 
+        "resultspath": "20230923-plano-west.pdf",
         "photos": "https://photos.fmhswaterjags.com/gallery#vG8ikpJaDuJ8Q7-ie0DkPLNx",
         "location": "WAC",
         "start": "2023-09-28",
@@ -40,9 +41,11 @@
         "start": "2023-10-14"
     },
     {
-        "title": "vs. Jesuit/Ursaline",
+        "title": "vs. Jesuit/Ursuline",
         "type": "meet",
         "event": "",
+        "url": "../meets/20231024-jesuit-ursuline",
+        "resultspath": "20231024-jesuit-ursuline.pdf",
         "location": "WAC",
         "start": "2023-10-24"
     },
