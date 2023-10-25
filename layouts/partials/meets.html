@@ -9,6 +9,7 @@
         <!-- <th>Meet Page</th> -->
         <!-- <th>Photos</th> -->
         <th class="meet-results"></th>
+        <th class="meet-pictures"></th>
     </tr>
     {{ $data := .Site.Data.meets}}
     {{ range (sort $data ".start" "asc" ) }}
@@ -23,15 +24,9 @@
         </td>
         <!-- <td>{{.event}}</td> -->
         <td>
-            {{ if .photos }}
-                {{.title}} | 
-                <!-- <a href="{{.url}}">Meet Page</a> |  -->
-                <a href="{{.photos}}">Pictures</a>
-            {{ else }}
-                <a href="{{.url}}">{{.title}}</a>
-            {{ end }}
+            <a href="{{.url}}">{{.title}}</a>
             {{ if .event }}
-                - <strong>{{.event}}</strong>
+            - <strong>{{.event}}</strong>
             {{ end }}
         </td>
         <td>{{.location}}</td>
@@ -46,6 +41,15 @@
         <td>
             {{ if .results }}
                 <a href="{{.url}}">Final Results</a>
+            {{ end }}
+            <!-- {{ if (and .results .photos)}}
+             | 
+            {{ end }} -->
+            
+        </td>
+        <td>
+            {{ if .photos }}
+                <a href="{{.photos}}">Pictures</a>
             {{ end }}
         </td>
     </tr>
