@@ -69,8 +69,44 @@
         "type": "meet",
         "event": "",
         "url": "../meets/20231109-coppell",
+        "photos": "https://photos.fmhswaterjags.com/gallery#WzXu7pvFfsGjiiV6DwAqjnUg",
         "location": "WAC",
-        "start": "2023-11-08"
+        "start": "2023-11-08",
+        "arriveTime": "4:30PM",
+        "warmupTime": "4:45PM",
+        "startTime": "6:00PM",
+        "heatsheet": "20231108-fmhs_vs_coppell_heat_sheet.pdf",
+        "results": {
+            "resultspath": "20231109-coppell.pdf",
+            "totalscores": [
+                {
+                "girls": [
+                    {
+                        "school": "FMHS",
+                        "points": "319",
+                        "place": "1"
+                    },
+                    {
+                        "school": "Coppell",
+                        "points": "193",
+                        "place": "2"
+                    }
+                ],
+                "boys": [
+                    {
+                        "school": "FMHS",
+                        "points": "262.5",
+                        "place": "1"
+                    },
+                    {
+                        "school": "Coppell",
+                        "points": "176.5",
+                        "place": "2"
+                    }
+                ]
+                }
+            ]
+        }
     },
     {
         "title": "TISCA",

@@ -63,7 +63,9 @@
         "type": "meet",
         "event": "",
         "location": "WAC",
-        "start": "2023-11-08"
+        "start": "2023-11-08",
+        "url": "../meets/20231109-coppell",
+        "resultspath": "20231109-coppell.pdf"
     },
     {
         "title": "North Zone TISCA",
