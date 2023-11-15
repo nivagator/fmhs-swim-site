@@ -89,6 +89,15 @@
             </object>
         </p>
         {{end}}
+        {{if .psychsheet}}
+        <p>
+            <a href="/heatsheets/{{.psychsheet}}">Psych Sheet Download</a>
+            <object data="/heatsheets/{{.psychsheet}}" type="application/pdf" width="100%" height="800">
+                <!-- <p><a href="/heatsheets/{{.heatsheet}}">Download heat sheet</a></p> -->
+                <p></p>
+            </object>
+        </p>
+        {{end}}
     {{ end }}
 
 {{ end }}
