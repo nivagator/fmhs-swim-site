@@ -39,6 +39,16 @@
         {"type":"file","name":"20231108-coppell-0003.jpg"},
         {"type":"file","name":"20231108-coppell-0004.jpg"}
       ]
+    },
+    {
+      "name": "TISCA, November 17-18, 2023",
+      "path": "20231117-tisca",
+      "url": "https://photos.fmhswaterjags.com/gallery#SZrPT57fkJEPwt5uZTtIL6W-",
+      "images": [
+        {"type":"file","name":"20231117-tisca-d1-0001.JPG"},
+        {"type":"file","name":"20231117-tisca-d1-0002.JPG"},
+        {"type":"file","name":"20231117-tisca-d1-0005.JPG"}
+      ]
     }
   ]
 }
