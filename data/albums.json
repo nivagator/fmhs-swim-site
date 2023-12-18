@@ -49,6 +49,16 @@
         {"type":"file","name":"20231117-tisca-d1-0002.JPG"},
         {"type":"file","name":"20231117-tisca-d1-0005.JPG"}
       ]
+    },
+    {
+      "name": "Marcus, December 13, 2023",
+      "path": "20231213-marcus",
+      "url": "https://photos.fmhswaterjags.com/gallery#HIliJ70yqkqTiBNiE4d1fmqT",
+      "images": [
+        {"type":"file","name":"20231213-marcus-021.jpg"},
+        {"type":"file","name":"20231213-marcus-022.jpg"},
+        {"type":"file","name":"20231213-marcus-025.jpg"}
+      ]
     }
   ]
 }
