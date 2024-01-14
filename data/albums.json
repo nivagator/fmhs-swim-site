@@ -59,6 +59,16 @@
         {"type":"file","name":"20231213-marcus-022.jpg"},
         {"type":"file","name":"20231213-marcus-025.jpg"}
       ]
+    },
+    {
+      "name": "Kyle Tilley, January 13, 2024",
+      "path": "20240113-kyle-tilley",
+      "url": "https://photos.fmhswaterjags.com/gallery#OC2-Ata-ySS3aHyqljGhAGsT",
+      "images": [
+        {"type":"file","name":"20240113-kyle-tilley-002.JPG"},
+        {"type":"file","name":"20240113-kyle-tilley-014.JPG"},
+        {"type":"file","name":"20240113-kyle-tilley-010.JPG"}
+      ]
     }
   ]
 }
