@@ -43,8 +43,9 @@
     {{end}}
     {{if .results.resultspath }}
         <object data="/results/{{ .results.resultspath }}" type="application/pdf" width="100%" height="800">
-            <p><a href="/results/{{ .results.resultspath }}">Download final results PDF</a></p>
+            <!-- <p><a href="/results/{{ .results.resultspath }}">Download final results PDF</a></p> -->
         </object>
+        <p><a href="/results/{{ .results.resultspath }}">Download final results PDF</a></p>
     {{end}}
     {{ else }}
         <p>
