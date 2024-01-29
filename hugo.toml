@@ -13,6 +13,7 @@ theme = 'mainroad'
     uil = "UIL Conference 6A, Region 2, District 5"
     mainSections = ["posts"]
     googleFontsLink = "https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700&display=swap"
+    # HeaderImage = "2024-district-champsx800.png"
 
 [Params.style.vars]
     highlightColor = "#073772"

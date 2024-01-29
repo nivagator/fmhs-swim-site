@@ -3,7 +3,10 @@
 
 	<h1 style="text-align:center">Flower Mound High School Swim & Dive</h1>
 	<h1 style="text-align:center">HOME OF THE JAGUARS</h1>
-	<h2>Recent Posts</h2>
+	{{- if .Site.Params.HeaderImage }}
+		<img src="/img/{{ .Site.Params.HeaderImage }}" alt="">
+	{{ end }}
+		<!-- <h2>Recent Posts</h2> -->
 	{{ $paginator := .Paginate (where .Site.RegularPages "Type" "in" .Site.Params.mainSections) }}
 	{{- range first 10 $paginator.Pages }}
 		{{- .Render "summary" }}
