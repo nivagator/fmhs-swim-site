@@ -22,8 +22,6 @@
             {{ end }}
         </td>
         <td style="text-align: center;"><strong>{{ .eventname }}</strong></td>
-        <td>{{.boys.year}}</td>
-        <td style="text-align: center;">{{.boys.name}}</td>
         <td style="text-align: right;">
             {{ if .boys.points }}
                 {{.boys.points}}
@@ -31,6 +29,8 @@
                 {{.boys.time}}
             {{ end }}
         </td>
+        <td style="text-align: center;">{{.boys.name}}</td>
+        <td>{{.boys.year}}</td>
     </tr>
     {{ end }}
 </table>
