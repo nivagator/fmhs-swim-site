@@ -3,17 +3,17 @@
     <tr>
         <th class="board-col" style="text-align:left">Position</th>
         <th class="board-col" style="text-align:left">Member</th>
-        <th class="board-col" style="text-align:left">Contact</th>
+        <!-- <th class="board-col" style="text-align:left">Contact</th> -->
     </tr>
     {{ range $key, $value := $data }}
     <tr>
         <td>{{.position}}</td>
         <td>{{.fname}} {{.lname}}</td>
-        <td> 
+        <!-- <td> 
             {{ if .email }}
             <a href="mailto:{{.email}}">{{.email}}</a>
             {{end}}
-        </td>
+        </td> -->
     </tr>
     {{ end }}
 </table>
