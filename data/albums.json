@@ -79,6 +79,16 @@
         {"type":"file","name":"20240127-district-004.JPG"},
         {"type":"file","name":"20240127-district-001.JPG"}
       ]
+    },
+    {
+      "name": "Region Meet, February 9-10, 2024",
+      "path": "20240209-regionals",
+      "url": "https://photos.fmhswaterjags.com/gallery#C8eOa-yiPCXNcpAbsnHXIBSL",
+      "images": [
+        {"type":"file","name":"20240209-regionals-0000a.jpg"},
+        {"type":"file","name":"20240209-regionals-0000b.jpg"},
+        {"type":"file","name":"20240209-regionals-0000c.jpg"}
+      ]
     }
   ]
 }
