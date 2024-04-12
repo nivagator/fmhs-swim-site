@@ -1,0 +1,25 @@
+<!-- <script>
+  var myImageArray = ["/img/sponsors/Sponsor-Dr-Tenney-Divex300.jpg"];
+
+  var position = parseInt(0);
+  // Set the time interval for the function to execute
+  setInterval(nextImage, 3000);
+  function nextImage() {
+      // If the position is less than the array length, increment by 1 to move to the next image; otherwise, go back to the first image
+      if (position <= myImageArray.length-1) {
+          position++;
+      }
+      // Wrap around from the last image to the first
+      if (position > myImageArray.length-1) {
+          position = 0;
+      }
+      document.getElementById("photos").src = myImageArray[position];
+  }
+</script> -->
+
+<div class="widget-recent widget">
+	<h4 class="widget__title">Sponsors</h4>
+	<div class="widget__content">
+    <img src="/img/sponsors/Sponsor-Dr-Tenney-Divex400.jpg" id="photos" height="500" width="500"/>
+	</div>
+</div>
