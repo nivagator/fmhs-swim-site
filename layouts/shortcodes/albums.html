@@ -17,7 +17,7 @@
 <!-- uncomment header when we have an album -->
 <!-- <h2>albums</h2>  -->
 
-{{ range $key, $value := (sort $data ".path" "desc" ) }}
+{{ range $key, $value := last 10 (sort $data ".path" "desc" ) }}
     {{$lycheeurl := .url}}
     <!-- <h3><a href="/albums/{{$value.path}}">{{.name}} - ({{.images | len }})</a></h3> -->
     <h3><a href="{{$lycheeurl}}" target="_blank">{{.name}}</a></h3>
