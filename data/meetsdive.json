@@ -1,131 +1,132 @@
-[
-    {
-        "title": "GISD Dive Meet",
-        "path": "20230930-dive",
-        "type": "dive-meet",
-        "event": "",
-        "results": "../meets/results/20230930-dive", 
-        "location": "GISD Natatorium",
-        "start": "2023-09-30"
-    },
-    {
-        "title": "Synchronized Dive Invitational",
-        "path": "20230923-synch-dive-invite",
-        "type": "dive-meet",
-        "event": "",
-        "location": "WAC",
-        "start": "2023-09-23"
-    },
-    {
-        "title": "vs. Plano West",
-        "opponent": "Plano West",
-        "path": "20230923-plano-west",
-        "type": "meet",
-        "event": "",
-        "url": "../meets/20230923-plano-west", 
-        "resultspath": "20230923-plano-west.pdf",
-        "photos": "https://photos.fmhswaterjags.com/gallery#WrW0Nlr1jc39qq-3O59OD2yk",
-        "location": "WAC",
-        "start": "2023-09-28",
-        "arriveTime": "4:30PM",
-        "warmupTime": "4:45PM",
-        "startTime": "6:00PM"
-    },
-    {
-        "title": "Frisco Dive Invitational",
-        "path": "20231014-frisco-dive-invite",
-        "type": "dive-meet",
-        "event": "",
-        "results": "../meets/results/20231014-dive-frisco", 
-        "location": "Frisco Natatorium",
-        "start": "2023-10-14"
-    },
-    {
-        "title": "vs. Jesuit/Ursuline",
-        "type": "meet",
-        "event": "",
-        "url": "../meets/20231024-jesuit-ursuline",
-        "photos": "https://photos.fmhswaterjags.com/gallery#80QM2bFdSQFVSnBZ7Ur_Zu0l",
-        "resultspath": "20231024-jesuit-ursuline.pdf",
-        "location": "WAC",
-        "start": "2023-10-24"
-    },
-    {
-        "title": "JV/Varsity Dive Invitational",
-        "path": "20231028-jv-varsity-dive-invite",
-        "type": "dive-meet",
-        "event": "",
-        "location": "WAC",
-        "start": "2023-10-28"
-    },
-    {
-        "title": "vs. Coppell",
-        "type": "meet",
-        "event": "",
-        "location": "WAC",
-        "start": "2023-11-08",
-        "url": "../meets/20231109-coppell",
-        "resultspath": "20231109-coppell.pdf"
-    },
-    {
-        "title": "North Zone TISCA",
-        "type": "meet",
-        "event": "",
-        "location": "WAC",
-        "start": "2023-11-16"
-    },
-    {
-        "title": "vs. Frisco Reedy & Lewisville",
-        "type": "meet",
-        "event": "",
-        "location": "WAC",
-        "start": "2023-11-30"
-    },
-    {
-        "title": "LISD Dive Invitational",
-        "path": "20231206-lisd-dive-invite",
-        "type": "dive-meet",
-        "event": "",
-        "location": "WAC",
-        "start": "2023-12-06"
-    },
-    {
-        "title": "vs. Marcus",
-        "type": "meet",
-        "event": "Senior Night",
-        "location": "WAC",
-        "start": "2023-12-13"
-    },
-    {
-        "title": "Kyle Tilley Invitational",
-        "type": "meet",
-        "event": "",
-        "location": "WAC",
-        "start": "2024-01-12"
-    },
-    {
-        "title": "Districts",
-        "type": "meet",
-        "event": "",
-        "location": "WAC",
-        "start": "2024-01-26"
-    },
-    {
-        "title": "Regionals",
-        "type": "meet",
-        "event": "",
-        "location": "WAC",
-        "start": "2024-02-08"
-    },
-    {
-        "title": "State",
-        "type": "meet",
-        "event": "",
-        "location": "WAC",
-        "start": "2024-02-23"
-    }
-]
-
+{
+    "year2024": [
+        {
+            "title": "GISD Dive Meet",
+            "path": "20230930-dive",
+            "type": "dive-meet",
+            "event": "",
+            "results": "../meets/results/20230930-dive", 
+            "location": "GISD Natatorium",
+            "start": "2023-09-30"
+        },
+        {
+            "title": "Synchronized Dive Invitational",
+            "path": "20230923-synch-dive-invite",
+            "type": "dive-meet",
+            "event": "",
+            "location": "WAC",
+            "start": "2023-09-23"
+        },
+        {
+            "title": "vs. Plano West",
+            "opponent": "Plano West",
+            "path": "20230923-plano-west",
+            "type": "meet",
+            "event": "",
+            "url": "../meets/20230923-plano-west", 
+            "resultspath": "20230923-plano-west.pdf",
+            "photos": "https://photos.fmhswaterjags.com/gallery#WrW0Nlr1jc39qq-3O59OD2yk",
+            "location": "WAC",
+            "start": "2023-09-28",
+            "arriveTime": "4:30PM",
+            "warmupTime": "4:45PM",
+            "startTime": "6:00PM"
+        },
+        {
+            "title": "Frisco Dive Invitational",
+            "path": "20231014-frisco-dive-invite",
+            "type": "dive-meet",
+            "event": "",
+            "results": "../meets/results/20231014-dive-frisco", 
+            "location": "Frisco Natatorium",
+            "start": "2023-10-14"
+        },
+        {
+            "title": "vs. Jesuit/Ursuline",
+            "type": "meet",
+            "event": "",
+            "url": "../meets/20231024-jesuit-ursuline",
+            "photos": "https://photos.fmhswaterjags.com/gallery#80QM2bFdSQFVSnBZ7Ur_Zu0l",
+            "resultspath": "20231024-jesuit-ursuline.pdf",
+            "location": "WAC",
+            "start": "2023-10-24"
+        },
+        {
+            "title": "JV/Varsity Dive Invitational",
+            "path": "20231028-jv-varsity-dive-invite",
+            "type": "dive-meet",
+            "event": "",
+            "location": "WAC",
+            "start": "2023-10-28"
+        },
+        {
+            "title": "vs. Coppell",
+            "type": "meet",
+            "event": "",
+            "location": "WAC",
+            "start": "2023-11-08",
+            "url": "../meets/20231109-coppell",
+            "resultspath": "20231109-coppell.pdf"
+        },
+        {
+            "title": "North Zone TISCA",
+            "type": "meet",
+            "event": "",
+            "location": "WAC",
+            "start": "2023-11-16"
+        },
+        {
+            "title": "vs. Frisco Reedy & Lewisville",
+            "type": "meet",
+            "event": "",
+            "location": "WAC",
+            "start": "2023-11-30"
+        },
+        {
+            "title": "LISD Dive Invitational",
+            "path": "20231206-lisd-dive-invite",
+            "type": "dive-meet",
+            "event": "",
+            "location": "WAC",
+            "start": "2023-12-06"
+        },
+        {
+            "title": "vs. Marcus",
+            "type": "meet",
+            "event": "Senior Night",
+            "location": "WAC",
+            "start": "2023-12-13"
+        },
+        {
+            "title": "Kyle Tilley Invitational",
+            "type": "meet",
+            "event": "",
+            "location": "WAC",
+            "start": "2024-01-12"
+        },
+        {
+            "title": "Districts",
+            "type": "meet",
+            "event": "",
+            "location": "WAC",
+            "start": "2024-01-26"
+        },
+        {
+            "title": "Regionals",
+            "type": "meet",
+            "event": "",
+            "location": "WAC",
+            "start": "2024-02-08"
+        },
+        {
+            "title": "State",
+            "type": "meet",
+            "event": "",
+            "location": "WAC",
+            "start": "2024-02-23"
+        }
+    ]
+}
 
 
 

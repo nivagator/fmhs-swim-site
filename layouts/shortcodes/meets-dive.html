@@ -11,8 +11,9 @@
         <th class="meet-results"></th>
         <th class="meet-pictures"></th>
     </tr>
-    {{ $data := .Site.Data.meetsdive}}
-    {{ range (sort $data ".start" "asc" ) }}
+    {{ $season := .Get 0 }}
+    {{ $data := index .Site.Data.meetsdive $season }}
+    {{ range $key, $value := sort $data ".start" "asc" }}
     <tr>
         <!-- <a href="{{.url}}">{{ .start | time.Format ":date_medium" }} {{.title}}</a> @ {{.location}}<br> -->
         <td>
@@ -54,11 +55,3 @@
     </tr>
     {{ end }}
 </table>
-
-<!-- https://gohugo.io/functions/dateformat/ -->
-
-<!-- 
-<h3>option 2 list</h3>
-{{ range .Site.Data.meets }}
-<a href="{{.url}}">{{ .start | time.Format ":date_medium" }} {{.title}}</a> @ {{.location}}<br>
-{{ end }} -->
