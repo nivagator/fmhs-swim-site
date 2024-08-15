@@ -1,23 +1,13 @@
-<!-- <h2>Team (Alpha)</h2> -->
-<!-- <em>Basic, alphabetical roster listing. This can be altered to group by class. This is a placeholder pending further input.</em> -->
-<!-- <ul>
-{{$data := .Site.Data.roster.roster}}
-{{ range $key, $value := (sort $data ".lname" "asc" )}}
-    <li>{{.fname}} {{.lname}}</li>
-{{ end }}
-</ul> -->
-
-<!-- <ul>
-    {{$data := .Site.Data.roster.roster}}
-    {{ range $key, $value := (sort (where $data ".lname" "Greer") ".lname" "asc" )}}
-        <li>{{.lname}}, {{.fname}}</li>
-    {{ end }}
-</ul> -->
-
+{{ $year := .Get 0 }}
+<!-- {{ if eq $year "current" }}
+<h1>THIS IS THE CURRENT ROSTER</h1>
+{{ else }} 
+<h1>{{ $year }}</h1>
+{{ end }} -->
 <div class="row">
     <div class="col-3 roster"><h2>Seniors</h2>
         <ul class="roster">
-            {{$data := .Site.Data.roster.roster}}
+            {{$data := index .Site.Data.roster $year }}
             {{ range $key, $value := (sort (where $data ".class" "senior") ".lname" "asc" )}}
                 <li>{{.fname}} {{.lname}}</li>
             {{ end }}
@@ -25,7 +15,7 @@
     </div>
     <div class="col-3 roster"><h2>Juniors</h2>
         <ul class="roster">
-            {{$data := .Site.Data.roster.roster}}
+            {{$data := index .Site.Data.roster $year }}
             {{ range $key, $value := (sort (where $data ".class" "junior") ".lname" "asc" )}}
                 <li>{{.fname}} {{.lname}}</li>
             {{ end }}
@@ -33,7 +23,7 @@
     </div>
     <div class="col-3 roster"><h2>Sophomores</h2>
         <ul class="roster">
-            {{$data := .Site.Data.roster.roster}}
+            {{$data := index .Site.Data.roster $year }}
             {{ range $key, $value := (sort (where $data ".class" "sophomore") ".lname" "asc" )}}
                 <li>{{.fname}} {{.lname}}</li>
             {{ end }}
@@ -41,7 +31,7 @@
     </div>
     <div class="col-3 roster"><h2>Freshmen</h2>
         <ul class="roster">
-            {{$data := .Site.Data.roster.roster}}
+            {{$data := index .Site.Data.roster $year }}
             {{ range $key, $value := (sort (where $data ".class" "freshman") ".lname" "asc" )}}
                 <li>{{.fname}} {{.lname}}</li>
             {{ end }}

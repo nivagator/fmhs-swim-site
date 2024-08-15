@@ -1,5 +1,16 @@
 {
-    "roster": [
+    "year2025": [
+        {"fname": "Lelle", "lname": "Agh", "class": "junior"},
+        {"fname": "Keshav", "lname": "Ananda", "class": "junior"},
+        {"fname": "Ethan", "lname": "Arrington", "class": "senior"},
+        {"fname": "Logan", "lname": "Arrington", "class": "sophomore"},
+        {"fname": "Hannah", "lname": "Ballew", "class": "sophomore"},
+        {"fname": "Riya", "lname": "Bapodara", "class": "sophomore"},
+        {"fname": "Isabella", "lname": "Borges", "class": "sophomore"},
+        {"fname": "Charlee", "lname": "Bowers", "class": "senior"},
+        {"fname": "Madeline", "lname": "Brawner", "class": "freshman"},
+        {"fname": "Ola", "lname": "Wozniak", "class": "senior"}
+    ],"year2024": [
         {"fname": "Lelle", "lname": "Agh", "class": "junior"},
         {"fname": "Keshav", "lname": "Ananda", "class": "junior"},
         {"fname": "Ethan", "lname": "Arrington", "class": "senior"},
