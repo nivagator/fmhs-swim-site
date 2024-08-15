@@ -1,42 +1,44 @@
-<!-- List all items in an album -->
-<!-- 
-{{$data := .Site.Data.albums.albums}}
-{{ range $key, $value := $data }}
-    {{ if eq $value.name "Meet 1"}}
-        {{.name}} - ../img/albums/{{.path}}<br>
-        <ul>
-        {{ range .images}} 
-            <li>../img/albums/{{$value.path}}{{.name}}</li>
-        {{ end }}
-        </ul>
-    {{ end }}
-{{ end }} 
--->
-
-{{$data := .Site.Data.albums.albums}}
-<!-- uncomment header when we have an album -->
-<!-- <h2>albums</h2>  -->
-
-{{ range $key, $value := last 10 (sort $data ".path" "desc" ) }}
-    {{$lycheeurl := .url}}
-    <!-- <h3><a href="/albums/{{$value.path}}">{{.name}} - ({{.images | len }})</a></h3> -->
-    <h3><a href="{{$lycheeurl}}" target="_blank">{{.name}}</a></h3>
-    <!-- <ul>
-    {{ range first 4 .images}} 
-        <li>../img/albums/{{$value.path}}{{.name}}</li>
-    {{ end }}
-    </ul> -->
-    <div class="row">
-        
-        {{ range first 3 .images}} 
-        <div class="column">
-            <!-- <a href="/albums/{{$value.path}}"><img src="/img/albums/{{$value.path}}/{{.name}}" alt=""></a> -->
+{{ $season := .Get 0 }}
+{{ $thumbs := .Get 1 }}
+{{ $thumbs }}
+{{ if $season }}
+  <!-- <h1>yes season {{$season}} </h1> -->
+  {{$data := where .Site.Data.albums.albums "season" $season }}
+  {{ range $key, $value := (sort $data ".path" "desc" ) }}
+      {{$lycheeurl := .url}}
+      <h3><a href="{{$lycheeurl}}" target="_blank">{{.name}}</a></h3>
+      {{ if eq $thumbs "no"}}
+      {{ else }}
+      <div class="row">
+          {{ range first 3 .images}} 
+          <div class="column">
             <a href="{{$lycheeurl}}" target="_blank"><img src="/img/albums/{{$value.path}}/{{.name}}" alt=""></a>
-        </div>
-        {{ end }}
-        <div class="column">
-            <!-- <a href="/albums/{{$value.path}}"><img src="/img/more.webp" alt="more..."></a> -->
+          </div>
+          {{ end }}
+          <div class="column">
             <a href="{{$lycheeurl}}" target="_blank"><img src="/img/more.webp" alt="more..."></a>
-        </div>
-    </div>
-{{ end }} 
+          </div>
+      </div>
+      {{ end }}
+  {{ end }} 
+{{ else }}
+  <!-- <h1>no season</h1> -->
+  {{$data := .Site.Data.albums.albums}}
+  {{ range $key, $value := last 10 (sort $data ".path" "desc" ) }}
+      {{$lycheeurl := .url}}
+      <h3><a href="{{$lycheeurl}}" target="_blank">{{.name}}</a></h3>
+      {{ if eq $thumbs "no"}}
+      {{ else }}
+      <div class="row">
+          {{ range first 3 .images}} 
+          <div class="column">
+            <a href="{{$lycheeurl}}" target="_blank"><img src="/img/albums/{{$value.path}}/{{.name}}" alt=""></a>
+          </div>
+          {{ end }}
+          <div class="column">
+            <a href="{{$lycheeurl}}" target="_blank"><img src="/img/more.webp" alt="more..."></a>
+          </div>
+      </div>
+      {{ end }}
+  {{ end }} 
+{{ end }}

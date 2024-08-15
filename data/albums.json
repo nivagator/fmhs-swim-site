@@ -2,6 +2,7 @@
    "albums": [
     {
       "name": "Plano West - Sept 23, 2023",
+      "season": "year2024",
       "path": "20230923-plano-west",
       "url": "https://photos.fmhswaterjags.com/gallery#WrW0Nlr1jc39qq-3O59OD2yk",
       "images": [
@@ -12,6 +13,7 @@
     },
     {
       "name": "Season Open Party - Oct 1st, 2023",
+      "season": "year2024",
       "path": "20231001-main-event",
       "url": "https://photos.fmhswaterjags.com/gallery#cpeWl1TfP-ZpfTeyP4pvCVYa",
       "images": [
@@ -22,6 +24,7 @@
     },
     {
       "name": "Jesuit/Ursuline, October 24, 2023",
+      "season": "year2024",
       "path": "20231024-jesuit-ursuline",
       "url": "https://photos.fmhswaterjags.com/gallery#80QM2bFdSQFVSnBZ7Ur_Zu0l",
       "images": [
@@ -32,6 +35,7 @@
     },
     {
       "name": "Coppell, November 8, 2023",
+      "season": "year2024",
       "path": "20231108-coppell",
       "url": "https://photos.fmhswaterjags.com/gallery#DgiejFQYTMUGLDOFIfi3RUZh",
       "images": [
@@ -42,6 +46,7 @@
     },
     {
       "name": "TISCA, November 17-18, 2023",
+      "season": "year2024",
       "path": "20231117-tisca",
       "url": "https://photos.fmhswaterjags.com/gallery#q203XoSp6qMJvujk9uCWrS11",
       "images": [
@@ -52,6 +57,7 @@
     },
     {
       "name": "Marcus, December 13, 2023",
+      "season": "year2024",
       "path": "20231213-marcus",
       "url": "https://photos.fmhswaterjags.com/gallery#8FPh5_fzRy-q7z3cZ1O6Sjc7",
       "images": [
@@ -62,6 +68,7 @@
     },
     {
       "name": "Kyle Tilley, January 13, 2024",
+      "season": "year2024",
       "path": "20240113-kyle-tilley",
       "url": "https://photos.fmhswaterjags.com/gallery#Rt3UFLaNnbZK03MTIJ76vEYV",
       "images": [
@@ -72,6 +79,7 @@
     },
     {
       "name": "District Meet, January 27, 2024",
+      "season": "year2024",
       "path": "20240127-district",
       "url": "https://photos.fmhswaterjags.com/gallery#c65ckWCyFx3rR_9yyrjqaLgV",
       "images": [
@@ -82,6 +90,7 @@
     },
     {
       "name": "Region Meet, February 9-10, 2024",
+      "season": "year2024",
       "path": "20240209-regionals",
       "url": "https://photos.fmhswaterjags.com/gallery#_mqnh1h3eXHJsbncZkOgMBtL",
       "images": [
