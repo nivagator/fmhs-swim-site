@@ -13,7 +13,6 @@ date = 2023-09-15T13:11:50-05:00
 {{< booster-chairs >}}  
 
 ### Links
-- [Team Snap](https://go.teamsnap.com/565575/home)  
 - [Pay Member Dues Here](https://fmhs-swim-dive-booster-club.square.site/)  
 - [Email the Board Here](mailto:fmhswaterjags@gmail.com)
 
