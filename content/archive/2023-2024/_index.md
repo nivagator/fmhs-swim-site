@@ -6,7 +6,7 @@ date = 2024-08-14T21:56:17-05:00
 - 2024 District 6-6A Champs - Swept both Boys and Girls Titles
 - 11 State Qualifiers
 - 27 Regional Qualifiers
-- 5 new team records at State
+- 6 new team records
   - Boys 200 Medley Relay - 1:31.77 - 3rd Place at State
     - L. Garrett
     - D. Jones
@@ -20,6 +20,11 @@ date = 2024-08-14T21:56:17-05:00
   - Boys 100 Free - Luke Garrett - 44.91
   - Boys 200 Free - Luke Garrett - 1:38.70
   - Boys 500 Free - Aubrey Jaya - 4:30.46  
+  - Girls 400 Free Relay - 3:29.50
+    - L. Weiland
+    - T. Panchishna
+    - O. Wozniak
+    - C. Uliasz
 
 # Roster
 {{< roster "year2024" >}}
