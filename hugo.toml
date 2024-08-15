@@ -80,13 +80,13 @@ widgets = ["dues","photos","recent","meets","wac","social","sponsors"]
     pageRef = '/meet-schedule'
     weight = 31
 [[menu.main]]
-    name = 'Team Records'
+    name = 'Records'
     pageRef = '/records'
     weight = 32
-[[menu.main]]
-    name = 'Volunteer'
-    pageRef = '/volunteer'
-    weight = 40
+# [[menu.main]]
+#     name = 'Volunteer'
+#     pageRef = '/volunteer'
+#     weight = 40
 [[menu.main]]
     name = 'Booster Info'
     pageRef = '/booster-info'
@@ -101,10 +101,18 @@ widgets = ["dues","photos","recent","meets","wac","social","sponsors"]
     weight = 70
     [menu.main.params]
         external = true
+# [[menu.main]]
+#     name = 'Forms'
+#     pageRef = '/forms'
+#     weight = 80
 [[menu.main]]
-    name = 'Forms'
-    pageRef = '/forms'
-    weight = 80
+    name = 'Archive'
+    pageRef = '/archive'
+    weight = 900
+[[menu.main]]
+    name = 'FAQ'
+    pageRef = '/faq'
+    weight = 1000
 # [[menu.main]]
 #     name = "sub-menu"
 #     url = '/forms'
