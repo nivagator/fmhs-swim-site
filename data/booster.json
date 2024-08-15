@@ -1,29 +1,24 @@
 {
     "board": [
         {
-            "fname": "Erin",
-            "lname": "Ross",
-            "email": "rosse@lisd.net",
+            "fname": "Bob",
+            "lname": "Kruzel",
             "position": "President"
         },{
             "fname": "Katie",
             "lname": "Jones",
-            "email": "swimmom91114@gmail.com",
             "position": "Vice President"
         },{
-            "fname": "Bob",
-            "lname": "Kruzel",
-            "email": "bobkruzel@yahoo.com",
+            "fname": "Open",
+            "lname": " ",
             "position": "Treasurer"
         },{
-            "fname": "Edyta",
-            "lname": "Wozniak",
-            "email": "edziawo@gmail.com",
+            "fname": "Karen",
+            "lname": "Spencer",
             "position": "Secretary"
         },{
-            "fname": "Katie",
-            "lname": "Lowe",
-            "email": "katielowe02@hotmail.com",
+            "fname": "Jenny",
+            "lname": "Lofthus",
             "position": "Member At Large"
         }
     ],
@@ -31,37 +26,27 @@
         {
             "fname": "Liz",
             "lname": "Ballew",
-            "email": "ecballew@gmail.com",
             "position": "Volunteer Chair"
         },{
             "fname": "Angelica",
             "lname": "Ortiz",
-            "email": "ruiz.angely@gmail.com",
             "position": "Spirit Wear"
         },{
             "fname": "Holly",
             "lname": "Egan",
-            "email": "eganh@lisd.net",
             "position": "Dive Representative"
         },{
-            "fname": "Sean",
-            "lname": "Gorman",
-            "email": "seangorman1@gmail.com",
+            "fname": "Open",
+            "lname": " ",
             "position": "Meet Meals"
         },{
             "fname": "Sara",
             "lname": "Harshbarger",
-            "email": "edziawo@gmail.com",
             "position": "Banquet Chair"
         },{
-            "fname": "Jessica",
-            "lname": "Arrington",
-            "email": "teal_the_turtle@yahoo.com",
+            "fname": "Kayde",
+            "lname": "Weiland",
             "position": "Senior Night Chair"
-        },{
-            "fname": "June & Eva",
-            "lname": "",
-            "position": "Senior Night Assistants"
         }
     ]
 }
