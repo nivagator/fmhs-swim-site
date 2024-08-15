@@ -1,6 +1,7 @@
 {{ $meet := .Get 0 }}
+{{ $season := .Get 1 }}
+{{ $data := index .Site.Data.meets $season }}
 
-{{$data := .Site.Data.meets.year2024}}
 {{ range $key, $value := where $data ".path" $meet }}
 
     {{ if .results }}
