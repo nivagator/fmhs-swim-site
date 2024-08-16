@@ -3,13 +3,13 @@ title = 'Booster Info'
 date = 2023-09-15T13:11:50-05:00
 +++
 
-### Booster Club Board 2023-2024  
+### Booster Club Board 2024-2025  
 {{< booster-board >}}
 {{<rawhtml>}}
 <em><a href="mailto:fmhswaterjags@gmail.com">Email the Board: fmhswaterjags@gmail.com</a></em>
 {{</rawhtml>}}
 
-### Booster Club Chairs 2023-2024
+### Booster Club Chairs 2024-2025
 {{< booster-chairs >}}  
 
 ### Links
