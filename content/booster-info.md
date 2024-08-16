@@ -15,6 +15,8 @@ date = 2023-09-15T13:11:50-05:00
 ### Links
 - [Pay Member Dues Here](https://fmhs-swim-dive-booster-club.square.site/)  
 - [Email the Board Here](mailto:fmhswaterjags@gmail.com)
+- [Volunteer Information](../volunteer)
+- [Forms](../forms)
 
 <!-- 
 ### Booster Club Bylaws
