@@ -24,16 +24,16 @@ date = 2024-08-14T21:56:17-05:00
     - L. Weiland
     - T. Panchishna
     - O. Wozniak
-    - C. Uliasz
+    - C. Uliasz 
 
 # Roster
-{{< roster "year2024" >}}
+{{< roster "year2024" >}}  
 
 # Swim Meet Schedule 
-{{< meets-swim "year2024" >}}
+{{< meets-swim "year2024" >}}  
 
 # Dive Meet Schedule 
-{{< meets-dive "year2024" >}}
+{{< meets-dive "year2024" >}}  
 
 ![2024 District Champs](/img/2024-district-champsx1000.png "2024 DISTRICT CHAMPS")    
 ![2024 Regional Qualifiers](/img/2024-regional-qualifiersx800.png)  
