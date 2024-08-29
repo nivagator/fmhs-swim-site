@@ -25,7 +25,11 @@
         </td>
         <!-- <td>{{.event}}</td> -->
         <td>
+            {{ if .url }}
             <a href="{{.url}}">{{.title}}</a>
+            {{ else }}
+                {{.title}}
+            {{ end }}
             {{ if .event }}
             - <strong>{{.event}}</strong>
             {{ end }}

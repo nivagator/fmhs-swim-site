@@ -1,4 +1,101 @@
 {
+    "year2025": [
+        {
+            "title": "GISD Dive Meet Invitational",
+            "path": "20240927-dive",
+            "type": "dive-meet",
+            "event": "",
+            "location": "WAC",
+            "start": "2024-09-27",
+            "startTime": "1:00PM"
+        },{
+            "title": "Relay & 3 m Dive Invitational",
+            "path": "20241005-dive",
+            "type": "dive-meet",
+            "event": "",
+            "location": "WAC",
+            "start": "2024-10-05",
+            "startTime": "1:00PM"
+        },{
+            "title": "vs Marcus & Prosper",
+            "path": "20241030-dive",
+            "type": "dive-meet",
+            "event": "",
+            "location": "WAC",
+            "start": "2024-10-30",
+            "startTime": "5:30PM"
+        },{
+            "title": "vs Coppell",
+            "path": "20241114-dive",
+            "type": "dive-meet",
+            "event": "",
+            "location": "WAC",
+            "start": "2024-11-14",
+            "startTime": "5:30PM"
+        },{
+            "title": "TISCA 1 meter Dive Event",
+            "path": "20241121-dive",
+            "type": "dive-meet",
+            "event": "",
+            "location": "WAC",
+            "start": "2024-11-21"
+        },{
+            "title": "TISCA 3 meter Event",
+            "path": "20241122-dive",
+            "type": "dive-meet",
+            "event": "",
+            "location": "WAC",
+            "start": "2024-11-22",
+            "startTime": "5:00PM"
+        },{
+            "title": "Lewisville ISD Dive Invitational",
+            "path": "20241212-dive",
+            "type": "dive-meet",
+            "event": "",
+            "location": "WAC",
+            "start": "2024-12-12",
+            "startTime": "5:00PM"
+        },{
+            "title": "vs Marcus",
+            "path": "20241218-dive",
+            "type": "dive-meet",
+            "event": "",
+            "location": "WAC",
+            "start": "2024-12-18",
+            "startTime": "5:30PM"
+        },{
+            "title": "Kyle Tilley Dive Invitational",
+            "path": "20250117-dive",
+            "type": "dive-meet",
+            "event": "",
+            "location": "WAC",
+            "start": "2025-01-17",
+            "startTime": "5:00PM"
+        },{
+            "title": "6A District 6 Championships",
+            "path": "20250124-dive",
+            "type": "dive-meet",
+            "event": "",
+            "location": "WAC",
+            "start": "2025-01-24",
+            "startTime": "5:00PM"
+        },{
+            "title": "6A Region 2 Dive Championships",
+            "path": "20250206-dive",
+            "type": "dive-meet",
+            "event": "",
+            "location": "WAC",
+            "start": "2025-02-06"
+        },{
+            "title": "State Championships",
+            "path": "20250221-dive",
+            "type": "dive-meet",
+            "event": "",
+            "location": "WAC",
+            "start": "2025-02-21",
+            "startTime": "9:00AM"
+        }
+    ],
     "year2024": [
         {
             "title": "GISD Dive Meet",

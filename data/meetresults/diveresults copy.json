@@ -1,0 +1,33 @@
+{
+    "dive20230930": {
+        "path": "20230930-dive",
+        "results": [
+            {
+            "events": "Womens 1m Finals",
+            "resultsdoc": "/results/20230930-dive.pdf",
+            "indivresults": [
+                {
+                    "fname": "Keann",
+                    "lname": "Guthrie",
+                    "points": "205.55",
+                    "rank": "1",
+                    "school": "Lake Highlands"
+                }
+            ]
+        },
+        {
+            "events": "Womens 1m Finals",
+            "resultsdoc": "/results/20230930-dive.pdf",
+            "indivresults": [
+                {
+                    "fname": "Keann",
+                    "lname": "Guthrie",
+                    "points": "205.55",
+                    "rank": "1",
+                    "school": "Lake Highlands"
+                }
+            ]
+        }
+    ]
+    }
+}

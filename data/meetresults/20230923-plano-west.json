@@ -1,0 +1,123 @@
+{
+    "totalscores": {
+        "girls": [
+            {
+                "school": "FMHS",
+                "points": "262",
+                "place": "1"
+            },
+            {
+                "school": "PLWE",
+                "points": "195",
+                "place": "2"
+            }
+        ],
+        "boys": [
+            {
+                "school": "FMHS",
+                "points": "251",
+                "place": "1"
+            },
+            {
+                "school": "FMHS",
+                "points": "160",
+                "place": "2"
+            }
+        ]
+    },
+    "events": [
+        {
+            "eventnum": "3",
+            "eventname": "200 Yard Freestyle",
+            "gender": "girls",
+            "eventtimes": [
+                {
+                "place": "1",
+                "lname": "Weiland",
+                "fname": "Laney",
+                "school": "FMHS",
+                "time": "1:58.01",
+                "points": "9"
+                },
+                {
+                "place": "2",
+                "lname": "Kruzel",
+                "fname": "Parker",
+                "school": "FMHS",
+                "time": "2:03.83",
+                "points": "7"
+                },
+                {
+                "place": "3",
+                "lname": "Dooley",
+                "fname": "Ellen",
+                "school": "PLWE",
+                "time": "2:07.63",
+                "points": "6"
+                },
+                {
+                "place": "4",
+                "lname": "Troxler",
+                "fname": "Ally",
+                "school": "PLWE",
+                "time": "2:17.57",
+                "points": "5"
+                },
+                {
+                "place": "5",
+                "lname": "Shanker",
+                "fname": "Aditi",
+                "school": "PLWE",
+                "time": "2:46.90",
+                "points": "4"
+                }
+            ]
+        },{
+            "eventnum": "4",
+            "gender": "boys",
+            "eventname": "200 Yard Freestyle",
+            "eventtimes": [
+                {
+                    "place": "1", 
+                    "lname": "Callan",
+                    "fname": "Bentley",
+                    "school": "PLWE",
+                    "time": "1:57.62",
+                    "points": "9"
+                },
+                {
+                    "place": "2", 
+                    "lname": "Mele",
+                    "fname": "David",
+                    "school": "PLWE",
+                    "time": "1:58.67",
+                    "points": "7"
+                },
+                {
+                    "place": "3", 
+                    "lname": "Sung",
+                    "fname": "Ian",
+                    "school": "FMHS",
+                    "time": "1:59.65",
+                    "points": "6"
+                },
+                {
+                    "place": "4", 
+                    "lname": "Viele",
+                    "fname": "Matthew",
+                    "school": "FMHS",
+                    "time": "2:01.97",
+                    "points": "5"
+                },
+                {
+                    "place": "5", 
+                    "lname": "Zhang",
+                    "fname": "Raymond",
+                    "school": "PLWE",
+                    "time": "2:08.43",
+                    "points": "4"
+                }
+            ]
+        }
+    ]
+}
