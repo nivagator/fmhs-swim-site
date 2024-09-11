@@ -1,4 +1,110 @@
 {
+    "year2025": [
+        {
+            "title": "vs Prosper",
+            "season": "year2025",
+            "path": "20241030-prosper",
+            "type": "meet",
+            "event": "",
+            "url": "../meets/20241030-prosper",
+            "location": "WAC",
+            "start": "2024-10-30"
+        },
+        {
+            "title": "vs Coppell",
+            "season": "year2025",
+            "path": "20241114-coppell",
+            "type": "meet",
+            "event": "",
+            "url": "../meets/20241114-coppell",
+            "location": "WAC",
+            "start": "2024-11-14"
+        },
+        {
+            "title": "TISCA",
+            "season": "year2025",
+            "path": "20241121-tisca",
+            "type": "meet",
+            "event": "",
+            "url": "../meets/20241121-tisca",
+            "location": "WAC",
+            "start": "2024-11-21",
+            "end": "2024-11-23"
+        },
+        {
+            "title": "vs. Frisco Reedy",
+            "season": "year2025",
+            "path": "20241204-reedy",
+            "type": "meet",
+            "event": "",
+            "url": "../meets/20241204-reedy",
+            "location": "WAC",
+            "start": "2024-12-04"
+        },
+        {
+            "title": "Dual Meet Champs",
+            "season": "year2025",
+            "path": "20241214-dual-meet",
+            "type": "meet",
+            "event": "",
+            "url": "../meets/20241214-dual-meet",
+            "location": "Frisco",
+            "start": "2024-12-13",
+            "end": "2024-12-14"
+        },
+        {
+            "title": "vs Marcus",
+            "season": "year2025",
+            "path": "20241218-marcus",
+            "type": "meet",
+            "event": "",
+            "url": "../meets/20241218-marcus",
+            "location": "WAC",
+            "start": "2024-12-18"
+        },
+        {
+            "title": "Kyle Tilley Invitational",
+            "season": "year2025",
+            "path": "20250118-kyle-tilley",
+            "type": "meet",
+            "event": "",
+            "url": "../meets/20250118-kyle-tilley",
+            "location": "WAC",
+            "start": "2025-01-18"
+        },
+        {
+            "title": "District Championships",
+            "season": "year2025",
+            "path": "20250125-district",
+            "type": "meet",
+            "event": "",
+            "url": "../meets/20250125-district",
+            "location": "WAC",
+            "start": "2025-01-25"
+        },
+        {
+            "title": "Region Championships",
+            "season": "year2025",
+            "path": "20250207-regionals",
+            "type": "meet",
+            "event": "",
+            "url": "../meets/20250207-regionals",
+            "location": "WAC",
+            "start": "2025-02-07",
+            "end": "2025-02-08"
+        },
+        {
+            "title": "State Championships",
+            "season": "year2025",
+            "path": "20250221-state",
+            "type": "meet",
+            "event": "",
+            "url": "../meets/20250221-state",
+            "location": "Austin, TX",
+            "start": "2025-02-21",
+            "end": "2025-02-22"
+        }
+    ],
     "year2024": [
         {
             "title": "vs. Plano West",
