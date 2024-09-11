@@ -7,9 +7,10 @@
 </div>
 
 <script>
+    // var json = require('./js/calendar.json');
 	$(document).ready(function() {
 		var strDate = (new Date()).toISOString().split('T')[0];
-        console.log(strDate)
+        //console.log(strDate)
 		$('#calendar').fullCalendar({
 			header: {
 				left: 'prev,next today',
@@ -177,6 +178,61 @@
                 {
                     title: 'Team Banquet',
                     start: '2024-04-07'
+                },
+                // swim 2025
+                {
+                    title: "vs Prosper",
+                    url: "../meets/20241030-prosper",
+                    start: "2024-10-30"
+                },
+                {
+                    title: "vs Coppell",
+                    url: "../meets/20241114-coppell",
+                    start: "2024-11-14"
+                },
+                {
+                    title: "TISCA",
+                    url: "../meets/20241121-tisca",
+                    start: "2024-11-21",
+                    end: "2024-11-23"
+                },
+                {
+                    title: "vs. Frisco Reedy",
+                    url: "../meets/20241204-reedy",
+                    start: "2024-12-04"
+                },
+                {
+                    title: "Dual Meet Champs",
+                    url: "../meets/20241214-dual-meet",
+                    start: "2024-12-13",
+                    end: "2024-12-14"
+                },
+                {
+                    title: "vs Marcus",
+                    url: "../meets/20241218-marcus",
+                    start: "2024-12-18"
+                },
+                {
+                    title: "Kyle Tilley Invitational",
+                    url: "../meets/20250118-kyle-tilley",
+                    start: "2025-01-18"
+                },
+                {
+                    title: "District Championships",
+                    url: "../meets/20250125-district",
+                    start: "2025-01-25"
+                },
+                {
+                    title: "Region Championships",
+                    url: "../meets/20250207-regionals",
+                    start: "2025-02-07",
+                    end: "2025-02-08"
+                },
+                {
+                    title: "State Championships",
+                    url: "../meets/20250221-state",
+                    start: "2025-02-21",
+                    end: "2025-02-22"
                 }                
 			]
 		});
