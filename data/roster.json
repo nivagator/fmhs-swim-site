@@ -25,6 +25,13 @@
         {"class": "senior","fname": "Aashi","lname": "Shah"},
         {"class": "senior","fname": "Aarna","lname": "Shukla"},
         {"class": "senior","fname": "Laney","lname": "Weiland"},
+        {"class": "senior", "fname": "Kiele", "lname": "Davidson"},
+        {"class": "senior", "fname": "Ayden", "lname": "Edgu"},
+        {"class": "senior", "fname": "Jack", "lname": "LaClair"},
+        {"class": "senior", "fname": "John", "lname": "Mangelson"},
+        {"class": "senior", "fname": "Sydney", "lname": "Poore"},
+        {"class": "senior", "fname": "Jerry", "lname": "Tang"},
+        {"class": "senior", "fname": "Matthew", "lname": "Viele"},
         {"class": "junior","fname": "Hannah","lname": "Ballew"},
         {"class": "junior","fname": "Hannah","lname": "Egan"},
         {"class": "junior","fname": "Lily","lname": "Geltner"},
@@ -133,3 +140,4 @@
         {"fname": "Ola", "lname": "Wozniak", "class": "senior"}
     ]
 }
+
