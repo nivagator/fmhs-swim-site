@@ -1,0 +1,26 @@
+{{ $year := .Get 0 }}
+{{ $classyear := substr $year 4 4 }}
+
+{{$data := index .Site.Data.roster $year }}
+<div class="row">
+    {{ range $key, $value := where $data ".name" "seniors" }}
+    <div class="grid-container">
+        {{ $className := .name }}
+        <!-- <ul class="roster"> -->
+        {{ range $key, $value := (sort .members ".lname" "asc")}}
+            {{ $directory := print "/img/" print $classyear print "seniors/"}}
+            {{ $staticDirectory := print "static" $directory}}
+            {{ $img := print .fname print .lname ".jpg"}}
+            {{ $path := print $directory $img}}
+            {{if (where (readDir $staticDirectory) "Name" $img) }}
+            <div class="grid-item">
+                <h2 id="{{.fname}}{{.lname}}">{{.fname}} {{.lname}}</h2>
+                <img src="{{ $path }}" alt="">
+            </div>
+            {{ end }}
+        {{end}}
+        <!-- </ul> -->
+    </div>
+    {{ end }}
+</div>
+ 

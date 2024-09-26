@@ -1,14 +1,24 @@
 {{ $year := .Get 0 }}
+{{ $srLinks := .Get 1}}
 {{$data := index .Site.Data.roster $year }}
 <div class="row">
     {{ range $key, $value := $data }}
-    <div class="col-3 roster"><h2>{{ .name | strings.FirstUpper }}</h2>
-        {{ $className := .name }}
-        <ul class="roster">
-        {{ range $key, $value := (sort .members ".lname" "asc")}}
+        {{ if and (eq $srLinks 1) (eq (.name | strings.FirstUpper) "Seniors") }}
+            <div class="col-3 roster"><h2><a href="/roster/seniors">{{ .name | strings.FirstUpper }}</a></h2>
+            <ul class="roster">
+            {{ range $key, $value := (sort .members ".lname" "asc")}}
+            <li><a href="/roster/seniors#{{.fname}}{{.lname}}">{{.fname}} {{.lname}}</a></li>
+            {{end}}
+            </ul>
+        {{ else }}
+            <div class="col-3 roster"><h2>{{ .name | strings.FirstUpper }}</h2>
+            <ul class="roster">
+            {{ range $key, $value := (sort .members ".lname" "asc")}}
             <li>{{.fname}} {{.lname}}</li>
-        {{end}}
-        </ul>
+            {{end}}
+            </ul>
+        {{ end }}
+        
     </div>
     {{ end }}
 </div>
