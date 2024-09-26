@@ -5,7 +5,7 @@
             "path": "20240927-dive",
             "type": "dive-meet",
             "event": "",
-            "location": "WAC",
+            "location": "GISD Natatorium",
             "start": "2024-09-27",
             "startTime": "1:00PM"
         },{
@@ -16,6 +16,13 @@
             "location": "WAC",
             "start": "2024-10-05",
             "startTime": "1:00PM"
+        },{
+            "title": "JV/Varsity Invite",
+            "path": "20241026-dive",
+            "type": "dive-meet",
+            "event": "",
+            "location": "WAC",
+            "start": "2024-10-26"
         },{
             "title": "vs Marcus & Prosper",
             "path": "20241030-dive",
@@ -47,6 +54,13 @@
             "location": "WAC",
             "start": "2024-11-22",
             "startTime": "5:00PM"
+        },{
+            "title": "vs. Frisco Reedy",
+            "path": "20241204-dive",
+            "type": "dive-meet",
+            "event": "",
+            "location": "WAC",
+            "start": "2024-12-04"
         },{
             "title": "Lewisville ISD Dive Invitational",
             "path": "20241212-dive",
@@ -91,7 +105,7 @@
             "path": "20250221-dive",
             "type": "dive-meet",
             "event": "",
-            "location": "WAC",
+            "location": "Austin, TX",
             "start": "2025-02-21",
             "startTime": "9:00AM"
         }
