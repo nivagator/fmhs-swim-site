@@ -27,7 +27,7 @@ date = 2024-08-14T21:56:17-05:00
     - C. Uliasz 
 
 # Roster
-{{< roster "year2024" >}}  
+{{< roster "year2024" 0 >}}  
 
 # Swim Meet Schedule 
 {{< meets-swim "year2024" >}}  
