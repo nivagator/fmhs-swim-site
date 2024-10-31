@@ -8,7 +8,39 @@
             "event": "",
             "url": "../meets/20241030-prosper",
             "location": "WAC",
-            "start": "2024-10-30"
+            "start": "2024-10-30",
+            "results": {
+                "resultspath": "20241030-prosper.pdf",
+                "totalscores": [
+                    {
+                    "girls": [
+                        {
+                            "school": "FMHS",
+                            "points": "258",
+                            "place": "1"
+                        },
+                        {
+                            "school": "Prosper",
+                            "points": "248",
+                            "place": "2"
+                        }
+                    ],
+                    "boys": [
+                        {
+                            "school": "Prosper",
+                            "points": "274",
+                            "place": "1"
+                        },
+                        {
+                            "school": "FMHS",
+                            "points": "238",
+                            "place": "2"
+                        }
+                    ]
+                    }
+                ]
+                
+            }
         },
         {
             "title": "vs Coppell",
