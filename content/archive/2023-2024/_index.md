@@ -1,6 +1,7 @@
 +++
 title = '2023-2024 Season Archive'
 date = 2024-08-14T21:56:17-05:00
+tags = [ "archive" ]
 +++
 - 2024 Girls 6A Region 2 Champions (back-to-back years!)
 - 2024 District 6-6A Champs - Swept both Boys and Girls Titles
