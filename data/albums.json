@@ -98,6 +98,17 @@
         {"type":"file","name":"20240209-regionals-0000b.jpg"},
         {"type":"file","name":"20240209-regionals-0000c.jpg"}
       ]
+    },
+    {
+      "name": "Prosper, October 30, 2024",
+      "season": "year2025",
+      "path": "20241030-prosper",
+      "url": "https://photos.fmhswaterjags.com/gallery#qSCKhjYuooph4u28kb-sSCOE",
+      "images": [
+        {"type":"file","name":"20241030-prosper-003.jpg"},
+        {"type":"file","name":"20241030-prosper-008.jpg"},
+        {"type":"file","name":"20241030-prosper-013.jpg"}
+      ]
     }
   ]
 }
