@@ -43,7 +43,6 @@
                 {"fname": "Ian", "lname": "Suh"},
                 {"fname": "Thomas", "lname": "Tabbah"},
                 {"fname": "Pranav", "lname": "Thota"},
-                {"fname": "Logan", "lname": "Arrington"},
                 {"fname": "Katelyn", "lname": "LaClair"},
                 {"fname": "Deuce", "lname": "Wesley"},
                 {"fname": "Manuela", "lname": "Gysel"}
@@ -71,7 +70,6 @@
                 {"fname": "Rijoy", "lname": "Sarkar"},
                 {"fname": "Arianna", "lname": "Smith"},
                 {"fname": "Tessa", "lname": "Toriz"},
-                {"fname": "Briley", "lname": "Hull"},
                 {"fname": "Kendal", "lname": "Medina"}
             ]
         },
@@ -94,7 +92,6 @@
                 {"fname": "Ishaan", "lname": "Vakil"},
                 {"fname": "Rayssa", "lname": "Villar"},
                 {"fname": "Kylie", "lname": "Vo"},
-                {"fname": "Giovanna","lname": "Amaro Cruz Morganti"},
                 {"fname": "Jun","lname": "Eum"},
                 {"fname": "Jakob","lname": "Everett"},
                 {"fname": "Koto","lname": "Kobukai"},
