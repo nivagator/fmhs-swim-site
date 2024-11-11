@@ -13,5 +13,4 @@ The FMHS Swim & Dive Booster Club is hosting a fun night of food, bowling, laser
 **Time:** 5:45PM - 9:00PM  
 **Location:** Main Event Grapevine  
 
-<!-- Please [RSVP HERE](https://www.signupgenius.com/go/10C0849AAA72FA3FEC25-main#/). -->
 
