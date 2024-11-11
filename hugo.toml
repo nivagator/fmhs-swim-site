@@ -3,6 +3,11 @@ languageCode = 'en-us'
 title = 'FMHS Water Jags'
 theme = 'mainroad'
 
+[markup]
+  defaultMarkdownHandler = 'goldmark'
+[markup.goldmark.renderHooks.image]
+enableDefault = true
+
 [Params]
     description = "Flower Mound High School Swim & Dive"
     copyright = "FMHS Water Jags Booster Club"
