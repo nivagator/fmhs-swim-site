@@ -27,6 +27,9 @@
   {{ range $key, $value := last 10 (sort $data ".path" "desc" ) }}
       {{$lycheeurl := .url}}
       <h3><a href="{{$lycheeurl}}" target="_blank">{{.name}}</a></h3>
+      {{ if .bannerImg }}
+      <img src="{{ .bannerImg }}" alt=""><br><br>
+      {{ end }}
       {{ if eq $thumbs "no"}}
       {{ else }}
       <div class="row">
