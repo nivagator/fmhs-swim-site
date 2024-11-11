@@ -18,14 +18,12 @@ date = 2023-09-15T13:11:50-05:00
 - [Volunteer Information](../volunteer)
 - [Forms](../forms)
 
-<!-- 
-### Booster Club Bylaws
-*insert bylaws* -->
 
 ### Booster Club Meeting Materials
 
 #### 2024-2025 Season
-- September 29th, 2024 - {{< target-blank "Board Meeting Minutes" "/meetings/20240925-FMHS_Swim_Dive_Board_meeting.pdf">}}a
+- November 6th, 2024 - {{< target-blank "Board Meeting Minutes" "/meetings/20241106-FMHS_Swim_Dive_Board_meeting.pdf">}}
+- September 25th, 2024 - {{< target-blank "Board Meeting Minutes" "/meetings/20240925-FMHS_Swim_Dive_Board_meeting.pdf">}}
 - August 27th, 2024 - {{< target-blank "Board Meeting Minutes" "/meetings/20240827-FMHS_Swim_Dive_Board_Meeting.pdf">}}
   
 #### 2023-2024 Season
