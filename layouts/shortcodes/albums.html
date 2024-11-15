@@ -24,7 +24,7 @@
 {{ else }}
   <!-- <h1>no season</h1> -->
   {{$data := .Site.Data.albums.albums}}
-  {{ range $key, $value := last 10 (sort $data ".path" "desc" ) }}
+  {{ range $key, $value := first 10 (sort $data ".path" "desc" ) }}
       {{$lycheeurl := .url}}
       <h3><a href="{{$lycheeurl}}" target="_blank">{{.name}}</a></h3>
       {{ if .bannerImg }}
