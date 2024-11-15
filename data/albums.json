@@ -110,6 +110,17 @@
         {"type":"file","name":"20241030-prosper-008.jpg"},
         {"type":"file","name":"20241030-prosper-013.jpg"}
       ]
+    },
+    {
+      "name": "Signing Day, November 13, 2024",
+      "season": "year2025",
+      "path": "20241113-signingday",
+      "url": "https://photos.fmhswaterjags.com/gallery#z4p4Flrek-GzdQn0U_4F0uaU",
+      "images": [
+        {"type":"file","name":"20241113-signingday-28.jpg"},
+        {"type":"file","name":"20241113-signingday-16.jpg"},
+        {"type":"file","name":"20241113-signingday-08.jpg"}
+      ]
     }
   ]
 }
