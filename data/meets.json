@@ -51,7 +51,39 @@
             "event": "",
             "url": "../meets/20241114-coppell",
             "location": "WAC",
-            "start": "2024-11-14"
+            "start": "2024-11-14",
+            "results": {
+                "resultspath": "20241114-coppell.pdf",
+                "totalscores": [
+                    {
+                    "girls": [
+                        {
+                            "school": "FMHS",
+                            "points": "297",
+                            "place": "1"
+                        },
+                        {
+                            "school": "Coppell",
+                            "points": "195",
+                            "place": "2"
+                        }
+                    ],
+                    "boys": [
+                        {
+                            "school": "FMHS",
+                            "points": "288",
+                            "place": "1"
+                        },
+                        {
+                            "school": "Coppell",
+                            "points": "205",
+                            "place": "2"
+                        }
+                    ]
+                    }
+                ]
+                
+            }
         },
         {
             "title": "TISCA",
@@ -90,7 +122,7 @@
             "season": "year2025",
             "path": "20241218-marcus",
             "type": "meet",
-            "event": "",
+            "event": "Senior Night",
             "url": "../meets/20241218-marcus",
             "location": "WAC",
             "start": "2024-12-18"
