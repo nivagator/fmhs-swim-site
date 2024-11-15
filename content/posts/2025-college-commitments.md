@@ -2,7 +2,7 @@
 title = '2025 College Commitments'
 date = 2024-11-11T17:33:20-06:00
 +++
-![2025 commitments](2025-commitments.png)
+![2025 commitments](2025-commitments.jpg)
 
 <!--more-->  
 
