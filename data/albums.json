@@ -121,6 +121,17 @@
         {"type":"file","name":"20241113-signingday-16.jpg"},
         {"type":"file","name":"20241113-signingday-08.jpg"}
       ]
+    },
+    {
+      "name": "Coppell, November 14, 2024",
+      "season": "year2025",
+      "path": "20241114-coppell",
+      "url": "https://photos.fmhswaterjags.com/gallery#uLSQgizF-vPUw324dh3ucKX4",
+      "images": [
+        {"type":"file","name":"20241114-coppell-004.jpg"},
+        {"type":"file","name":"20241114-coppell-006.jpg"},
+        {"type":"file","name":"20241114-coppell-008.jpg"}
+      ]
     }
   ]
 }
