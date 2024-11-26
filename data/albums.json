@@ -132,6 +132,17 @@
         {"type":"file","name":"20241114-coppell-006.jpg"},
         {"type":"file","name":"20241114-coppell-008.jpg"}
       ]
+    },
+    {
+      "name": "TISCA, November 21-22, 2024",
+      "season": "year2025",
+      "path": "20241121-tisca",
+      "url": "https://photos.fmhswaterjags.com/gallery#RVZgdw_w_6ZJyzUf5xYLq_Ms",
+      "images": [
+        {"type":"file","name":"20241121-tisca-04.jpg"},
+        {"type":"file","name":"20241121-tisca-34.jpg"},
+        {"type":"file","name":"20241121-tisca-36.jpg"}
+      ]
     }
   ]
 }
