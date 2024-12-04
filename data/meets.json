@@ -1,7 +1,6 @@
 {
     "year2025": [
-        {
-            "title": "vs Prosper",
+        {   "title": "vs Prosper",
             "season": "year2025",
             "path": "20241030-prosper",
             "type": "meet",
@@ -43,8 +42,7 @@
                 
             }
         },
-        {
-            "title": "vs Coppell",
+        {   "title": "vs Coppell",
             "season": "year2025",
             "path": "20241114-coppell",
             "type": "meet",
@@ -86,8 +84,7 @@
                 
             }
         },
-        {
-            "title": "TISCA",
+        {   "title": "TISCA",
             "season": "year2025",
             "path": "20241121-tisca",
             "type": "meet",
@@ -96,7 +93,74 @@
             "photos": "https://photos.fmhswaterjags.com/gallery#RVZgdw_w_6ZJyzUf5xYLq_Ms",
             "location": "WAC",
             "start": "2024-11-21",
-            "end": "2024-11-23"
+            "end": "2024-11-23",
+            "results": {
+                "resultspath": "20241121-tisca.pdf",
+                "totalscores": [
+                    {
+                    "girls": [
+                        {"place": "1", "school": "Flower Mound", "points": "669"},
+                        {"place": "2", "school": "Frisco Reedy", "points": "403"},
+                        {"place": "3", "school": "Prosper", "points": "283"},
+                        {"place": "4", "school": "Coppell", "points": "237"},
+                        {"place": "5", "school": "Tyler Legacy", "points": "197"},
+                        {"place": "6", "school": "Dallas Ursuline Academy", "points": "194"},
+                        {"place": "7", "school": "Denton Guyer","points": "152.5"},
+                        {"place": "8", "school": "Plano", "points": "151"},
+                        {"place": "9", "school": "Dallas Bishop Lynch", "points": "137"},
+                        {"place": "10", "school": "Aledo", "points": "118"},
+                        {"place": "11", "school": "Garland Sachse", "points": "110"},
+                        {"place": "12", "school": "Greenhill School", "points": "103"},
+                        {"place": "13", "school": "Arlington Martin", "points": "94"},
+                        {"place": "14", "school": "North Crowley","points": "91.5"},
+                        {"place": "15", "school": "Prosper Rock Hill", "points": "76"},
+                        {"place": "16", "school": "Lewisville Hebron", "points": "75"},
+                        {"place": "17", "school": "Frisco", "points": "58"},
+                        {"place": "18", "school": "Lewisville Marcus", "points": "50"},
+                        {"place": "19", "school": "Colleyville Heritage", "points": "38"},
+                        {"place": "19", "school": "Grapevine", "points": "38"},
+                        {"place": "19", "school": "John Paul II", "points": "38"},
+                        {"place": "22", "school": "Allen", "points": "31"},
+                        {"place": "23", "school": "Frisco Lone Star", "points": "30"},
+                        {"place": "24", "school": "Christian Homeschool Sports Mi", "points": "22"},
+                        {"place": "25", "school": "Plano East", "points": "11"},
+                        {"place": "26", "school": "Fort Worth Paschal", "points": "10"},
+                        {"place": "27", "school": "Frisco Memorial", "points": "9"},
+                        {"place": "28", "school": "Frisco Lebanon Trail", "points": "7"},
+                        {"place": "28", "school": "Fort Worth Nolan Catholic", "points": "7"}
+                    ],
+                    "boys": [
+                        {"place": "1", "school": "FLower Mound", "points": "375"},
+                        {"place": "2", "school": "Coppell","points": "346.5"},
+                        {"place": "3", "school": "Dallas Jesuit","points": "329.5"},
+                        {"place": "4", "school": "Plano","points": "264.5"},
+                        {"place": "5", "school": "Frisco Reedy", "points": "243"},
+                        {"place": "6", "school": "Lewisville Marcus", "points": "236"},
+                        {"place": "7", "school": "Prosper", "points": "185"},
+                        {"place": "8", "school": "Garland Sachse", "points": "133"},
+                        {"place": "9", "school": "Fort Worth Paschal", "points": "129"},
+                        {"place": "10", "school": "Hurst Bell", "points": "122"},
+                        {"place": "11", "school": "Colleyville Heritage", "points": "104"},
+                        {"place": "12", "school": "Christian Homeschool Sports Mi", "points": "92"},
+                        {"place": "13", "school": "Greenhill School", "points": "83"},
+                        {"place": "14", "school": "Plano East", "points": "81"},
+                        {"place": "15", "school": "Lewisville Hebron", "points": "78"},
+                        {"place": "16", "school": "John Paul II","points": "65.5"},
+                        {"place": "17", "school": "Fort Worth Nolan Catholic", "points": "60"},
+                        {"place": "17", "school": "Arlington Martin", "points": "60"},
+                        {"place": "19", "school": "Arlington", "points": "59"},
+                        {"place": "20", "school": "Prosper Rock Hill", "points": "43"},
+                        {"place": "21", "school": "Tyler Legacy", "points": "35"},
+                        {"place": "22", "school": "Euless Trinity", "points": "29"},
+                        {"place": "23", "school": "Frisco", "points": "18"},
+                        {"place": "24", "school": "Arlington Lamar", "points": "13"},
+                        {"place": "25", "school": "Denton Guyer", "points": "7"},
+                        {"place": "26", "school": "Denton Braswell", "points": "5"}
+                    ]
+                    }
+                ]
+                
+            }
         },
         {
             "title": "vs. Frisco Reedy",
