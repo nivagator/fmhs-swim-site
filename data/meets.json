@@ -206,12 +206,12 @@
         {
             "title": "District Championships",
             "season": "year2025",
-            "path": "20250125-district",
+            "path": "20250124-district",
             "type": "meet",
             "event": "",
-            "url": "../meets/20250125-district",
+            "url": "../meets/20250124-district",
             "location": "WAC",
-            "start": "2025-01-25"
+            "start": "2025-01-24"
         },
         {
             "title": "Region Championships",
