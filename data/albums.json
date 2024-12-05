@@ -143,6 +143,17 @@
         {"type":"file","name":"20241121-tisca-34.jpg"},
         {"type":"file","name":"20241121-tisca-36.jpg"}
       ]
+    },
+    {
+      "name": "Frisco Reedy, December 4, 2024",
+      "season": "year2025",
+      "path": "20241204-reedy",
+      "url": "https://photos.fmhswaterjags.com/gallery#lEYwQBShGIAY3vJUcIpSqoCt",
+      "images": [
+        {"type":"file","name":"20241204-reedy-030.jpg"},
+        {"type":"file","name":"20241204-reedy-082.jpg"},
+        {"type":"file","name":"20241204-reedy-093.jpg"}
+      ]
     }
   ]
 }
