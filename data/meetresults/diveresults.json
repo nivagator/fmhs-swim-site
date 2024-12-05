@@ -300,5 +300,19 @@
                 ]
             }
         ]
+    },
+    "dive20241121": {
+        "results": [
+            {
+                "resultsdoc": "/results/20241121-tisca-1meter.pdf"
+            }
+        ]
+    },
+    "dive20241122": {
+        "results": [
+            {
+                "resultsdoc": "/results/20241122-tisca-3meter.pdf"
+            }
+        ]
     }
 }

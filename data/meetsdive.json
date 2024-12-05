@@ -40,52 +40,28 @@
             "start": "2024-11-14",
             "startTime": "5:30PM"
         },{
-            "title": "TISCA 1 meter Dive Event",
+            "title": "TISCA 1m Dive Event",
             "path": "20241121-dive",
+            "url": "/meets/results/20241121-1m-dive",
             "type": "dive-meet",
             "event": "",
             "location": "WAC",
             "start": "2024-11-21",
             "results": {
-                "resultspath": "20241121-tisca-1meter.pdf",
-                "totalscores": [
-                    {
-                    "girls": [
-                        {
-                            "school": "FMHS",
-                            "points": "258",
-                            "place": "1"
-                        },
-                        {
-                            "school": "Prosper",
-                            "points": "248",
-                            "place": "2"
-                        }
-                    ],
-                    "boys": [
-                        {
-                            "school": "Prosper",
-                            "points": "274",
-                            "place": "1"
-                        },
-                        {
-                            "school": "FMHS",
-                            "points": "238",
-                            "place": "2"
-                        }
-                    ]
-                    }
-                ]
-                
+                "resultspath": "20241121-tisca-1meter.pdf"
             }
         },{
-            "title": "TISCA 3 meter Event",
+            "title": "TISCA 3m Dive Event",
             "path": "20241122-dive",
+            "url": "/meets/results/20241122-3m-dive",
             "type": "dive-meet",
             "event": "",
             "location": "WAC",
             "start": "2024-11-22",
-            "startTime": "5:00PM"
+            "startTime": "5:00PM",
+            "results": {
+                "resultspath": "20241122-tisca-3meter.pdf"
+            }
         },{
             "title": "vs. Frisco Reedy",
             "path": "20241204-dive",
