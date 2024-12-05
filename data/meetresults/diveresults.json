@@ -311,7 +311,13 @@
     "dive20241122": {
         "results": [
             {
-                "resultsdoc": "/results/20241122-tisca-3meter.pdf"
+                "resultsdoc": "/results/20241122-tisca-3meter.pdf",
+                "picture": [
+                    {
+                        "source": "KeesinZink_3rd.jpg",
+                        "caption": "Keesin Zink (left) 3rd Place!"
+                    }
+                ]
             }
         ]
     }
