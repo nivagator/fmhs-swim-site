@@ -124,6 +124,7 @@
             "path": "20230930-dive",
             "type": "dive-meet",
             "event": "",
+            "url": "/meets/results/20230930-dive",
             "results": "/meets/results/20230930-dive", 
             "location": "GISD Natatorium",
             "start": "2023-09-30"
@@ -157,6 +158,7 @@
             "type": "dive-meet",
             "event": "",
             "results": "/meets/results/20231014-dive-frisco", 
+            "url": "/meets/results/20231014-dive-frisco",
             "location": "Frisco Natatorium",
             "start": "2023-10-14"
         },
