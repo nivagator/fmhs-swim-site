@@ -2,6 +2,7 @@
 {{ $meet_data := .Site.Data.meetresults.diveresults }}
 {{ with index $meet_data $meetvar}}
 {{ range .results }}
+{{ if .events }}
 <h2>{{.events}}</h2>
 <table>
     <tr>
@@ -23,9 +24,12 @@
     </tr>
     {{ end }}
 </table>
+{{ end }}
+{{ if .resultsdoc }}
 <object data="{{ .resultsdoc }}" type="application/pdf" width="100%" height="800">
     <p><a href="{{ .resultsdoc }}">Final results PDF!</a></p>
 </object>
+{{ end }}
 {{ end }}
 {{ end }}
 
