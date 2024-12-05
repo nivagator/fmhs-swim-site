@@ -9,13 +9,16 @@
             "start": "2024-09-27",
             "startTime": "1:00PM"
         },{
-            "title": "Relay & 3 m Dive Invitational",
+            "title": "Relay & 3m Dive Invitational",
             "path": "20241005-dive",
+            "url": "/meets/results/20241005-dive",
             "type": "dive-meet",
             "event": "",
             "location": "WAC",
             "start": "2024-10-05",
-            "startTime": "1:00PM"
+            "startTime": "1:00PM",
+            "results": {
+            }
         },{
             "title": "JV/Varsity Invite",
             "path": "20241026-dive",
@@ -39,7 +42,10 @@
             "event": "",
             "location": "WAC",
             "start": "2024-11-14",
-            "startTime": "5:30PM"
+            "startTime": "5:30PM",
+            "results": {
+                "resultspath": "20241114-dive.pdf"
+            }
         },{
             "title": "TISCA 1m Dive Event",
             "path": "20241121-dive",
