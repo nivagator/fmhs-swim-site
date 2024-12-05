@@ -45,7 +45,39 @@
             "type": "dive-meet",
             "event": "",
             "location": "WAC",
-            "start": "2024-11-21"
+            "start": "2024-11-21",
+            "results": {
+                "resultspath": "20241121-tisca-1meter.pdf",
+                "totalscores": [
+                    {
+                    "girls": [
+                        {
+                            "school": "FMHS",
+                            "points": "258",
+                            "place": "1"
+                        },
+                        {
+                            "school": "Prosper",
+                            "points": "248",
+                            "place": "2"
+                        }
+                    ],
+                    "boys": [
+                        {
+                            "school": "Prosper",
+                            "points": "274",
+                            "place": "1"
+                        },
+                        {
+                            "school": "FMHS",
+                            "points": "238",
+                            "place": "2"
+                        }
+                    ]
+                    }
+                ]
+                
+            }
         },{
             "title": "TISCA 3 meter Event",
             "path": "20241122-dive",
@@ -116,7 +148,7 @@
             "path": "20230930-dive",
             "type": "dive-meet",
             "event": "",
-            "results": "../meets/results/20230930-dive", 
+            "results": "/meets/results/20230930-dive", 
             "location": "GISD Natatorium",
             "start": "2023-09-30"
         },
@@ -134,7 +166,7 @@
             "path": "20230923-plano-west",
             "type": "meet",
             "event": "",
-            "url": "../meets/20230923-plano-west", 
+            "url": "/meets/20230923-plano-west", 
             "resultspath": "20230923-plano-west.pdf",
             "photos": "https://photos.fmhswaterjags.com/gallery#WrW0Nlr1jc39qq-3O59OD2yk",
             "location": "WAC",
@@ -148,7 +180,7 @@
             "path": "20231014-frisco-dive-invite",
             "type": "dive-meet",
             "event": "",
-            "results": "../meets/results/20231014-dive-frisco", 
+            "results": "/meets/results/20231014-dive-frisco", 
             "location": "Frisco Natatorium",
             "start": "2023-10-14"
         },
@@ -156,7 +188,7 @@
             "title": "vs. Jesuit/Ursuline",
             "type": "meet",
             "event": "",
-            "url": "../meets/20231024-jesuit-ursuline",
+            "url": "/meets/20231024-jesuit-ursuline",
             "photos": "https://photos.fmhswaterjags.com/gallery#80QM2bFdSQFVSnBZ7Ur_Zu0l",
             "resultspath": "20231024-jesuit-ursuline.pdf",
             "location": "WAC",
@@ -176,7 +208,7 @@
             "event": "",
             "location": "WAC",
             "start": "2023-11-08",
-            "url": "../meets/20231109-coppell",
+            "url": "/meets/20231109-coppell",
             "resultspath": "20231109-coppell.pdf"
         },
         {
