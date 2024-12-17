@@ -8,6 +8,25 @@
     <h2>Final Results</h2>
     {{ if .results.totalscores}}
         {{ range .results.totalscores }}
+            {{ if .team }}
+                <div class="col-12">
+                    <table>
+                        <tr>
+                            <th></th>
+                            <th>Combined Team Scores</th>                    
+                            <th></th>
+                        </tr>
+                    {{range .team}}
+                        <tr>
+                            <td style="text-align: center;">{{.place}}</td>
+                            <td>{{.school}}</td>
+                            <td style="text-align: center;">{{.points}}</td>
+                        </tr>
+                    {{end}}
+                    </table>
+                </div>
+            {{ end }}
+            {{ if .girls }}
             <div class="col-6">
                 <table>
                     <tr>
@@ -24,6 +43,8 @@
                 {{end}}
                 </table>
             </div>
+            {{ end }}
+            {{ if .boys }}
             <div class="col-6">
                 <table>
                     <tr>
@@ -40,6 +61,7 @@
                 {{end}}
                 </table>
                 </div>
+            {{ end }}
         {{end}}
     {{end}}
     {{if .results.resultspath }}
