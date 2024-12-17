@@ -47,7 +47,7 @@
             "path": "20241114-coppell",
             "type": "meet",
             "event": "",
-            "url": "../meets/20241114-coppell",
+            "url": "/meets/20241114-coppell",
             "photos": "https://photos.fmhswaterjags.com/gallery#uLSQgizF-vPUw324dh3ucKX4",
             "location": "WAC",
             "start": "2024-11-14",
@@ -89,7 +89,7 @@
             "path": "20241121-tisca",
             "type": "meet",
             "event": "",
-            "url": "../meets/20241121-tisca",
+            "url": "/meets/20241121-tisca",
             "photos": "https://photos.fmhswaterjags.com/gallery#RVZgdw_w_6ZJyzUf5xYLq_Ms",
             "location": "WAC",
             "start": "2024-11-21",
@@ -130,7 +130,7 @@
                         {"place": "28", "school": "Fort Worth Nolan Catholic", "points": "7"}
                     ],
                     "boys": [
-                        {"place": "1", "school": "FLower Mound", "points": "375"},
+                        {"place": "1", "school": "Flower Mound", "points": "375"},
                         {"place": "2", "school": "Coppell","points": "346.5"},
                         {"place": "3", "school": "Dallas Jesuit","points": "329.5"},
                         {"place": "4", "school": "Plano","points": "264.5"},
@@ -169,7 +169,7 @@
             "photos": "https://photos.fmhswaterjags.com/gallery#lEYwQBShGIAY3vJUcIpSqoCt",
             "type": "meet",
             "event": "",
-            "url": "../meets/20241204-reedy",
+            "url": "/meets/20241204-reedy",
             "location": "WAC",
             "start": "2024-12-04",
             "results": {
@@ -190,15 +190,148 @@
             }
         },
         {
-            "title": "Dual Meet Champs",
+            "title": "Dual Meet Champs Round 1",
             "season": "year2025",
             "path": "20241214-dual-meet",
             "type": "meet",
             "event": "",
-            "url": "../meets/20241214-dual-meet",
+            "url": "/meets/20241214-dual-meet",
             "location": "Frisco",
             "start": "2024-12-13",
-            "end": "2024-12-14"
+            "results": {
+                "resultspath": "20241214-dmc-round-1.pdf",
+                "totalscores": [
+                    {
+                    "team": [
+                        {"place": "1", "school": "Flower Mound", "points": "230.50 "},
+                        {"place": "2", "school": "Frisco Reedy", "points": "228.00 "},
+                        {"place": "3", "school": "Prosper High School", "points": "194.00 "},
+                        {"place": "4", "school": "Allen High School", "points": "181.00 "},
+                        {"place": "5", "school": "Frisco Centennial", "points": "155.00"},
+                        {"place": "6", "school": "Prosper Walnut Grove", "points": "141.00"},
+                        {"place": "7", "school": "Plano West", "points": "112.00"},
+                        {"place": "8", "school": "Frisco Wakeland", "points": "108.50"}
+                    ],
+                    "girls": [
+                        {"place": "1", "school": "Flower Mound", "points": "130.00 "},
+                        {"place": "2", "school": "Frisco Reedy", "points": "117.00 "},
+                        {"place": "3", "school": "Prosper High School", "points": "108.00 "},
+                        {"place": "4", "school": "Allen High School", "points": "89.00 "},
+                        {"place": "5", "school": "Frisco Centennial", "points": "77.00"},
+                        {"place": "6", "school": "Prosper Walnut Grove", "points": "58.00"},
+                        {"place": "7", "school": "Plano West", "points": "53.00"},
+                        {"place": "8", "school": "Frisco Wakeland", "points": "39.00"}
+                    ],
+                    "boys": [
+                        {"place": "1", "school": "Frisco Reedy", "points": "111.00 "},
+                        {"place": "2", "school": "Flower Mound", "points": "100.50 "},
+                        {"place": "3", "school": "Allen High School", "points": "92.00 "},
+                        {"place": "4", "school": "Prosper High School", "points": "86.00 "},
+                        {"place": "5", "school": "Prosper Walnut Grove", "points": "83.00"},
+                        {"place": "6", "school": "Frisco Centennial", "points": "78.00"},
+                        {"place": "7", "school": "Frisco Wakeland", "points": "69.50"},
+                        {"place": "8", "school": "Plano West", "points": "59.00"}
+                    ]
+                    }
+                ]
+                
+            }
+        },
+        {
+            "title": "Dual Meet Champs Round 2",
+            "season": "year2025",
+            "path": "20241214-dual-meet-r2",
+            "type": "meet",
+            "event": "",
+            "url": "/meets/20241214-dual-meet-r2",
+            "location": "Frisco",
+            "start": "2024-12-13",
+            "results": {
+                "resultspath": "20241214-dmc-round-2.pdf",
+                "totalscores": [
+                    {
+                    "team": [
+                        {"place": "1", "school": "Flower Mound", "points": "244.00 "},
+                        {"place": "2", "school": "Frisco Reedy", "points": "196.00 "},
+                        {"place": "3", "school": "Frisco Wakeland", "points": "187.00 "},
+                        {"place": "4", "school": "Prosper Walnut Grove", "points": "183.00 "},
+                        {"place": "5", "school": "Plano West", "points": "153.00"},
+                        {"place": "6", "school": "Frisco Centennial", "points": "151.00"},
+                        {"place": "7", "school": "Prosper High School", "points": "143.00"},
+                        {"place": "8", "school": "Allen High School", "points": "96.00"}
+                    ],
+                    "girls": [
+                        {"place": "1", "school": "Flower Mound", "points": "135.00 "},
+                        {"place": "2", "school": "Frisco Reedy", "points": "111.00 "},
+                        {"place": "3", "school": "Plano West", "points": "93.00 "},
+                        {"place": "4", "school": "Frisco Wakeland", "points": "86.00 "},
+                        {"place": "5", "school": "Frisco Centennial", "points": "82.00"},
+                        {"place": "6", "school": "Prosper Walnut Grove", "points": "74.00"},
+                        {"place": "7", "school": "Prosper High School", "points": "58.00"},
+                        {"place": "8", "school": "Allen High School", "points": "35.00"}
+                    ],
+                    "boys": [
+                        {"place": "1", "school": "Flower Mound", "points": "109.00 "},
+                        {"place": "1", "school": "Prosper Walnut Grove", "points": "109.00 "},
+                        {"place": "3", "school": "Frisco Wakeland", "points": "101.00 "},
+                        {"place": "4", "school": "Prosper High School", "points": "85.00 "},
+                        {"place": "4", "school": "Frisco Reedy", "points": "85.00"},
+                        {"place": "6", "school": "Frisco Centennial", "points": "69.00"},
+                        {"place": "7", "school": "Allen High School", "points": "61.00"},
+                        {"place": "8", "school": "Plano West", "points": "60.00"}
+                    ]
+                    }
+                ]
+                
+            }
+        },
+        {
+            "title": "Dual Meet Champs Round 3",
+            "season": "year2025",
+            "path": "20241214-dual-meet-r3",
+            "type": "meet",
+            "event": "",
+            "url": "/meets/20241214-dual-meet-r3",
+            "location": "Frisco",
+            "start": "2024-12-14",
+            "results": {
+                "resultspath": "20241214-dmc-round-3.pdf",
+                "totalscores": [
+                    {
+                    "team": [
+                        {"place": "1", "school": "Flower Mound", "points": "213.00 "},
+                        {"place": "2", "school": "Frisco Wakeland", "points": "186.00"},
+                        {"place": "3", "school": "Frisco Centennial", "points": "182.00 "},
+                        {"place": "4", "school": "Prosper High School", "points": "175.00 "},
+                        {"place": "5", "school": "Allen High School", "points": "164.00"},
+                        {"place": "6", "school": "Plano West", "points": "151.00"},
+                        {"place": "7", "school": "Prosper Walnut Grove", "points": "143.00"},
+                        {"place": "8", "school": "Frisco Reedy", "points": "126.00"}
+                    ],
+                    "girls": [
+                        {"place": "1", "school": "Flower Mound", "points": "112.00 "},
+                        {"place": "2", "school": "Prosper High School", "points": "96.00 "},
+                        {"place": "3", "school": "Frisco Wakeland", "points": "93.00 "},
+                        {"place": "4", "school": "Plano West", "points": "87.00 "},
+                        {"place": "5", "school": "Frisco Centennial", "points": "79.00"},
+                        {"place": "6", "school": "Allen High School", "points": "73.00 "},
+                        {"place": "7", "school": "Prosper Walnut Grove", "points": "68.00 "},
+                        {"place": "8", "school": "Frisco Reedy", "points": "58.00"}
+                    ],
+                    "boys": [
+                        {"place": "1", "school": "Frisco Centennial", "points": "103.00 "},
+                        {"place": "2", "school": "Flower Mound", "points": "101.00 "},
+                        {"place": "3", "school": "Frisco Wakeland", "points": "93.00 "},
+                        {"place": "4", "school": "Allen High School", "points": "91.00 "},
+                        {"place": "5", "school": "Prosper High School", "points": "79.00"},
+                        {"place": "6", "school": "Prosper Walnut Grove", "points": "75.00"},
+                        {"place": "7", "school": "Frisco Reedy", "points": "68.00"},
+                        {"place": "8", "school": "Plano West", "points": "64.00"}
+                    ]
+                    }
+                ]
+                
+            }
         },
         {
             "title": "vs Marcus",
@@ -206,7 +339,7 @@
             "path": "20241218-marcus",
             "type": "meet",
             "event": "Senior Night",
-            "url": "../meets/20241218-marcus",
+            "url": "/meets/20241218-marcus",
             "location": "WAC",
             "start": "2024-12-18"
         },
@@ -216,7 +349,7 @@
             "path": "20250118-kyle-tilley",
             "type": "meet",
             "event": "",
-            "url": "../meets/20250118-kyle-tilley",
+            "url": "/meets/20250118-kyle-tilley",
             "location": "WAC",
             "start": "2025-01-18"
         },
@@ -226,7 +359,7 @@
             "path": "20250124-district",
             "type": "meet",
             "event": "",
-            "url": "../meets/20250124-district",
+            "url": "/meets/20250124-district",
             "location": "WAC",
             "start": "2025-01-24"
         },
@@ -236,7 +369,7 @@
             "path": "20250207-regionals",
             "type": "meet",
             "event": "",
-            "url": "../meets/20250207-regionals",
+            "url": "/meets/20250207-regionals",
             "location": "WAC",
             "start": "2025-02-07",
             "end": "2025-02-08"
@@ -247,7 +380,7 @@
             "path": "20250221-state",
             "type": "meet",
             "event": "",
-            "url": "../meets/20250221-state",
+            "url": "/meets/20250221-state",
             "location": "Austin, TX",
             "start": "2025-02-21",
             "end": "2025-02-22"
