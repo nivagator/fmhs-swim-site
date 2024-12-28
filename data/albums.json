@@ -154,6 +154,28 @@
         {"type":"file","name":"20241204-reedy-082.jpg"},
         {"type":"file","name":"20241204-reedy-093.jpg"}
       ]
+    },
+    {
+      "name": "Dual Meet Champs, December 13-14, 2024",
+      "season": "year2025",
+      "path": "20241214-dual-meet",
+      "url": "https://photos.fmhswaterjags.com/gallery#JDVoksfi58L5hzTl5kXcZM0z",
+      "images": [
+        {"type":"file","name":"20241214-dual-meet-014.jpg"},
+        {"type":"file","name":"20241214-dual-meet-026.jpg"},
+        {"type":"file","name":"20241214-dual-meet-032.jpg"}
+      ]
+    },
+    {
+      "name": "Marcus, December 18, 2024",
+      "season": "year2025",
+      "path": "20241218-marcus",
+      "url": "https://photos.fmhswaterjags.com/gallery#6U0o35m8Y5y-nzTVY8uouyUK",
+      "images": [
+        {"type":"file","name":"20241218-marcus-004.jpg"},
+        {"type":"file","name":"20241218-marcus-007.jpg"},
+        {"type":"file","name":"20241218-marcus-016.jpg"}
+      ]
     }
   ]
 }
