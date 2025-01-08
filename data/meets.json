@@ -345,7 +345,39 @@
             "url": "/meets/20241218-marcus",
             "photos": "https://photos.fmhswaterjags.com/gallery#6U0o35m8Y5y-nzTVY8uouyUK",
             "location": "WAC",
-            "start": "2024-12-18"
+            "start": "2024-12-18",
+            "results": {
+                "resultspath": "20241218-marcus.pdf",
+                "totalscores": [
+                    {
+                    "girls": [
+                        {
+                            "school": "FMHS",
+                            "points": "174",
+                            "place": "1"
+                        },
+                        {
+                            "school": "Marcus",
+                            "points": "82",
+                            "place": "2"
+                        }
+                    ],
+                    "boys": [
+                        {
+                            "school": "FMHS",
+                            "points": "146",
+                            "place": "1"
+                        },
+                        {
+                            "school": "Marcus",
+                            "points": "103",
+                            "place": "2"
+                        }
+                    ]
+                    }
+                ]
+                
+            }
         },
         {
             "title": "Kyle Tilley Invitational",
