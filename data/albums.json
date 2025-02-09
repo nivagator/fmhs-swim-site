@@ -187,6 +187,17 @@
         {"type":"file","name":"20250118-kyle-tilley-12.jpg"},
         {"type":"file","name":"20250118-kyle-tilley-35.jpg"}
       ]
+    },
+    {
+      "name": "District Meet, January 24, 2025",
+      "season": "year2025",
+      "path": "20250124-district",
+      "url": "https://photos.fmhswaterjags.com/gallery#t0xXI9B2_-Sr0X6Beakv-8Lo",
+      "images": [
+        {"type":"file","name":"20250124-district-040.jpg"},
+        {"type":"file","name":"20250124-district-054.jpg"},
+        {"type":"file","name":"20250124-district-014.jpg"}
+      ]
     }
   ]
 }
