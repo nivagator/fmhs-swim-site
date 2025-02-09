@@ -388,7 +388,36 @@
             "url": "/meets/20250118-kyle-tilley",
             "photos": "https://photos.fmhswaterjags.com/gallery#WiHs2270ZwAOhSEnVz7jnOLy",
             "location": "WAC",
-            "start": "2025-01-18"
+            "start": "2025-01-18",
+            "results": {
+                "resultspath": "20250118-kyle-tilley.pdf",
+                "totalscores": [
+                    {
+                    "girls": [
+                        {"place": "1", "school": "FMHS", "points": "871"},
+                        {"place": "2", "school": "Marcus", "points": "405"},
+                        {"place": "3", "school": "Plano", "points": "282"},
+                        {"place": "4", "school": "Lewisville", "points": "141"},
+                        {"place": "5", "school": "Plano West", "points": "90"},
+                        {"place": "6", "school": "Allen ", "points": "53"},
+                        {"place": "7", "school": "Colleyville Heritage", "points": "29"},
+                        {"place": "8", "school": "Grapevine", "points": "22"},
+                        {"place": "9", "school": "Plano East", "points": "1"}
+                    ],
+                    "boys": [
+                        {"place": "1", "school": "FMHS", "points": "673.5"},
+                        {"place": "2", "school": "Marcus", "points": "521"},
+                        {"place": "3", "school": "Plano", "points": "368.5"},
+                        {"place": "4", "school": "Plano East", "points": "113"},
+                        {"place": "5", "school": "Plano West", "points": "75"},
+                        {"place": "6", "school": "Lewisville", "points": "63"},
+                        {"place": "7", "school": "Allen", "points": "47"},
+                        {"place": "8", "school": "Colleyville Heritage", "points": "20"}
+                    ]
+                    }
+                ]
+                
+            }
         },
         {
             "title": "District Championships",
@@ -397,8 +426,37 @@
             "type": "meet",
             "event": "",
             "url": "/meets/20250124-district",
+            "photos": "https://photos.fmhswaterjags.com/gallery#t0xXI9B2_-Sr0X6Beakv-8Lo",
             "location": "WAC",
-            "start": "2025-01-24"
+            "start": "2025-01-24",
+            "results": {
+                "resultspath": "20250124-district.pdf",
+                "totalscores": [
+                    {
+                    "girls": [
+                        {"place": "1", "school": "FMHS", "points": "227"},
+                        {"place": "2", "school": "Coppell", "points": "82"},
+                        {"place": "3", "school": "Plano West", "points": "69"},
+                        {"place": "4", "school": "Marcus", "points": "51.5"},
+                        {"place": "5", "school": "Plano", "points": "49.5"},
+                        {"place": "6", "school": "Hebron", "points": "31"},
+                        {"place": "7", "school": "Plano East", "points": "29"},
+                        {"place": "8", "school": "Lewisville", "points": "10"}
+                    ],
+                    "boys": [
+                        {"place": "1", "school": "FMHS", "points": "147"},
+                        {"place": "2", "school": "Coppell", "points": "108"},
+                        {"place": "3", "school": "Plano", "points": "88.5"},
+                        {"place": "4", "school": "Marcus", "points": "79"},
+                        {"place": "5", "school": "Plano East", "points": "38.5"},
+                        {"place": "6", "school": "Plano West", "points": "34"},
+                        {"place": "7", "school": "Hebron", "points": "33"},
+                        {"place": "8", "school": "Lewisville", "points": "24"}
+                    ]
+                    }
+                ]
+                
+            }
         },
         {
             "title": "Region Championships",
