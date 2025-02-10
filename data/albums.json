@@ -198,6 +198,28 @@
         {"type":"file","name":"20250124-district-054.jpg"},
         {"type":"file","name":"20250124-district-014.jpg"}
       ]
+    },
+    {
+      "name": "Region Prelims, February 7, 2025",
+      "season": "year2025",
+      "path": "20250207-region-prelims",
+      "url": "https://photos.fmhswaterjags.com/gallery#EhzwCHXYMcmR0LIOLv1s3Rx8",
+      "images": [
+        {"type":"file","name":"20250207-regional-prelims-004.jpg"},
+        {"type":"file","name":"20250207-regional-prelims-051.jpg"},
+        {"type":"file","name":"20250207-regional-prelims-061.jpg"}
+      ]
+    },
+    {
+      "name": "Region Finals, February 8, 2025",
+      "season": "year2025",
+      "path": "20250208-region-finals",
+      "url": "https://photos.fmhswaterjags.com/gallery#sYVMSgoZgPV5Z2q7BRFc-gTA",
+      "images": [
+        {"type":"file","name":"20250208-region-finals-001.jpg"},
+        {"type":"file","name":"20250208-region-finals-006.jpg"},
+        {"type":"file","name":"20250208-region-finals-045.jpg"}
+      ]
     }
   ]
 }
