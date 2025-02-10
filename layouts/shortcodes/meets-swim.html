@@ -50,7 +50,11 @@
       </td>
       <td>
           {{ if .photos }}
+            {{ if .multialbum }}
+                <a href="{{.photos}}">Pictures</a>
+            {{ else }}
               <a href="{{.photos}}" target="_blank">Pictures</a>
+            {{ end }}
           {{ end }}
       </td>
   </tr>

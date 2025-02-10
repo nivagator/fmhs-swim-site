@@ -465,6 +465,8 @@
             "type": "meet",
             "event": "",
             "url": "/meets/20250207-regionals",
+            "photos": "/photos/",
+            "multialbum": "yes",
             "location": "WAC",
             "start": "2025-02-07",
             "end": "2025-02-08"
