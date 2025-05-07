@@ -22,6 +22,8 @@ date = 2023-09-15T13:11:50-05:00
 ### Booster Club Meeting Materials
 
 #### 2024-2025 Season
+- May 1st, 2025 - {{< target-blank "Board Meeting Minutes" "/meetings/20250501-FMHS_Swim_Dive_Board_Meeting.pdf">}}
+- February 4th, 2025 - {{< target-blank "Board Meeting Minutes" "/meetings/20250204-FMHS_Swim_Dive_Board_Meeting.pdf">}}
 - January 7th, 2025 - {{< target-blank "Board Meeting Minutes" "/meetings/20250107-FMHS_Swim_Dive_Board_Meeting.pdf">}}
 - December 3rd, 2024 - {{< target-blank "Board Meeting Minutes" "/meetings/20241203-FMHS_Swim_Dive_Board_Meeting.pdf">}}
 - November 6th, 2024 - {{< target-blank "Board Meeting Minutes" "/meetings/20241106-FMHS_Swim_Dive_Board_meeting_v2.pdf">}}
