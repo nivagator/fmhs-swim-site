@@ -1,4 +1,81 @@
 {
+    "year2026": [
+        {
+            "title": "Relay/Synchro Dive Invite",
+            "path": "20250920-dive",
+            "type": "dive-meet",
+            "event": "",
+            "start": "2025-09-20"
+        },{
+            "title": "GISD Dive Meet Invitational",
+            "path": "20250926-dive",
+            "type": "dive-meet",
+            "event": "",
+            "location": "GISD Natatorium",
+            "start": "2025-09-26"
+        },{
+            "title": "JV/Varsity Invite",
+            "path": "20251025-dive",
+            "type": "dive-meet",
+            "event": "",
+            "location": "WAC",
+            "start": "2025-10-25"
+        },{
+            "title": "TISCA 3m Dive Event",
+            "path": "20251119-dive",
+            "type": "dive-meet",
+            "event": "",
+            "location": "WAC",
+            "start": "2025-11-19"
+        },{
+            "title": "TISCA 1m Dive Event",
+            "path": "20251120-dive",
+            "type": "dive-meet",
+            "event": "",
+            "start": "2025-11-20"
+        },{
+            "title": "Lewisville ISD Dive Invitational",
+            "path": "20251211-dive",
+            "type": "dive-meet",
+            "event": "",
+            "location": "WAC",
+            "start": "2025-12-11"
+        },{
+            "title": "TISCA Diving Championships",
+            "path": "20251213-dive",
+            "type": "dive-meet",
+            "event": "",
+            "start": "2025-12-13"
+        },{
+            "title": "Kyle Tilley Dive Invitational",
+            "path": "20260116-dive",
+            "type": "dive-meet",
+            "event": "",
+            "start": "2026-01-16"
+        },{
+            "title": "6A District 6 Championships",
+            "path": "20260122-dive",
+            "type": "dive-meet",
+            "event": "",
+            "location": "WAC",
+            "start": "2026-01-22"
+        },{
+            "title": "6A Region 2 Dive Championships",
+            "path": "20260205-dive",
+            "type": "dive-meet",
+            "event": "",
+            "location": "WAC",
+            "start": "2026-02-05"
+        },{
+            "title": "State Championships",
+            "path": "20260219-dive",
+            "type": "dive-meet",
+            "event": "",
+            "location": "Austin, TX",
+            "start": "2026-02-19",
+            "end": "2026-02-20"
+        }
+    ],
     "year2025": [
         {
             "title": "GISD Dive Meet Invitational",
