@@ -1,4 +1,4 @@
-{{ $data := .Site.Data.meetsdive.year2025}}
+{{ $data := .Site.Data.meetsdive.year2026}}
 {{ range (sort $data ".start" "asc" ) }}
 {{ if .results }} 
     <a href="{{.results}}">{{ .start | time.Format ":date_medium" }} {{.title}}</a> @ {{.location}}
