@@ -1,4 +1,96 @@
 {
+    "year2026": [
+        {   "title": "vs Coppell",
+            "season": "year2026",
+            "path": "20251106-coppell",
+            "type": "meet",
+            "event": "",
+            "url": "/meets/20251106-coppell",
+            "location": "WAC",
+            "start": "2025-11-06"
+        },
+        {   "title": "vs Hebron & Plano Senior",
+            "season": "year2026",
+            "path": "20251112-hebron",
+            "type": "meet",
+            "event": "",
+            "url": "/meets/20251112-hebron",
+            "location": "WAC",
+            "start": "2025-11-12"
+        },
+        {   "title": "TISCA",
+            "season": "year2026",
+            "path": "20251120-tisca",
+            "type": "meet",
+            "event": "",
+            "url": "/meets/20251120-tisca",
+            "location": "WAC",
+            "start": "2025-11-20",
+            "end": "2025-11-22"
+        },
+        {
+            "title": "vs. Frisco Reedy",
+            "season": "year2026",
+            "path": "20251204-reedy",
+            "type": "meet",
+            "event": "",
+            "url": "/meets/20251204-reedy",
+            "location": "WAC",
+            "start": "2025-12-04"
+        },
+        {
+            "title": "vs Marcus",
+            "season": "year2026",
+            "path": "20251217-marcus",
+            "type": "meet",
+            "event": "Senior Night",
+            "url": "/meets/20251217-marcus",
+            "location": "WAC",
+            "start": "2025-12-17"
+        },
+        {
+            "title": "Kyle Tilley Invitational",
+            "season": "year2026",
+            "path": "20260117-kyle-tilley",
+            "type": "meet",
+            "event": "",
+            "url": "/meets/20260117-kyle-tilley",
+            "location": "WAC",
+            "start": "2026-01-17"
+        },
+        {
+            "title": "District Championships",
+            "season": "year2026",
+            "path": "20260123-district",
+            "type": "meet",
+            "event": "",
+            "url": "/meets/20260123-district",
+            "location": "WAC",
+            "start": "2026-01-23"
+        },
+        {
+            "title": "Region Championships",
+            "season": "year2026",
+            "path": "20260206-regionals",
+            "type": "meet",
+            "event": "",
+            "url": "/meets/20260206-regionals",
+            "location": "WAC",
+            "start": "2026-02-06",
+            "end": "2026-02-07"
+        },
+        {
+            "title": "State Championships",
+            "season": "year2026",
+            "path": "20260219-state",
+            "type": "meet",
+            "event": "",
+            "url": "/meets/20260219-state",
+            "location": "Austin, TX",
+            "start": "2026-02-19",
+            "end": "2026-02-21"
+        }
+    ],
     "year2025": [
         {   "title": "vs Prosper",
             "season": "year2025",

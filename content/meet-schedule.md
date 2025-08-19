@@ -1,8 +1,8 @@
 +++
-title = '2024-2025 Swim Meet Schedule'
+title = '2025-2026 Swim Meet Schedule'
 date = 2023-09-18T09:49:49-05:00
 +++
-{{< meets-swim "year2025" >}}
+{{< meets-swim "year2026" >}}
 
 # 2025-2026 Dive Meet Schedule 
 {{< meets-dive "year2026" >}}
