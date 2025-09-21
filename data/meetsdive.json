@@ -5,6 +5,7 @@
             "path": "20250920-dive",
             "type": "dive-meet",
             "event": "",
+            "location": "WAC",
             "start": "2025-09-20"
         },{
             "title": "GISD Dive Meet Invitational",
@@ -21,6 +22,20 @@
             "location": "WAC",
             "start": "2025-10-25"
         },{
+            "title": "vs Coppell",
+            "path": "20251106-dive",
+            "type": "dive-meet",
+            "event": "",
+            "location": "WAC",
+            "start": "2025-11-06"
+        },{
+            "title": "vs Hebron & Plano Senior",
+            "path": "20251113-dive",
+            "type": "dive-meet",
+            "event": "",
+            "location": "WAC",
+            "start": "2025-11-13"
+        },{
             "title": "TISCA 3m Dive Event",
             "path": "20251119-dive",
             "type": "dive-meet",
@@ -32,7 +47,15 @@
             "path": "20251120-dive",
             "type": "dive-meet",
             "event": "",
+            "location": "WAC",
             "start": "2025-11-20"
+        },{
+            "title": "vs Frisco Reedy",
+            "path": "20251204-dive",
+            "type": "dive-meet",
+            "event": "",
+            "location": "WAC",
+            "start": "2025-12-04"
         },{
             "title": "Lewisville ISD Dive Invitational",
             "path": "20251211-dive",
@@ -41,16 +64,11 @@
             "location": "WAC",
             "start": "2025-12-11"
         },{
-            "title": "TISCA Diving Championships",
-            "path": "20251213-dive",
-            "type": "dive-meet",
-            "event": "",
-            "start": "2025-12-13"
-        },{
             "title": "Kyle Tilley Dive Invitational",
             "path": "20260116-dive",
             "type": "dive-meet",
             "event": "",
+            "location": "WAC",
             "start": "2026-01-16"
         },{
             "title": "6A District 6 Championships",
@@ -72,8 +90,7 @@
             "type": "dive-meet",
             "event": "",
             "location": "Austin, TX",
-            "start": "2026-02-19",
-            "end": "2026-02-20"
+            "start": "2026-02-20"
         }
     ],
     "year2025": [
