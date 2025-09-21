@@ -1,4 +1,100 @@
 {
+    "year2026": [
+        {
+            "name": "seniors",
+            "members": [
+                {"fname": "Hannah", "lname": "Ballew"},
+                {"fname": "Lilian", "lname": "Geltner"},
+                {"fname": "Ananya", "lname": "Gupta"},
+                {"fname": "Katelyn", "lname": "LaClair"},
+                {"fname": "Eva", "lname": "Lofthus"},
+                {"fname": "Oliver", "lname": "Marrujo"},
+                {"fname": "Jonah", "lname": "Park"},
+                {"fname": "John", "lname": "Robles Kilduff"},
+                {"fname": "Sai", "lname": "Nandita Sativada"},
+                {"fname": "Macy", "lname": "Spencer"},
+                {"fname": "Ian", "lname": "Sung"},
+                {"fname": "Thomas", "lname": "Tabbah"},
+                {"fname": "Pranav", "lname": "Thota"},
+                {"fname": "Clair", "lname": "Uliasz"},
+                {"fname": "Reginald", "lname": "Wesley II"}
+            ]
+        },
+        {
+            "name": "juniors",
+            "members": [
+                {"fname": "Gabriella", "lname": "Collins"},
+                {"fname": "Michael", "lname": "Ciminna"},
+                {"fname": "McKennah", "lname": "Greer"},
+                {"fname": "Adam", "lname": "Hanselman"},
+                {"fname": "Rainey", "lname": "Holt"},
+                {"fname": "Parker", "lname": "Kruzel"},
+                {"fname": "Emily", "lname": "Lam"},
+                {"fname": "Cassidy", "lname": "Masters"},
+                {"fname": "Luca", "lname": "Matheus"},
+                {"fname": "Kendall", "lname": "Medina"},
+                {"fname": "Govind", "lname": "Othayoth"},
+                {"fname": "Hope", "lname": "Pittner"},
+                {"fname": "Gabriella", "lname": "Reynolds"},
+                {"fname": "Rijoy", "lname": "Sarkar"},
+                {"fname": "Arianna", "lname": "Smith"},
+                {"fname": "Grace", "lname": "Talamo"},
+                {"fname": "Tessa", "lname": "Toriz"},
+                {"fname": "Levi", "lname": "Woon"}
+            ]
+        },
+        {
+            "name": "sophomores",
+            "members": [
+                {"fname": "Galilee", "lname": "Ackman"},
+                {"fname": "Arianna", "lname": "Amatya"},
+                {"fname": "Jun", "lname": "Eum"},
+                {"fname": "Jakob", "lname": "Everett"},
+                {"fname": "Bailey", "lname": "Gonzales"},
+                {"fname": "Hangyeol", "lname": "Kim"},
+                {"fname": "Koto", "lname": "Kobukai"},
+                {"fname": "Sarah", "lname": "Kraft"},
+                {"fname": "Charlotte", "lname": "Lande"},
+                {"fname": "Garrett", "lname": "Lee"},
+                {"fname": "Jack", "lname": "Lofthus"},
+                {"fname": "Pravin", "lname": "Mahadeo"},
+                {"fname": "Locke", "lname": "Martin"},
+                {"fname": "Ellie", "lname": "Nguyen"},
+                {"fname": "Landon", "lname": "Overstreet"},
+                {"fname": "Sieun", "lname": "Park"},
+                {"fname": "Christian", "lname": "Quick"},
+                {"fname": "Anna", "lname": "Reimer"},
+                {"fname": "Isabelle", "lname": "Rios"},
+                {"fname": "Katelyn", "lname": "Self"},
+                {"fname": "Ella", "lname": "Suh"},
+                {"fname": "Brylyn", "lname": "Thomas"},
+                {"fname": "Ishaan", "lname": "Vakil"},
+                {"fname": "Rayssa", "lname": "Villar"},
+                {"fname": "Kylie", "lname": "Vo"},
+                {"fname": "Emily", "lname": "Wynne"},
+                {"fname": "Keesin", "lname": "Zink"}
+            ]
+        },
+        {
+            "name": "freshmen",
+            "members": [
+                {"fname": "Morgan", "lname": "Bush"},
+                {"fname": "Colin", "lname": "Giambrone"},
+                {"fname": "Sohan", "lname": "Iyer"},
+                {"fname": "Aidan", "lname": "Jones"},
+                {"fname": "Tucker", "lname": "Linton"},
+                {"fname": "Ahaan", "lname": "Nandagawali"},
+                {"fname": "Jackson", "lname": "O'Sullivan"},
+                {"fname": "Tiana", "lname": "Pavuluri"},
+                {"fname": "Madelyn", "lname": "Peterson"},
+                {"fname": "Sarah", "lname": "Pittner"},
+                {"fname": "Drue", "lname": "Rogers"},
+                {"fname": "Hridyansh", "lname": "Sharma"},
+                {"fname": "Anika", "lname": "Sunkara"},
+                {"fname": "Cora", "lname": "Toriz"}
+            ]
+        }
+    ],
     "year2025": [
         {
             "name": "seniors",

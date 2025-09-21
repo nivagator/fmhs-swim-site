@@ -6,6 +6,7 @@ tags = [ "archive" ]
 <!-- insert season recap -->
 
 # Roster
+[2025 Senior Class](/roster/seniors2025)
 {{< roster "year2025" 0 >}}  
 
 # Swim Meet Schedule 
