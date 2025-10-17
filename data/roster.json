@@ -14,8 +14,7 @@
                 {"fname": "Ian", "lname": "Sung"},
                 {"fname": "Thomas", "lname": "Tabbah"},
                 {"fname": "Pranav", "lname": "Thota"},
-                {"fname": "Clair", "lname": "Uliasz"},
-                {"fname": "Reginald", "lname": "Wesley II"}
+                {"fname": "Clair", "lname": "Uliasz"}
             ]
         },
         {
@@ -69,7 +68,8 @@
                 {"fname": "Rayssa", "lname": "Villar"},
                 {"fname": "Kylie", "lname": "Vo"},
                 {"fname": "Emily", "lname": "Wynne"},
-                {"fname": "Keesin", "lname": "Zink"}
+                {"fname": "Keesin", "lname": "Zink"},
+                {"fname": "Benjamin", "lname": "Nielson"}
             ]
         },
         {
