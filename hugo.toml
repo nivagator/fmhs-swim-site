@@ -6,7 +6,7 @@ theme = 'mainroad'
 [markup]
   defaultMarkdownHandler = 'goldmark'
 [markup.goldmark.renderHooks.image]
-    enableDefault = true
+    useEmbedded = "fallback"
 
 [Params]
     description = "Flower Mound High School Swim & Dive"
