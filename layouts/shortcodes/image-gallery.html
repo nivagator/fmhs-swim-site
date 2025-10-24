@@ -1,0 +1,14 @@
+{{ $dir := .Get "gallery_dir" }}        
+{{ $files := resources.Match (printf "%s/*" $dir) }}
+
+<ul class="image-gallery" style="list-style-type: none;">
+{{ range $files }}
+  <li>
+    <a href="{{ .RelPermalink }}" title="{{ .Name }}" class="lightbox-image">
+    <img src='{{ (.Fill "300x300 q50").RelPermalink }}' alt="{{ .Name }}" title="{{ .Name }}">
+    </a>
+  </li>
+{{ end }}
+</ul>
+
+
