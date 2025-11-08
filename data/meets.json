@@ -7,7 +7,39 @@
             "event": "",
             "url": "/meets/20251106-coppell",
             "location": "WAC",
-            "start": "2025-11-06"
+            "start": "2025-11-06",
+            "results": {
+                "resultspath": "20251106-coppell.pdf",
+                "totalscores": [
+                    {
+                    "girls": [
+                        {
+                            "school": "FMHS",
+                            "points": "270.5",
+                            "place": "1"
+                        },
+                        {
+                            "school": "Coppell",
+                            "points": "198.5",
+                            "place": "2"
+                        }
+                    ],
+                    "boys": [
+                        {
+                            "school": "FMHS",
+                            "points": "278",
+                            "place": "1"
+                        },
+                        {
+                            "school": "Coppell",
+                            "points": "202",
+                            "place": "2"
+                        }
+                    ]
+                    }
+                ]
+                
+            }
         },
         {   "title": "vs Hebron & Plano Senior",
             "season": "year2026",
