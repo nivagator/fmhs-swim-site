@@ -341,10 +341,24 @@
             }
         ]
     },
+    "dive20250920": {
+        "results": [
+            {
+                "resultsdoc": "/results/20250920-relay-synchro-dive.pdf"
+            }
+        ]
+    },
     "dive20250926": {
         "results": [
             {
                 "resultsdoc": "/results/20250926-garland-dive-meet.pdf"
+            }
+        ]
+    },
+    "dive20251025": {
+        "results": [
+            {
+                "resultsdoc": "/results/20251025-jv-varsity-dive.pdf"
             }
         ]
     }

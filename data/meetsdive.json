@@ -5,8 +5,12 @@
             "path": "20250920-dive",
             "type": "dive-meet",
             "event": "",
+            "url": "/meets/results/20250920-relay-synchro-dive",
             "location": "WAC",
-            "start": "2025-09-20"
+            "start": "2025-09-20",
+            "results": {
+                "resultspath": "20250920-relay-synchro-dive.pdf"
+            }
         },{
             "title": "GISD Dive Meet Invitational",
             "path": "20250926-dive",
@@ -24,8 +28,13 @@
             "path": "20251025-dive",
             "type": "dive-meet",
             "event": "",
+            "photos": "https://photos.fmhswaterjags.com/gallery#BQ7s4oQCWutqF_TpTXPb0KRL",
+            "url": "/meets/results/20251025-jv-varsity-dive",
             "location": "WAC",
-            "start": "2025-10-25"
+            "start": "2025-10-25",
+            "results": {
+                "resultspath": "20251025-jv-varsity-dive.pdf"
+            }
         },{
             "title": "vs Coppell",
             "path": "20251106-dive",
