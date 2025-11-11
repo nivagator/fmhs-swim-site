@@ -233,7 +233,7 @@
       ]
     },
     {
-      "name": "JV/Varsity Invite,October 25, 2025",
+      "name": "JV/Varsity Invite, October 25, 2025",
       "season": "year2026",
       "path": "20251025-jv-varsity-dive",
       "url": "https://photos.fmhswaterjags.com/gallery#BQ7s4oQCWutqF_TpTXPb0KRL",
@@ -241,6 +241,17 @@
         {"type":"file","name":"20251025-jv-varsity-dive_01.jpg"},
         {"type":"file","name":"20251025-jv-varsity-dive_21.jpg"},
         {"type":"file","name":"20251025-jv-varsity-dive_59.jpg"}
+      ]
+    },
+    {
+      "name": "Coppell, November 06, 2025",
+      "season": "year2026",
+      "path": "20251106-coppell",
+      "url": "https://photos.fmhswaterjags.com/gallery#pMkSE5a3HcfULfcSLeeL2zdn",
+      "images": [
+        {"type":"file","name":"20251106-coppell_045.jpg"},
+        {"type":"file","name":"20251106-coppell_128.jpg"},
+        {"type":"file","name":"20251106-coppell_148.jpg"}
       ]
     }
   ]
