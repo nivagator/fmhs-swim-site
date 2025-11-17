@@ -253,7 +253,17 @@
         {"type":"file","name":"20251106-coppell_128.jpg"},
         {"type":"file","name":"20251106-coppell_148.jpg"}
       ]
+    },
+    {
+      "name": "Hebron & Plano Senior, November 13, 2025",
+      "season": "year2026",
+      "path": "20251113-hebron",
+      "url": "https://photos.fmhswaterjags.com/gallery#tJsUW1BVOYlwk2-sD4PRhDzC",
+      "images": [
+        {"type":"file","name":"20251113-hebron_37.jpg"},
+        {"type":"file","name":"20251113-hebron_42.jpg"},
+        {"type":"file","name":"20251113-hebron_54.jpg"}
+      ]
     }
   ]
 }
-
