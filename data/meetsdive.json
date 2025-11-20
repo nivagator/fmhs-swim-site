@@ -56,8 +56,12 @@
             "path": "20251119-dive",
             "type": "dive-meet",
             "event": "",
+            "url": "/meets/results/20251119-3m-tisca",
             "location": "WAC",
-            "start": "2025-11-19"
+            "start": "2025-11-19",
+            "results": {
+                "resultspath": "20251119_3m_tisca_dive.jpeg"
+            }
         },{
             "title": "TISCA 1m Dive Event",
             "path": "20251120-dive",
