@@ -3,13 +3,13 @@ title = 'Booster Info'
 date = 2023-09-15T13:11:50-05:00
 +++
 
-### Booster Club Board 2024-2025  
+### Booster Club Board 2025-2026  
 {{< booster-board >}}
 {{<rawhtml>}}
 <em><a href="mailto:fmhswaterjags@gmail.com">Email the Board: fmhswaterjags@gmail.com</a></em>
 {{</rawhtml>}}
 
-### Booster Club Chairs 2024-2025
+### Booster Club Chairs 2025-2026
 {{< booster-chairs >}}  
 
 ### Links
@@ -22,6 +22,7 @@ date = 2023-09-15T13:11:50-05:00
 ### Booster Club Meeting Materials
 
 #### 2025-2026 Season
+- November 5th, 2025 - {{< target-blank "Board Meeting Minutes" "/meetings/20251105-FMHS_Swim_Dive_Board_Meeting_v2.pdf">}}
 - October 2nd, 2025 - {{< target-blank "Board Meeting Minutes" "/meetings/20251002-FMHS_Swim_Dive_Board_Meeting.pdf">}}
 - September 4th, 2025 - {{< target-blank "Board Meeting Minutes" "/meetings/20250904-FMHS_Swim_Dive_Board_Meeting.pdf">}}
 
