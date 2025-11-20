@@ -50,7 +50,10 @@
             "url": "/meets/20251112-hebron",
             "photos": "https://photos.fmhswaterjags.com/gallery#tJsUW1BVOYlwk2-sD4PRhDzC",
             "location": "WAC",
-            "start": "2025-11-13"
+            "start": "2025-11-13",
+            "results": {
+                "resultspath": "20251112-hebron.pdf"                
+            }
         },
         {   "title": "TISCA",
             "season": "year2026",
