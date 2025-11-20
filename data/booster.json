@@ -9,8 +9,8 @@
             "lname": "Jones",
             "position": "Vice President"
         },{
-            "fname": "Megan",
-            "lname": "Perkins",
+            "fname": "Maddy",
+            "lname": "Iyer",
             "position": "Treasurer"
         },{
             "fname": "Karen",
@@ -24,28 +24,28 @@
     ],
     "chairs": [
         {
-            "fname": "Liz",
-            "lname": "Ballew",
+            "fname": "Amy",
+            "lname": "Kraft",
             "position": "Volunteer Chair"
         },{
-            "fname": "Angelica",
-            "lname": "Ortiz",
+            "fname": "Alexandra",
+            "lname": "Bliss",
             "position": "Spirit Wear"
         },{
-            "fname": "Holly",
-            "lname": "Egan",
+            "fname": "Stephanie",
+            "lname": "Zink",
             "position": "Dive Representative"
-        },{
-            "fname": "Open",
-            "lname": " ",
-            "position": "Meet Meals"
         },{
             "fname": "Sara",
             "lname": "Harshbarger",
             "position": "Banquet Chair"
         },{
-            "fname": "Kayde",
-            "lname": "Weiland",
+            "fname": "Christine",
+            "lname": "Toriz",
+            "position": "Banquet Chair"
+        },{
+            "fname": "Gautham and Hema",
+            "lname": "Sunkara",
             "position": "Senior Night Chair"
         }
     ]
