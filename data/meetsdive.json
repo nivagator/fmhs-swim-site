@@ -60,15 +60,19 @@
             "location": "WAC",
             "start": "2025-11-19",
             "results": {
-                "resultspath": "20251119_3m_tisca_dive.jpeg"
+                "resultspath": "20251119_3m_tisca_dive.pdf"
             }
         },{
             "title": "TISCA 1m Dive Event",
             "path": "20251120-dive",
             "type": "dive-meet",
             "event": "",
+            "url": "/meets/results/20251120-1m-tisca",
             "location": "WAC",
-            "start": "2025-11-20"
+            "start": "2025-11-20",
+            "results": {
+                "resultspath": "20251120_1m_tisca_dive.pdf"
+            }
         },{
             "title": "vs Frisco Reedy",
             "path": "20251204-dive",

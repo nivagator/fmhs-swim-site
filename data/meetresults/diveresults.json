@@ -365,7 +365,14 @@
     "dive20251119": {
         "results": [
             {
-                "resultsdoc": "/results/20251119_3m_tisca_dive.jpeg"
+                "resultsdoc": "/results/20251119_3m_tisca_dive.pdf"
+            }
+        ]
+    },
+    "dive20251120": {
+        "results": [
+            {
+                "resultsdoc": "/results/20251120_1m_tisca_dive.pdf"
             }
         ]
     }
