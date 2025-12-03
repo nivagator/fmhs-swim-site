@@ -264,6 +264,18 @@
         {"type":"file","name":"20251113-hebron_42.jpg"},
         {"type":"file","name":"20251113-hebron_54.jpg"}
       ]
+    },
+    {
+      "name": "TISCA, November 20-21, 2025",
+      "season": "year2026",
+      "path": "20251120-tisca",
+      "url": "https://photos.fmhswaterjags.com/gallery#89BaJlsw_vF-PlXvfdH8Swla",
+      "images": [
+        {"type":"file","name":"20251120-tisca_02.jpg"},
+        {"type":"file","name":"20251120-tisca_15.jpg"},
+        {"type":"file","name":"20251120-tisca_52.jpg"}
+      ]
     }
   ]
 }
+
