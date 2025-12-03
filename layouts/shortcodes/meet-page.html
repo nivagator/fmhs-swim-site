@@ -64,12 +64,18 @@
             {{ end }}
         {{end}}
     {{end}}
-    {{if .results.resultspath }}
-        <object data="/results/{{ .results.resultspath }}" type="application/pdf" width="100%" height="800">
-            <!-- <p><a href="/results/{{ .results.resultspath }}">Download final results PDF</a></p> -->
-        </object>
-        <p><a href="/results/{{ .results.resultspath }}">Download final results PDF</a></p>
-    {{end}}
+    {{ if .results.resultspath }}
+            {{ $paths := .results.resultspath }}
+            {{ if reflect.IsSlice $paths }}
+                {{ range $paths }}
+                    <object data="/results/{{ . }}" type="application/pdf" width="100%" height="800"></object>
+                    <p><a href="/results/{{ . }}">Download final results PDF</a></p>
+                {{ end }}
+            {{ else }}
+                <object data="/results/{{ $paths }}" type="application/pdf" width="100%" height="800"></object>
+                <p><a href="/results/{{ $paths }}">Download final results PDF</a></p>
+            {{ end }}
+        {{ end }}
     {{ else }}
         <p>
             <strong>Date:</strong> 

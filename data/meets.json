@@ -10,32 +10,16 @@
             "location": "WAC",
             "start": "2025-11-06",
             "results": {
-                "resultspath": "20251106-coppell.pdf",
+                "resultspath": ["20251106-coppell.pdf"],
                 "totalscores": [
                     {
                     "girls": [
-                        {
-                            "school": "FMHS",
-                            "points": "270.5",
-                            "place": "1"
-                        },
-                        {
-                            "school": "Coppell",
-                            "points": "198.5",
-                            "place": "2"
-                        }
+                        {"school": "FMHS", "points": "270.5", "place": "1"},
+                        {"school": "Coppell", "points": "198.5", "place": "2"}
                     ],
                     "boys": [
-                        {
-                            "school": "FMHS",
-                            "points": "278",
-                            "place": "1"
-                        },
-                        {
-                            "school": "Coppell",
-                            "points": "202",
-                            "place": "2"
-                        }
+                        {"school": "FMHS", "points": "278", "place": "1"},
+                        {"school": "Coppell", "points": "202", "place": "2"}
                     ]
                     }
                 ]
@@ -52,7 +36,7 @@
             "location": "WAC",
             "start": "2025-11-13",
             "results": {
-                "resultspath": "20251112-hebron.pdf"                
+                "resultspath": ["20251112-hebron.pdf"]                
             }
         },
         {   "title": "TISCA",
@@ -61,9 +45,77 @@
             "type": "meet",
             "event": "",
             "url": "/meets/20251120-tisca",
+            "photos": "https://photos.fmhswaterjags.com/gallery#89BaJlsw_vF-PlXvfdH8Swla",
             "location": "WAC",
             "start": "2025-11-21",
-            "end": "2025-11-22"
+            "end": "2025-11-22",
+            "results": {
+                "resultspath": ["20251120-tisca-prelims.pdf","20251121-tisca-finals.pdf"],
+                "totalscores": [
+                    {
+                    "girls": [
+                        {"place": "1", "school": "Flower Mound", "points": "713.5"},
+                        {"place": "2", "school": "Frisco Reedy", "points": "489"},
+                        {"place": "3", "school": "Coppell", "points": "256"},
+                        {"place": "4", "school": "Allen", "points": "222"},
+                        {"place": "5", "school": "Dallas Bishop Lynch", "points": "180"},
+                        {"place": "6", "school": "Prosper", "points": "164"},
+                        {"place": "7", "school": "Greenhill School ", "points":"152.5"},
+                        {"place": "8", "school": "Prosper Rock Hill", "points": "136"},
+                        {"place": "9", "school": "Arlington Martin", "points": "101"},
+                        {"place": "10", "school": "Plano West", "points": "97"},
+                        {"place": "11", "school": "Dallas Ursaline Academy", "points": "88"},
+                        {"place": "12", "school": "Hebron", "points": "85"},
+                        {"place": "13", "school": "Plano East", "points": "73"},
+                        {"place": "14", "school": "Plano", "points": "65"},
+                        {"place": "15", "school": "Grapevine", "points": "58"},
+                        {"place": "16", "school": "Marcus", "points": "49"},
+                        {"place": "17", "school": "Saginaw", "points": "44"},
+                        {"place": "17", "school": "Colleyville Heritage", "points": "44"},
+                        {"place": "19", "school": "Fort Worth Country Day", "points": "40"},
+                        {"place": "20", "school": "Frisco", "points": "37"},
+                        {"place": "21", "school": "John Paul II", "points": "36"},
+                        {"place": "22", "school": "Fort Worth Paschal", "points": "35"},
+                        {"place": "23", "school": "Christian Home School", "points": "24"},
+                        {"place": "23", "school": "The John Cooper School", "points": "24"},
+                        {"place": "25", "school": "Aledo", "points": "22"},
+                        {"place": "25", "school": "Euless Trinity", "points": "22"},
+                        {"place": "27", "school": "Fort Worth Nolan Catholic", "points": "15"},
+                        {"place": "28", "school": "Garland Rowlett", "points": "14"},
+                        {"place": "29", "school": "North Forney", "points": "6"}
+                    ],
+                    "boys": [
+                        {"place": "1", "school": "Dallas Jesuit", "points": "398 "},
+                        {"place": "2", "school": "Marcus", "points": "321"},
+                        {"place": "3", "school": "Plano", "points": "262 "},
+                        {"place": "4", "school": "Frisco Reedy", "points": "194"},
+                        {"place": "5", "school": "Prosper", "points": "191 "},
+                        {"place": "6", "school": "Fort Worth Paschal", "points": "172"},
+                        {"place": "7", "school": "Allen", "points": "171 "},
+                        {"place": "8", "school": "Garland Sachse", "points": "162"},
+                        {"place": "9", "school": "Coppell", "points": "161 "},
+                        {"place": "10", "school": "Hebron", "points": "156"},
+                        {"place": "11", "school": "Plano East", "points": "142 "},
+                        {"place": "12", "school": "Christian Home School", "points": "132"},
+                        {"place": "13", "school": "Plano West", "points": "126 "},
+                        {"place": "14", "school": "Aledo", "points": "121"},
+                        {"place": "15", "school": "Arlington Martin", "points": "114 "},
+                        {"place": "16", "school": "Flower Mound", "points": "102"},
+                        {"place": "17", "school": "Arlington Lamar", "points": "77 "},
+                        {"place": "18", "school": "Greenhill School", "points": "70"},
+                        {"place": "19", "school": "Frisco", "points": "50 "},
+                        {"place": "20", "school": "Fort Worth Nolan Catholic", "points": "48"},
+                        {"place": "21", "school": "John Paul II", "points": "29 "},
+                        {"place": "22", "school": "22. Garland Rowlett", "points": "25"},
+                        {"place": "23", "school": "The Colony", "points": "18 "},
+                        {"place": "24", "school": "24. Pflugerville Hendrickson", "points": "17"},
+                        {"place": "25", "school": "Colleyville Heritage", "points": "8 "},
+                        {"place": "26", "school": "26. North Garland", "points": "7"},
+                        {"place": "27", "school": "Dallas Bishop Lynch", "points": "5"}
+                    ]
+                    }
+                ]          
+            }
         },
         {
             "title": "vs. Frisco Reedy",
@@ -139,32 +191,16 @@
             "location": "WAC",
             "start": "2024-10-30",
             "results": {
-                "resultspath": "20241030-prosper.pdf",
+                "resultspath": ["20241030-prosper.pdf"],
                 "totalscores": [
                     {
                     "girls": [
-                        {
-                            "school": "FMHS",
-                            "points": "258",
-                            "place": "1"
-                        },
-                        {
-                            "school": "Prosper",
-                            "points": "248",
-                            "place": "2"
-                        }
+                        {"school": "FMHS", "points": "258", "place": "1"},
+                        {"school": "Prosper", "points": "248", "place": "2"}
                     ],
                     "boys": [
-                        {
-                            "school": "Prosper",
-                            "points": "274",
-                            "place": "1"
-                        },
-                        {
-                            "school": "FMHS",
-                            "points": "238",
-                            "place": "2"
-                        }
+                        {"school": "Prosper", "points": "274", "place": "1"},
+                        {"school": "FMHS", "points": "238", "place": "2"}
                     ]
                     }
                 ]
@@ -181,32 +217,16 @@
             "location": "WAC",
             "start": "2024-11-14",
             "results": {
-                "resultspath": "20241114-coppell.pdf",
+                "resultspath": ["20241114-coppell.pdf"],
                 "totalscores": [
                     {
                     "girls": [
-                        {
-                            "school": "FMHS",
-                            "points": "297",
-                            "place": "1"
-                        },
-                        {
-                            "school": "Coppell",
-                            "points": "195",
-                            "place": "2"
-                        }
+                        {"school": "FMHS", "points": "297", "place": "1"},
+                        {"school": "Coppell", "points": "195", "place": "2"}
                     ],
                     "boys": [
-                        {
-                            "school": "FMHS",
-                            "points": "288",
-                            "place": "1"
-                        },
-                        {
-                            "school": "Coppell",
-                            "points": "205",
-                            "place": "2"
-                        }
+                        {"school": "FMHS", "points": "288", "place": "1"},
+                        {"school": "Coppell", "points": "205", "place": "2"}
                     ]
                     }
                 ]
@@ -224,7 +244,7 @@
             "start": "2024-11-21",
             "end": "2024-11-23",
             "results": {
-                "resultspath": "20241121-tisca.pdf",
+                "resultspath": ["20241121-tisca.pdf"],
                 "totalscores": [
                     {
                     "girls": [
@@ -302,7 +322,7 @@
             "location": "WAC",
             "start": "2024-12-04",
             "results": {
-                "resultspath": "20241204-reedy.pdf",
+                "resultspath": ["20241204-reedy.pdf"],
                 "totalscores": [
                     {
                     "girls": [
@@ -329,7 +349,7 @@
             "location": "Frisco",
             "start": "2024-12-13",
             "results": {
-                "resultspath": "20241214-dmc-round-1.pdf",
+                "resultspath": ["20241214-dmc-round-1.pdf"],
                 "totalscores": [
                     {
                     "team": [
@@ -378,7 +398,7 @@
             "location": "Frisco",
             "start": "2024-12-13",
             "results": {
-                "resultspath": "20241214-dmc-round-2.pdf",
+                "resultspath": ["20241214-dmc-round-2.pdf"],
                 "totalscores": [
                     {
                     "team": [
@@ -427,7 +447,7 @@
             "location": "Frisco",
             "start": "2024-12-14",
             "results": {
-                "resultspath": "20241214-dmc-round-3.pdf",
+                "resultspath": ["20241214-dmc-round-3.pdf"],
                 "totalscores": [
                     {
                     "team": [
@@ -476,32 +496,16 @@
             "location": "WAC",
             "start": "2024-12-18",
             "results": {
-                "resultspath": "20241218-marcus.pdf",
+                "resultspath": ["20241218-marcus.pdf"],
                 "totalscores": [
                     {
                     "girls": [
-                        {
-                            "school": "FMHS",
-                            "points": "174",
-                            "place": "1"
-                        },
-                        {
-                            "school": "Marcus",
-                            "points": "82",
-                            "place": "2"
-                        }
+                        {"school": "FMHS", "points": "174", "place": "1"},
+                        {"school": "Marcus", "points": "82", "place": "2"}
                     ],
                     "boys": [
-                        {
-                            "school": "FMHS",
-                            "points": "146",
-                            "place": "1"
-                        },
-                        {
-                            "school": "Marcus",
-                            "points": "103",
-                            "place": "2"
-                        }
+                        {"school": "FMHS", "points": "146", "place": "1"},
+                        {"school": "Marcus", "points": "103", "place": "2"}
                     ]
                     }
                 ]
@@ -519,7 +523,7 @@
             "location": "WAC",
             "start": "2025-01-18",
             "results": {
-                "resultspath": "20250118-kyle-tilley.pdf",
+                "resultspath": ["20250118-kyle-tilley.pdf"],
                 "totalscores": [
                     {
                     "girls": [
@@ -559,7 +563,7 @@
             "location": "WAC",
             "start": "2025-01-24",
             "results": {
-                "resultspath": "20250124-district.pdf",
+                "resultspath": ["20250124-district.pdf"],
                 "totalscores": [
                     {
                     "girls": [
@@ -628,32 +632,16 @@
             "warmupTime": "4:45PM",
             "startTime": "6:00PM",
             "results": {
-                "resultspath": "20230923-plano-west.pdf",
+                "resultspath": ["20230923-plano-west.pdf"],
                 "totalscores": [
                     {
                     "girls": [
-                        {
-                            "school": "FMHS",
-                            "points": "262",
-                            "place": "1"
-                        },
-                        {
-                            "school": "PLWE",
-                            "points": "195",
-                            "place": "2"
-                        }
+                        {"school": "FMHS", "points": "262", "place": "1"},
+                        {"school": "PLWE", "points": "195", "place": "2"}
                     ],
                     "boys": [
-                        {
-                            "school": "FMHS",
-                            "points": "251",
-                            "place": "1"
-                        },
-                        {
-                            "school": "PLWE",
-                            "points": "160",
-                            "place": "2"
-                        }
+                        {"school": "FMHS", "points": "251", "place": "1"},
+                        {"school": "PLWE", "points": "160", "place": "2"}
                     ]
                     }
                 ]
@@ -675,7 +663,7 @@
             "startTime": "6:00PM",
             "heatsheet": "20231024-fmhs_vs_jesuit_ursuline_heat_sheet.pdf",
             "results": {
-                "resultspath": "20231024-jesuit-ursuline.pdf"
+                "resultspath": ["20231024-jesuit-ursuline.pdf"]
             }
         },
         {
@@ -694,32 +682,16 @@
             "startTime": "6:00PM",
             "heatsheet": "20231108-fmhs_vs_coppell_heat_sheet.pdf",
             "results": {
-                "resultspath": "20231109-coppell.pdf",
+                "resultspath": ["20231109-coppell.pdf"],
                 "totalscores": [
                     {
                     "girls": [
-                        {
-                            "school": "FMHS",
-                            "points": "319",
-                            "place": "1"
-                        },
-                        {
-                            "school": "Coppell",
-                            "points": "193",
-                            "place": "2"
-                        }
+                        { "school": "FMHS", "points": "319", "place": "1"},
+                        { "school": "Coppell", "points": "193", "place": "2"}
                     ],
                     "boys": [
-                        {
-                            "school": "FMHS",
-                            "points": "262.5",
-                            "place": "1"
-                        },
-                        {
-                            "school": "Coppell",
-                            "points": "176.5",
-                            "place": "2"
-                        }
+                        { "school": "FMHS", "points": "262.5", "place": "1"},
+                        { "school": "Coppell", "points": "176.5", "place": "2"}
                     ]
                     }
                 ]
@@ -739,7 +711,7 @@
             "start": "2023-11-17",
             "end": "2023-11-18",
             "results": {
-                "resultspath": "20231117-tisca.pdf",
+                "resultspath": ["20231117-tisca.pdf"],
                 "totalscores": [
                     {
                     "girls": [
@@ -826,7 +798,7 @@
             "location": "WAC",
             "start": "2023-11-30",
             "results": {
-                "resultspath": "20231130-frisco-reedy-lhs.pdf"
+                "resultspath": ["20231130-frisco-reedy-lhs.pdf"]
             }
         },
         {
@@ -863,134 +835,38 @@
             "location": "WAC",
             "start": "2024-01-27",
             "results": {
-                "resultspath": "20240127-district.pdf",
+                "resultspath": ["20240127-district.pdf"],
                 "totalscores": [
                     {
                     "girls": [
-                        {
-                            "school": "FMHS",
-                            "points": "174.5",
-                            "place": "1"
-                        },
-                        {
-                            "school": "Coppell",
-                            "points": "113",
-                            "place": "2"
-                        },
-                        {
-                            "school": "Marcus",
-                            "points": "73",
-                            "place": "3"
-                        },
-                        {
-                            "school": "Hebron",
-                            "points": "61.5",
-                            "place": "4"
-                        },
-                        {
-                            "school": "Plano West",
-                            "points": "58",
-                            "place": "5"
-                        },
-                        {
-                            "school": "Plano",
-                            "points": "39.5",
-                            "place": "6"
-                        },
-                        {
-                            "school": "Plano East",
-                            "points": "29.5",
-                            "place": "7"
-                        },
-                        {
-                            "school": "Lewisville",
-                            "points": "4",
-                            "place": "8"
-                        }
+                        {"school": "FMHS", "points": "174.5", "place": "1"},
+                        {"school": "Coppell", "points": "113", "place": "2"},
+                        {"school": "Marcus", "points": "73", "place": "3"},
+                        {"school": "Hebron", "points": "61.5", "place": "4"},
+                        {"school": "Plano West", "points": "58", "place": "5"},
+                        {"school": "Plano", "points": "39.5", "place": "6"},
+                        {"school": "Plano East", "points": "29.5", "place": "7"},
+                        {"school": "Lewisville", "points": "4", "place": "8"}
                     ],
                     "boys": [
-                        {
-                            "school": "FMHS",
-                            "points": "152",
-                            "place": "1"
-                        },
-                        {
-                            "school": "Coppell",
-                            "points": "112",
-                            "place": "2"
-                        },
-                        {
-                            "school": "Marcus",
-                            "points": "110",
-                            "place": "3"
-                        },
-                        {
-                            "school": "Plano",
-                            "points": "47",
-                            "place": "4"
-                        },
-                        {
-                            "school": "Hebron",
-                            "points": "37",
-                            "place": "5"
-                        },
-                        {
-                            "school": "Plano West",
-                            "points": "35",
-                            "place": "6"
-                        },
-                        {
-                            "school": "Plano East",
-                            "points": "33",
-                            "place": "7"
-                        },
-                        {
-                            "school": "Lewisville",
-                            "points": "7",
-                            "place": "8"
-                        }
+                        {"school": "FMHS", "points": "152", "place": "1"},
+                        {"school": "Coppell", "points": "112", "place": "2"},
+                        {"school": "Marcus", "points": "110", "place": "3"},
+                        {"school": "Plano", "points": "47", "place": "4"},
+                        {"school": "Hebron", "points": "37", "place": "5"},
+                        {"school": "Plano West", "points": "35", "place": "6"},
+                        {"school": "Plano East", "points": "33", "place": "7"},
+                        {"school": "Lewisville", "points": "7", "place": "8"}
                     ],
                     "team": [
-                        {
-                            "school": "FMHS",
-                            "points": "326.5",
-                            "place": "1"
-                        },
-                        {
-                            "school": "Coppell",
-                            "points": "225",
-                            "place": "2"
-                        },
-                        {
-                            "school": "Marcus",
-                            "points": "183",
-                            "place": "3"
-                        },
-                        {
-                            "school": "Hebron",
-                            "points": "98.5",
-                            "place": "4"
-                        },
-                        {
-                            "school": "Plano West",
-                            "points": "93",
-                            "place": "5"
-                        },
-                        {
-                            "school": "Plano",
-                            "points": "86.5",
-                            "place": "6"
-                        },
-                        {
-                            "school": "Plano East",
-                            "points": "62.5",
-                            "place": "7"
-                        },
-                        {
-                            "school": "Lewisville",
-                            "points": "11",
-                            "place": "8"
-                        }
+                        {"school": "FMHS", "points": "326.5", "place": "1"},
+                        {"school": "Coppell", "points": "225", "place": "2"},
+                        {"school": "Marcus", "points": "183", "place": "3"},
+                        {"school": "Hebron", "points": "98.5", "place": "4"},
+                        {"school": "Plano West", "points": "93", "place": "5"},
+                        {"school": "Plano", "points": "86.5", "place": "6"},
+                        {"school": "Plano East", "points": "62.5", "place": "7"},
+                        {"school": "Lewisville", "points": "11", "place": "8"}
                     ]
                     }
                 ]
@@ -1009,7 +885,7 @@
             "start": "2024-02-09",
             "end": "2024-02-10",
             "results": {
-                "resultspath": "20240209-regionals.pdf",
+                "resultspath": ["20240209-regionals.pdf"],
                 "totalscores": [
                     {
                     "girls": [
