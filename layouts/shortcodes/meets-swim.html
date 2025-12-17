@@ -43,6 +43,9 @@
           {{ if .results }}
               <a href="{{.url}}">Final Results</a>
           {{ end }}
+          {{ if .cancelled }}
+              Cancelled
+          {{ end }}
           <!-- {{ if (and .results .photos)}}
            | 
           {{ end }} -->
