@@ -375,5 +375,12 @@
                 "resultsdoc": "/results/20251120_1m_tisca_dive.pdf"
             }
         ]
+    },
+    "dive20251211": {
+        "results": [
+            {
+                "resultsdoc": "/results/20251211-dive.pdf"
+            }
+        ]
     }
 }

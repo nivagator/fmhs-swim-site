@@ -85,8 +85,12 @@
             "path": "20251211-dive",
             "type": "dive-meet",
             "event": "",
+            "url": "/meets/results/20251211-dive",
             "location": "WAC",
-            "start": "2025-12-11"
+            "start": "2025-12-11",
+            "results": {
+                "resultspath": "20251211-dive.pdf"
+            }
         },{
             "title": "Kyle Tilley Dive Invitational",
             "path": "20260116-dive",
