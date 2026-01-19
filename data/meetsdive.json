@@ -96,8 +96,11 @@
             "path": "20260116-dive",
             "type": "dive-meet",
             "event": "",
+            "url": "/meets/results/20260116-kyle-tilley-dive",
             "location": "WAC",
-            "start": "2026-01-16"
+            "start": "2026-01-16","results": {
+                "resultspath": "20250116-kyle-tilley-dive.pdf"
+            }
         },{
             "title": "6A District 6 Championships",
             "path": "20260122-dive",
