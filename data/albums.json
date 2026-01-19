@@ -275,6 +275,17 @@
         {"type":"file","name":"20251120-tisca_15.jpg"},
         {"type":"file","name":"20251120-tisca_52.jpg"}
       ]
+    },
+    {
+      "name": "Marcus & Hebron - Senior Night, December 17, 2025",
+      "season": "year2026",
+      "path": "20251217-marcus",
+      "url": "https://photos.fmhswaterjags.com/gallery#7ZmniksdbuBLfLaWvChju5TY",
+      "images": [
+        {"type":"file","name":"20251217-marcus_031.jpg"},
+        {"type":"file","name":"20251217-marcus_049.jpg"},
+        {"type":"file","name":"20251217-marcus_103.jpg"}
+      ]
     }
   ]
 }
