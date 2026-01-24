@@ -98,7 +98,8 @@
             "event": "",
             "url": "/meets/results/20260116-kyle-tilley-dive",
             "location": "WAC",
-            "start": "2026-01-16","results": {
+            "start": "2026-01-16",
+            "results": {
                 "resultspath": "20250116-kyle-tilley-dive.pdf"
             }
         },{
@@ -106,8 +107,12 @@
             "path": "20260122-dive",
             "type": "dive-meet",
             "event": "",
+            "url": "/meets/results/20260123-district-dive",
             "location": "WAC",
-            "start": "2026-01-22"
+            "start": "2026-01-22",
+            "results": {
+                "resultspath": "20250123-district-dive.pdf"
+            }
         },{
             "title": "6A Region 2 Dive Championships",
             "path": "20260205-dive",
