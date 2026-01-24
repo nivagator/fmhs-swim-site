@@ -183,9 +183,18 @@
       "path": "20250118-kyle-tilley",
       "url": "https://photos.fmhswaterjags.com/gallery#WiHs2270ZwAOhSEnVz7jnOLy",
       "images": [
-        {"type":"file","name":"20250118-kyle-tilley-02.jpg"},
-        {"type":"file","name":"20250118-kyle-tilley-12.jpg"},
-        {"type":"file","name":"20250118-kyle-tilley-35.jpg"}
+        {
+          "type": "file",
+          "name": "20250118-kyle-tilley-02.jpg"
+        },
+        {
+          "type": "file",
+          "name": "20250118-kyle-tilley-12.jpg"
+        },
+        {
+          "type": "file",
+          "name": "20250118-kyle-tilley-35.jpg"
+        }
       ]
     },
     {
@@ -194,9 +203,18 @@
       "path": "20250124-district",
       "url": "https://photos.fmhswaterjags.com/gallery#t0xXI9B2_-Sr0X6Beakv-8Lo",
       "images": [
-        {"type":"file","name":"20250124-district-040.jpg"},
-        {"type":"file","name":"20250124-district-054.jpg"},
-        {"type":"file","name":"20250124-district-014.jpg"}
+        {
+          "type": "file",
+          "name": "20250124-district-040.jpg"
+        },
+        {
+          "type": "file",
+          "name": "20250124-district-054.jpg"
+        },
+        {
+          "type": "file",
+          "name": "20250124-district-014.jpg"
+        }
       ]
     },
     {
@@ -286,7 +304,17 @@
         {"type":"file","name":"20251217-marcus_049.jpg"},
         {"type":"file","name":"20251217-marcus_103.jpg"}
       ]
+    },
+    {
+      "name": "Kyle Tilley, January 17, 2026",
+      "season": "year2026",
+      "path": "20260117-kyle-tilley",
+      "url": "https://photos.fmhswaterjags.com/gallery#xgdvkTAsfnSfaeb0ZfkxSf9_",
+      "images": [
+        {"type":"file","name":"20260117-kyle-tilley_44.jpg"},
+        {"type":"file","name":"20260117-kyle-tilley_39.jpg"},
+        {"type":"file","name":"20260117-kyle-tilley_58.jpg"}
+      ]
     }
   ]
 }
-

@@ -137,7 +137,10 @@
             "url": "/meets/20251217-marcus",
             "photos": "https://photos.fmhswaterjags.com/gallery#7ZmniksdbuBLfLaWvChju5TY",
             "location": "WAC",
-            "start": "2025-12-17"
+            "start": "2025-12-17",
+            "results": {
+                "resultspath": ["20251217-marcus.pdf"]                
+            }
         },
         {
             "title": "Kyle Tilley Invitational",
@@ -145,9 +148,35 @@
             "path": "20260117-kyle-tilley",
             "type": "meet",
             "event": "",
+            "photos": "https://photos.fmhswaterjags.com/gallery#xgdvkTAsfnSfaeb0ZfkxSf9_",
             "url": "/meets/20260117-kyle-tilley",
             "location": "WAC",
-            "start": "2026-01-17"
+            "start": "2026-01-17",
+            "results": {
+                "resultspath": ["20260117-kyle-tilley.pdf"],
+                "totalscores": [
+                    {
+                    "girls": [
+                        {"place": "1", "school": "Lewisville Flower Mound", "points": "608.5"},
+                        {"place": "2", "school": "Plano Senior High School", "points": "310"},
+                        {"place": "3", "school": "Lewisville Marcus", "points": "226.5"},
+                        {"place": "4", "school": "Plano East Senior High School", "points": "169"},
+                        {"place": "5", "school": "Plano West", "points": "145"},
+                        {"place": "6", "school": "Lewisville", "points": "125"}
+                    ],
+                    "boys": [
+                        {"place": "1", "school": "Lewisville Marcus", "points":"503"},
+                        {"place": "2", "school": "Lewisville Flower Mound", "points":"475"},
+                        {"place": "3", "school": "Plano Senior High School", "points":"323"},
+                        {"place": "4", "school": "Plano East Senior High School", "points":"239"},
+                        {"place": "5", "school": "Plano West", "points":"136"},
+                        {"place": "6", "school": "Lewisville", "points":"85"},
+                        {"place": "7", "school": "Lewisville Hebron", "points":"24"}
+                    ]
+                    }
+                ]
+                                
+            }
         },
         {
             "title": "District Championships",
