@@ -315,6 +315,17 @@
         {"type":"file","name":"20260117-kyle-tilley_39.jpg"},
         {"type":"file","name":"20260117-kyle-tilley_58.jpg"}
       ]
+    },
+    {
+      "name": "District Meet, January 23, 2026",
+      "season": "year2026",
+      "path": "20260123-district",
+      "url": "https://photos.fmhswaterjags.com/gallery#ZiYPYWdqdzbu25doABCUyYRI",
+      "images": [
+        {"type":"file","name":"20260123-district_003.jpg"},
+        {"type":"file","name":"20260123-district_050.jpg"},
+        {"type":"file","name":"20260123-district_143.jpg"}
+      ]
     }
   ]
 }
