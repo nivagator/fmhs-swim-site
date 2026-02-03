@@ -187,8 +187,36 @@
             "photos": "https://photos.fmhswaterjags.com/gallery#ZiYPYWdqdzbu25doABCUyYRI",
             "url": "/meets/20260123-district",
             "location": "WAC",
-            "start": "2026-01-23"
+            "start": "2026-01-23",
+            "results": {
+                "resultspath": ["20260123-district.pdf"],       
+                "totalscores": [
+                    {
+                    "girls": [
+                        {"place": "1", "school": "FMHS", "points": "241"},
+                        {"place": "2", "school": "Coppell", "points": " 82"},
+                        {"place": "3", "school": "Plano West", "points": "59"},
+                        {"place": "4", "school": "Hebron", "points": " 51"},
+                        {"place": "5", "school": "Plano", "points": "41"},
+                        {"place": "6", "school": "Marcus", "points": " 40"},
+                        {"place": "7", "school": "Plano East", "points": "35"},
+                        {"place": "8", "school": "Lewisville", "points": " 6"}
+                    ],
+                    "boys": [
+                        {"place": "1", "school": "Marcus", "points": "115"},
+                        {"place": "2", "school": "Plano", "points": "104"},
+                        {"place": "3", "school": "FMHS", "points": "66"},
+                        {"place": "4", "school": "Plano East", "points": "64"},
+                        {"place": "5", "school": "Plano West", "points": "63"},
+                        {"place": "5", "school": "Coppell", "points": "63"},
+                        {"place": "7", "school": "Hebron", "points": "55"},
+                        {"place": "8", "school": "Lewisville", "points": "13"}
+                    ]
+                    }
+                ]        
+            }
         },
+        
         {
             "title": "Region Championships",
             "season": "year2026",
