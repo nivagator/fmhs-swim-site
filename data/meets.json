@@ -216,17 +216,80 @@
                 ]        
             }
         },
-        
         {
-            "title": "Region Championships",
+            "title": "Region Championship Prelims",
             "season": "year2026",
-            "path": "20260206-regionals",
+            "path": "20260206-region-prelims",
             "type": "meet",
             "event": "",
-            "url": "/meets/20260206-regionals",
+            "url": "/meets/20260206-region-prelims",
             "location": "WAC",
             "start": "2026-02-06",
-            "end": "2026-02-07"
+            "results": {
+                "resultspath": ["20260206-region-prelims.pdf"]   
+            }
+        },
+        {
+            "title": "Region Championship Finals",
+            "season": "year2026",
+            "path": "20260207-region-finals",
+            "type": "meet",
+            "event": "",
+            "url": "/meets/20260207-region-finals",
+            "location": "WAC",
+            "start": "2026-02-07",
+            "results": {
+                "resultspath": ["20260207-region-finals.pdf"],       
+                "totalscores": [
+                    {
+                    "girls": [
+                        {"place":"1", "school":"FMHS", "points": "513"},
+                        {"place":"2", "school":"Allen", "points": "259"},
+                        {"place":"3", "school":"Arlington Martin", "points": "215.5"},
+                        {"place":"4", "school":"Prosper", "points": "208"},
+                        {"place":"5", "school":"Coppell", "points": "204"},
+                        {"place":"6", "school":"Richardson Pearce", "points": "152"},
+                        {"place":"7", "school":"Plano West", "points": "137 "},
+                        {"place":"8", "school":"Prosper Rock Hill", "points": "131"},
+                        {"place":"9", "school":"Richardson", "points": "83 "},
+                        {"place":"10", "school":"Hebron", "points": "74.5"},
+                        {"place":"11", "school":"Marcus", "points": "73"},
+                        {"place":"12", "school":"Plano", "points": "68"},
+                        {"place":"13", "school":"Denton Guyer", "points": "55"},
+                        {"place":"14", "school":"Plano East", "points": "48"},
+                        {"place":"15", "school":"McKinney", "points": "36"},
+                        {"place":"16", "school":"Richardson Lake Highlands", "points": "28"},
+                        {"place":"17", "school":"McKinney Boyd", "points": "10"},
+                        {"place":"17", "school":"Arlington Bowie", "points": "10"},
+                        {"place":"19", "school":"Irving MacArthur", "points": "4"},
+                        {"place":"20", "school":"Arlington Sam Houston", "points": "2"}
+                    ],
+                    "boys": [
+                        {"place":"1", "school":"Dallas Jesuit College Prep", "points": "353"},
+                        {"place":"2", "school":"Marcus", "points": "219"},
+                        {"place":"3", "school":"Allen", "points":"216.5"},
+                        {"place":"4", "school":"Richardson Pearce", "points": "205"},
+                        {"place":"5", "school":"Plano", "points": "201"},
+                        {"place":"6", "school":"Prosper", "points": "200"},
+                        {"place":"7", "school":"Coppell", "points": "138"},
+                        {"place":"8", "school":"McKinney", "points": "128"},
+                        {"place":"9", "school":"Plano East", "points": "114"},
+                        {"place":"10", "school":"FMHS", "points": "90"},
+                        {"place":"11", "school":"Hebron", "points": "84"},
+                        {"place":"12", "school":"Plano West", "points":"76.5"},
+                        {"place":"13", "school":"Arlington Martin", "points": "76"},
+                        {"place":"14", "school":"Arlington Lamar", "points": "66"},
+                        {"place":"15", "school":"Richardson", "points": "39"},
+                        {"place":"16", "school":"McKinney Boyd", "points": "30"},
+                        {"place":"17", "school":"Arlington Bowie", "points": "21"},
+                        {"place":"18", "school":"Denton Braswell", "points": "10"},
+                        {"place":"18", "school":"Prosper Rock Hill", "points": "10"},
+                        {"place":"20", "school":"Richardson Lake Highlands", "points": "7"},
+                        {"place":"21", "school":"Arlington", "points": "2"}
+                    ]
+                    }
+                ]  
+            }
         },
         {
             "title": "State Championships",
