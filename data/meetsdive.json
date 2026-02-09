@@ -111,15 +111,19 @@
             "location": "WAC",
             "start": "2026-01-22",
             "results": {
-                "resultspath": "20250123-district-dive.pdf"
+                "resultspath": "20260123-district-dive.pdf"
             }
         },{
             "title": "6A Region 2 Dive Championships",
             "path": "20260205-dive",
             "type": "dive-meet",
             "event": "",
+            "url": "/meets/results/20260205-region-dive",
             "location": "WAC",
-            "start": "2026-02-05"
+            "start": "2026-02-05",
+            "results": {
+                "resultspath": "20260205-region-dive.pdf"
+            }
         },{
             "title": "State Championships",
             "path": "20260219-dive",
