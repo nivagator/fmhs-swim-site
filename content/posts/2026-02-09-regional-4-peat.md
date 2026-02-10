@@ -3,7 +3,8 @@ title = '2026 Region Champs'
 date = 2026-02-09T07:36:32-05:00
 +++
 # FMHS Girls win 6A Region II for 4th consecutive year!
-![](/img/20260207-girls-regional-4-peat.jpg)
+###  [Flower Mound Leader: Just keep swimming: Flower Mound girls 4-peat, Allen impresses at Region II-6A swim meet](https://starlocalmedia.com/theleader/sports/flower-mound-girls-swim-team-wins-region-championship-again/article_d6c53188-4403-46be-a4ce-af3b7c9255a7.html)
+[![](/img/20260207-girls-regional-4-peat.jpg)](https://starlocalmedia.com/theleader/sports/flower-mound-girls-swim-team-wins-region-championship-again/article_d6c53188-4403-46be-a4ce-af3b7c9255a7.html)
 
 ### FMHS Boys Placed 10th!
 ![2026 boys district 3rd](/img/20260207-boys-region-10th.jpg) 
@@ -38,3 +39,4 @@ date = 2026-02-09T07:36:32-05:00
 </script>
 <img src="/img/albums/20250208-region-finals/gallery/FMHSswim.region-381.jpg" id="20260207photos" height="400" width="500"/>
 {{</rawhtml>}}
+
