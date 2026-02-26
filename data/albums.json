@@ -326,6 +326,17 @@
         {"type":"file","name":"20260123-district_050.jpg"},
         {"type":"file","name":"20260123-district_143.jpg"}
       ]
+    },
+    {
+      "name": "Region Meet, February 6-7, 2026",
+      "season": "year2026",
+      "path": "20260207-region",
+      "url": "https://photos.fmhswaterjags.com/gallery#hbNEGt6hvgZ9DNPHnotVLaDg",
+      "images": [
+        {"type":"file","name":"20260207-region_008.jpg"},
+        {"type":"file","name":"20260207-region_095.jpg"},
+        {"type":"file","name":"20260207-region_114.jpg"}
+      ]
     }
   ]
 }
