@@ -2,7 +2,6 @@
 title = '2025-2026 Season Archive'
 date = 2025-08-18T21:33:18-05:00
 tags = [ "archive" ]
-draft = true
 +++
 <!-- insert season recap -->
 
