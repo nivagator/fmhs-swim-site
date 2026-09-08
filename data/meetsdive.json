@@ -1,4 +1,95 @@
 {
+    "year2027": [
+        {
+            "title": "Synchro Meet",
+            "path": "20260919-dive",
+            "type": "dive-meet",
+            "event": "",
+            "location": "WAC",
+            "start": "2026-09-19"
+        },{
+            "title": "Garland Invite",
+            "path": "20260925-dive",
+            "type": "dive-meet",
+            "event": "",
+            "location": "GISD Natatorium",
+            "start": "2026-09-25"
+        },
+        {
+            "title": "Intrasquad",
+            "path": "20261009-dive",
+            "type": "dive-meet",
+            "event": "",
+            "location": "WAC/EAC",
+            "start": "2026-10-09"
+        },
+        {
+            "title": "Texas A&M Meet",
+            "path": "20261106-dive",
+            "type": "dive-meet",
+            "event": "",
+            "location": "Texas A&M",
+            "start": "2026-11-06",
+            "end": "2026-11-07"
+        },
+        {
+            "title": "TISCA Dive",
+            "path": "20261119-dive",
+            "type": "dive-meet",
+            "event": "",
+            "location": "WAC",
+            "start": "2026-11-19"
+        },
+        {
+            "title": "vs Frisco Reedy",
+            "path": "20261203-dive",
+            "type": "dive-meet",
+            "event": "",
+            "location": "WAC",
+            "start": "2026-12-03"
+        },
+        {
+            "title": "vs Marcus",
+            "path": "20261210-dive",
+            "type": "dive-meet",
+            "event": "Senior Night",
+            "location": "WAC",
+            "start": "2026-12-10"
+        },
+        {
+            "title": "Kyle Tilley Invitational",
+            "path": "20270115-dive",
+            "type": "dive-meet",
+            "event": "",
+            "location": "WAC",
+            "start": "2027-01-15"
+        },
+        {
+            "title": "District Championship",
+            "path": "20270121-dive",
+            "type": "dive-meet",
+            "event": "",
+            "location": "WAC",
+            "start": "2027-01-21"
+        },
+        {
+            "title": "Region Championship",
+            "path": "20270204-dive",
+            "type": "dive-meet",
+            "event": "",
+            "location": "WAC",
+            "start": "2027-02-04"
+        },
+        {
+            "title": "State Championship",
+            "path": "20270218-dive",
+            "type": "dive-meet",
+            "event": "",
+            "location": "Texas A&M",
+            "start": "2027-02-18",
+            "end": "2027-02-20"
+        }
+    ],
     "year2026": [
         {
             "title": "Relay/Synchro Dive Invite",
