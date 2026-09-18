@@ -17,7 +17,6 @@
                 {"fname": "Arianna", "lname": "Smith"},
                 {"fname": "Tessa", "lname": "Toriz"},
                 {"fname": "Levi", "lname": "Woon"}
-
             ]
         },
         {
@@ -49,7 +48,9 @@
                 {"fname": "Rayssa", "lname": "Villar"},
                 {"fname": "Kylie", "lname": "Vo"},
                 {"fname": "Khloe", "lname": "Wilberger"},
-                {"fname": "Keesin", "lname": "Zink"}
+                {"fname": "Keesin", "lname": "Zink"},
+                {"fname": "Galilee", "lname": "Ackman"},
+                {"fname": "Hangyeol", "lname": "Kim"}
             ]
         },
         {
@@ -101,7 +102,8 @@
                 {"fname": "Macaleb", "lname": "Thompson"},
                 {"fname": "Ayaan", "lname": "Vakil"},
                 {"fname": "Ashlyn", "lname": "Yarborough"},
-                {"fname": "Marko", "lname": "Zbyvatel"}
+                {"fname": "Marko", "lname": "Zbyvatel"},
+                {"fname": "Diya", "lname": "Mukundh"}
             ]
         }
     ],
