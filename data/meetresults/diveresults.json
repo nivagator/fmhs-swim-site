@@ -403,5 +403,12 @@
                 "resultsdoc": "/results/20260205-region-dive.pdf"
             }
         ]
+    },
+    "dive20260925": {
+        "results": [
+            {
+                "resultsdoc": "/results/20260925-garland-dive.pdf"
+            }
+        ]
     }
 }

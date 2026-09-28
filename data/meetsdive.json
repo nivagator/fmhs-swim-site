@@ -12,8 +12,12 @@
             "path": "20260925-dive",
             "type": "dive-meet",
             "event": "",
+            "url": "/meets/results/20260925-garland-dive",
             "location": "GISD Natatorium",
-            "start": "2026-09-25"
+            "start": "2026-09-25",
+            "results": {
+                "resultspath": "20260925-garland-dive.pdf"
+            }
         },
         {
             "title": "Intrasquad",
